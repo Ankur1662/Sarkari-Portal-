@@ -1,0 +1,1395 @@
+[
+  {
+    "id": "log-cfg-1792318746849",
+    "timestamp": "2026-10-18T10:19:06.849Z",
+    "level": "info",
+    "action": "CONFIG_UPDATED",
+    "details": "Automation settings updated. Auto-Publish is currently: DISABLED."
+  },
+  {
+    "id": "log-cfg-1792318730563",
+    "timestamp": "2026-10-18T10:18:50.563Z",
+    "level": "info",
+    "action": "CONFIG_UPDATED",
+    "details": "Automation settings updated. Auto-Publish is currently: DISABLED."
+  },
+  {
+    "id": "log-cfg-1792318670563",
+    "timestamp": "2026-10-18T10:17:50.563Z",
+    "level": "info",
+    "action": "CONFIG_UPDATED",
+    "details": "Automation settings updated. Auto-Publish is currently: DISABLED."
+  },
+  {
+    "id": "log-cfg-1792318610562",
+    "timestamp": "2026-10-18T10:16:50.562Z",
+    "level": "info",
+    "action": "CONFIG_UPDATED",
+    "details": "Automation settings updated. Auto-Publish is currently: DISABLED."
+  },
+  {
+    "id": "log-cfg-1792318550560",
+    "timestamp": "2026-10-18T10:15:50.560Z",
+    "level": "info",
+    "action": "CONFIG_UPDATED",
+    "details": "Automation settings updated. Auto-Publish is currently: DISABLED."
+  },
+  {
+    "id": "log-cfg-1792318490559",
+    "timestamp": "2026-10-18T10:14:50.559Z",
+    "level": "info",
+    "action": "CONFIG_UPDATED",
+    "details": "Automation settings updated. Auto-Publish is currently: DISABLED."
+  },
+  {
+    "id": "log-cfg-1792318430558",
+    "timestamp": "2026-10-18T10:13:50.558Z",
+    "level": "info",
+    "action": "CONFIG_UPDATED",
+    "details": "Automation settings updated. Auto-Publish is currently: DISABLED."
+  },
+  {
+    "id": "log-cfg-1792318370556",
+    "timestamp": "2026-10-18T10:12:50.556Z",
+    "level": "info",
+    "action": "CONFIG_UPDATED",
+    "details": "Automation settings updated. Auto-Publish is currently: DISABLED."
+  },
+  {
+    "id": "log-cfg-1792318310556",
+    "timestamp": "2026-10-18T10:11:50.556Z",
+    "level": "info",
+    "action": "CONFIG_UPDATED",
+    "details": "Automation settings updated. Auto-Publish is currently: DISABLED."
+  },
+  {
+    "id": "log-cfg-1792318250555",
+    "timestamp": "2026-10-18T10:10:50.555Z",
+    "level": "info",
+    "action": "CONFIG_UPDATED",
+    "details": "Automation settings updated. Auto-Publish is currently: DISABLED."
+  },
+  {
+    "id": "log-cfg-1792318195555",
+    "timestamp": "2026-10-18T10:09:55.555Z",
+    "level": "info",
+    "action": "CONFIG_UPDATED",
+    "details": "Automation settings updated. Auto-Publish is currently: DISABLED."
+  },
+  {
+    "id": "log-cfg-1792318164720",
+    "timestamp": "2026-10-18T10:09:24.720Z",
+    "level": "info",
+    "action": "CONFIG_UPDATED",
+    "details": "Automation settings updated. Auto-Publish is currently: DISABLED."
+  },
+  {
+    "id": "log-cfg-1792318104719",
+    "timestamp": "2026-10-18T10:08:24.719Z",
+    "level": "info",
+    "action": "CONFIG_UPDATED",
+    "details": "Automation settings updated. Auto-Publish is currently: DISABLED."
+  },
+  {
+    "id": "log-cfg-1792318044718",
+    "timestamp": "2026-10-18T10:07:24.718Z",
+    "level": "info",
+    "action": "CONFIG_UPDATED",
+    "details": "Automation settings updated. Auto-Publish is currently: DISABLED."
+  },
+  {
+    "id": "log-cfg-1792317984718",
+    "timestamp": "2026-10-18T10:06:24.718Z",
+    "level": "info",
+    "action": "CONFIG_UPDATED",
+    "details": "Automation settings updated. Auto-Publish is currently: DISABLED."
+  },
+  {
+    "id": "log-cfg-1792317924717",
+    "timestamp": "2026-10-18T10:05:24.717Z",
+    "level": "info",
+    "action": "CONFIG_UPDATED",
+    "details": "Automation settings updated. Auto-Publish is currently: DISABLED."
+  },
+  {
+    "id": "log-cfg-1792317864717",
+    "timestamp": "2026-10-18T10:04:24.717Z",
+    "level": "info",
+    "action": "CONFIG_UPDATED",
+    "details": "Automation settings updated. Auto-Publish is currently: DISABLED."
+  },
+  {
+    "id": "log-cfg-1792317827713",
+    "timestamp": "2026-10-18T10:03:47.713Z",
+    "level": "info",
+    "action": "CONFIG_UPDATED",
+    "details": "Automation settings updated. Auto-Publish is currently: DISABLED."
+  },
+  {
+    "id": "log-notif-1792317826912",
+    "timestamp": "2026-10-18T10:03:46.912Z",
+    "level": "success",
+    "action": "NEW_NOTICE_DETECTED",
+    "details": "Detected new notice \"Institute of Banking Personnel Selection (IBPS) Recruitment and Selection Notice 2026\" from IBPS. Status: verification-required.",
+    "sourceId": "src-ibps-in",
+    "noticeId": "notif-1792317826346-jxmt"
+  },
+  {
+    "id": "log-notif-1792317825333",
+    "timestamp": "2026-10-18T10:03:45.333Z",
+    "level": "success",
+    "action": "NEW_NOTICE_DETECTED",
+    "details": "Detected new notice \"Uttar Pradesh Public Service Commission (UPPSC) Recruitment and Selection Notice 2026\" from UPPSC. Status: verification-required.",
+    "sourceId": "src-uppsc-up-nic",
+    "noticeId": "notif-1792317824664-ye5n"
+  },
+  {
+    "id": "log-notif-1792317823270",
+    "timestamp": "2026-10-18T10:03:43.270Z",
+    "level": "success",
+    "action": "NEW_NOTICE_DETECTED",
+    "details": "Detected new notice \"Bihar Public Service Commission (BPSC) Recruitment and Selection Notice 2026\" from BPSC. Status: verification-required.",
+    "sourceId": "src-bpsc-bih-nic",
+    "noticeId": "notif-1792317822657-ktcs"
+  },
+  {
+    "id": "log-notif-1792317818854",
+    "timestamp": "2026-10-18T10:03:38.854Z",
+    "level": "success",
+    "action": "NEW_NOTICE_DETECTED",
+    "details": "Detected new notice \"UP Police Recruitment & Promotion Board (UPPRPB) Recruitment and Selection Notice 2026\" from UP Police. Status: verification-required.",
+    "sourceId": "src-uppbpb-gov",
+    "noticeId": "notif-1792317818277-nz76"
+  },
+  {
+    "id": "log-notif-1792317817009",
+    "timestamp": "2026-10-18T10:03:37.009Z",
+    "level": "success",
+    "action": "NEW_NOTICE_DETECTED",
+    "details": "Detected new notice \"RRB Technician Grade-I (Signal) and Grade-III Recruitment CEN 02/2026\" from RRB. Status: verification-required.",
+    "sourceId": "src-rrb-gov",
+    "noticeId": "notif-1792317816350-bbnv"
+  },
+  {
+    "id": "log-notif-1792317815324",
+    "timestamp": "2026-10-18T10:03:35.324Z",
+    "level": "success",
+    "action": "NEW_NOTICE_DETECTED",
+    "details": "Detected new notice \"UPSC Combined Defence Services (CDS-II) Examination 2026 Notification\" from UPSC. Status: verification-required.",
+    "sourceId": "src-upsc-gov",
+    "noticeId": "notif-1792317814694-z8vl"
+  },
+  {
+    "id": "log-notif-1792317810891",
+    "timestamp": "2026-10-18T10:03:30.891Z",
+    "level": "success",
+    "action": "NEW_NOTICE_DETECTED",
+    "details": "Detected new notice \"SSC Combined Higher Secondary (10+2) Level CHSL 2026 Notification\" from SSC. Status: verification-required.",
+    "sourceId": "src-ssc-gov",
+    "noticeId": "notif-1792317810261-7d3p"
+  },
+  {
+    "id": "log-cfg-1792292621734",
+    "timestamp": "2026-10-18T03:03:41.734Z",
+    "level": "info",
+    "action": "CONFIG_UPDATED",
+    "details": "Automation settings updated. Auto-Publish is currently: DISABLED."
+  },
+  {
+    "id": "log-cfg-1792292561732",
+    "timestamp": "2026-10-18T03:02:41.732Z",
+    "level": "info",
+    "action": "CONFIG_UPDATED",
+    "details": "Automation settings updated. Auto-Publish is currently: DISABLED."
+  },
+  {
+    "id": "log-cfg-1792292501731",
+    "timestamp": "2026-10-18T03:01:41.731Z",
+    "level": "info",
+    "action": "CONFIG_UPDATED",
+    "details": "Automation settings updated. Auto-Publish is currently: DISABLED."
+  },
+  {
+    "id": "log-cfg-1792292441730",
+    "timestamp": "2026-10-18T03:00:41.730Z",
+    "level": "info",
+    "action": "CONFIG_UPDATED",
+    "details": "Automation settings updated. Auto-Publish is currently: DISABLED."
+  },
+  {
+    "id": "log-cfg-1792292381730",
+    "timestamp": "2026-10-18T02:59:41.730Z",
+    "level": "info",
+    "action": "CONFIG_UPDATED",
+    "details": "Automation settings updated. Auto-Publish is currently: DISABLED."
+  },
+  {
+    "id": "log-cfg-1792292321729",
+    "timestamp": "2026-10-18T02:58:41.729Z",
+    "level": "info",
+    "action": "CONFIG_UPDATED",
+    "details": "Automation settings updated. Auto-Publish is currently: DISABLED."
+  },
+  {
+    "id": "log-cfg-1792292261728",
+    "timestamp": "2026-10-18T02:57:41.728Z",
+    "level": "info",
+    "action": "CONFIG_UPDATED",
+    "details": "Automation settings updated. Auto-Publish is currently: DISABLED."
+  },
+  {
+    "id": "log-cfg-1792292201727",
+    "timestamp": "2026-10-18T02:56:41.727Z",
+    "level": "info",
+    "action": "CONFIG_UPDATED",
+    "details": "Automation settings updated. Auto-Publish is currently: DISABLED."
+  },
+  {
+    "id": "log-cfg-1792292141726",
+    "timestamp": "2026-10-18T02:55:41.726Z",
+    "level": "info",
+    "action": "CONFIG_UPDATED",
+    "details": "Automation settings updated. Auto-Publish is currently: DISABLED."
+  },
+  {
+    "id": "log-cfg-1792292081725",
+    "timestamp": "2026-10-18T02:54:41.725Z",
+    "level": "info",
+    "action": "CONFIG_UPDATED",
+    "details": "Automation settings updated. Auto-Publish is currently: DISABLED."
+  },
+  {
+    "id": "log-cfg-1792292021723",
+    "timestamp": "2026-10-18T02:53:41.723Z",
+    "level": "info",
+    "action": "CONFIG_UPDATED",
+    "details": "Automation settings updated. Auto-Publish is currently: DISABLED."
+  },
+  {
+    "id": "log-cfg-1792291961723",
+    "timestamp": "2026-10-18T02:52:41.723Z",
+    "level": "info",
+    "action": "CONFIG_UPDATED",
+    "details": "Automation settings updated. Auto-Publish is currently: DISABLED."
+  },
+  {
+    "id": "log-cfg-1792291901722",
+    "timestamp": "2026-10-18T02:51:41.722Z",
+    "level": "info",
+    "action": "CONFIG_UPDATED",
+    "details": "Automation settings updated. Auto-Publish is currently: DISABLED."
+  },
+  {
+    "id": "log-cfg-1792291846834",
+    "timestamp": "2026-10-18T02:50:46.834Z",
+    "level": "info",
+    "action": "CONFIG_UPDATED",
+    "details": "Automation settings updated. Auto-Publish is currently: DISABLED."
+  },
+  {
+    "id": "log-dup-1792291846032",
+    "timestamp": "2026-10-18T02:50:46.032Z",
+    "level": "info",
+    "action": "DUPLICATE_SKIPPED",
+    "details": "Skipped duplicate notice \"UPSC Combined Defence Services (CDS-II) Examination 2026 Notification\" from UPSC (Hash: ecda6c4a21).",
+    "sourceId": "src-upsc-gov",
+    "noticeId": "notif-1792289991506-i9cp"
+  },
+  {
+    "id": "log-dup-1792291842229",
+    "timestamp": "2026-10-18T02:50:42.229Z",
+    "level": "info",
+    "action": "DUPLICATE_SKIPPED",
+    "details": "Skipped duplicate notice \"SSC Combined Higher Secondary (10+2) Level CHSL 2026 Notification\" from SSC (Hash: cde55e9868).",
+    "sourceId": "src-ssc-gov",
+    "noticeId": "notif-1792289987093-pkwg"
+  },
+  {
+    "id": "log-cfg-1792291781719",
+    "timestamp": "2026-10-18T02:49:41.719Z",
+    "level": "info",
+    "action": "CONFIG_UPDATED",
+    "details": "Automation settings updated. Auto-Publish is currently: DISABLED."
+  },
+  {
+    "id": "log-cfg-1792291721717",
+    "timestamp": "2026-10-18T02:48:41.717Z",
+    "level": "info",
+    "action": "CONFIG_UPDATED",
+    "details": "Automation settings updated. Auto-Publish is currently: DISABLED."
+  },
+  {
+    "id": "log-cfg-1792291661716",
+    "timestamp": "2026-10-18T02:47:41.716Z",
+    "level": "info",
+    "action": "CONFIG_UPDATED",
+    "details": "Automation settings updated. Auto-Publish is currently: DISABLED."
+  },
+  {
+    "id": "log-cfg-1792291606716",
+    "timestamp": "2026-10-18T02:46:46.716Z",
+    "level": "info",
+    "action": "CONFIG_UPDATED",
+    "details": "Automation settings updated. Auto-Publish is currently: DISABLED."
+  },
+  {
+    "id": "log-cfg-1792291595408",
+    "timestamp": "2026-10-18T02:46:35.408Z",
+    "level": "info",
+    "action": "CONFIG_UPDATED",
+    "details": "Automation settings updated. Auto-Publish is currently: DISABLED."
+  },
+  {
+    "id": "log-cfg-1792291541634",
+    "timestamp": "2026-10-18T02:45:41.634Z",
+    "level": "info",
+    "action": "CONFIG_UPDATED",
+    "details": "Automation settings updated. Auto-Publish is currently: DISABLED."
+  },
+  {
+    "id": "log-cfg-1792291481634",
+    "timestamp": "2026-10-18T02:44:41.634Z",
+    "level": "info",
+    "action": "CONFIG_UPDATED",
+    "details": "Automation settings updated. Auto-Publish is currently: DISABLED."
+  },
+  {
+    "id": "log-cfg-1792291421633",
+    "timestamp": "2026-10-18T02:43:41.633Z",
+    "level": "info",
+    "action": "CONFIG_UPDATED",
+    "details": "Automation settings updated. Auto-Publish is currently: DISABLED."
+  },
+  {
+    "id": "log-cfg-1792291361632",
+    "timestamp": "2026-10-18T02:42:41.632Z",
+    "level": "info",
+    "action": "CONFIG_UPDATED",
+    "details": "Automation settings updated. Auto-Publish is currently: DISABLED."
+  },
+  {
+    "id": "log-cfg-1792291301632",
+    "timestamp": "2026-10-18T02:41:41.632Z",
+    "level": "info",
+    "action": "CONFIG_UPDATED",
+    "details": "Automation settings updated. Auto-Publish is currently: DISABLED."
+  },
+  {
+    "id": "log-cfg-1792291241631",
+    "timestamp": "2026-10-18T02:40:41.631Z",
+    "level": "info",
+    "action": "CONFIG_UPDATED",
+    "details": "Automation settings updated. Auto-Publish is currently: DISABLED."
+  },
+  {
+    "id": "log-cfg-1792291181630",
+    "timestamp": "2026-10-18T02:39:41.630Z",
+    "level": "info",
+    "action": "CONFIG_UPDATED",
+    "details": "Automation settings updated. Auto-Publish is currently: DISABLED."
+  },
+  {
+    "id": "log-cfg-1792291121629",
+    "timestamp": "2026-10-18T02:38:41.629Z",
+    "level": "info",
+    "action": "CONFIG_UPDATED",
+    "details": "Automation settings updated. Auto-Publish is currently: DISABLED."
+  },
+  {
+    "id": "log-cfg-1792291061629",
+    "timestamp": "2026-10-18T02:37:41.629Z",
+    "level": "info",
+    "action": "CONFIG_UPDATED",
+    "details": "Automation settings updated. Auto-Publish is currently: DISABLED."
+  },
+  {
+    "id": "log-cfg-1792291001629",
+    "timestamp": "2026-10-18T02:36:41.629Z",
+    "level": "info",
+    "action": "CONFIG_UPDATED",
+    "details": "Automation settings updated. Auto-Publish is currently: DISABLED."
+  },
+  {
+    "id": "log-cfg-1792290941627",
+    "timestamp": "2026-10-18T02:35:41.627Z",
+    "level": "info",
+    "action": "CONFIG_UPDATED",
+    "details": "Automation settings updated. Auto-Publish is currently: DISABLED."
+  },
+  {
+    "id": "log-cfg-1792290881626",
+    "timestamp": "2026-10-18T02:34:41.626Z",
+    "level": "info",
+    "action": "CONFIG_UPDATED",
+    "details": "Automation settings updated. Auto-Publish is currently: DISABLED."
+  },
+  {
+    "id": "log-cfg-1792290821626",
+    "timestamp": "2026-10-18T02:33:41.626Z",
+    "level": "info",
+    "action": "CONFIG_UPDATED",
+    "details": "Automation settings updated. Auto-Publish is currently: DISABLED."
+  },
+  {
+    "id": "log-cfg-1792290761625",
+    "timestamp": "2026-10-18T02:32:41.625Z",
+    "level": "info",
+    "action": "CONFIG_UPDATED",
+    "details": "Automation settings updated. Auto-Publish is currently: DISABLED."
+  },
+  {
+    "id": "log-cfg-1792290701624",
+    "timestamp": "2026-10-18T02:31:41.624Z",
+    "level": "info",
+    "action": "CONFIG_UPDATED",
+    "details": "Automation settings updated. Auto-Publish is currently: DISABLED."
+  },
+  {
+    "id": "log-cfg-1792290641623",
+    "timestamp": "2026-10-18T02:30:41.623Z",
+    "level": "info",
+    "action": "CONFIG_UPDATED",
+    "details": "Automation settings updated. Auto-Publish is currently: DISABLED."
+  },
+  {
+    "id": "log-cfg-1792290581622",
+    "timestamp": "2026-10-18T02:29:41.622Z",
+    "level": "info",
+    "action": "CONFIG_UPDATED",
+    "details": "Automation settings updated. Auto-Publish is currently: DISABLED."
+  },
+  {
+    "id": "log-cfg-1792290521620",
+    "timestamp": "2026-10-18T02:28:41.621Z",
+    "level": "info",
+    "action": "CONFIG_UPDATED",
+    "details": "Automation settings updated. Auto-Publish is currently: DISABLED."
+  },
+  {
+    "id": "log-cfg-1792290461620",
+    "timestamp": "2026-10-18T02:27:41.620Z",
+    "level": "info",
+    "action": "CONFIG_UPDATED",
+    "details": "Automation settings updated. Auto-Publish is currently: DISABLED."
+  },
+  {
+    "id": "log-cfg-1792290401619",
+    "timestamp": "2026-10-18T02:26:41.619Z",
+    "level": "info",
+    "action": "CONFIG_UPDATED",
+    "details": "Automation settings updated. Auto-Publish is currently: DISABLED."
+  },
+  {
+    "id": "log-cfg-1792290341619",
+    "timestamp": "2026-10-18T02:25:41.619Z",
+    "level": "info",
+    "action": "CONFIG_UPDATED",
+    "details": "Automation settings updated. Auto-Publish is currently: DISABLED."
+  },
+  {
+    "id": "log-cfg-1792290281618",
+    "timestamp": "2026-10-18T02:24:41.618Z",
+    "level": "info",
+    "action": "CONFIG_UPDATED",
+    "details": "Automation settings updated. Auto-Publish is currently: DISABLED."
+  },
+  {
+    "id": "log-cfg-1792290221618",
+    "timestamp": "2026-10-18T02:23:41.618Z",
+    "level": "info",
+    "action": "CONFIG_UPDATED",
+    "details": "Automation settings updated. Auto-Publish is currently: DISABLED."
+  },
+  {
+    "id": "log-cfg-1792290161616",
+    "timestamp": "2026-10-18T02:22:41.616Z",
+    "level": "info",
+    "action": "CONFIG_UPDATED",
+    "details": "Automation settings updated. Auto-Publish is currently: DISABLED."
+  },
+  {
+    "id": "log-cfg-1792290101616",
+    "timestamp": "2026-10-18T02:21:41.616Z",
+    "level": "info",
+    "action": "CONFIG_UPDATED",
+    "details": "Automation settings updated. Auto-Publish is currently: DISABLED."
+  },
+  {
+    "id": "log-cfg-1792290041616",
+    "timestamp": "2026-10-18T02:20:41.616Z",
+    "level": "info",
+    "action": "CONFIG_UPDATED",
+    "details": "Automation settings updated. Auto-Publish is currently: DISABLED."
+  },
+  {
+    "id": "log-cfg-1792290004882",
+    "timestamp": "2026-10-18T02:20:04.882Z",
+    "level": "info",
+    "action": "CONFIG_UPDATED",
+    "details": "Automation settings updated. Auto-Publish is currently: DISABLED."
+  },
+  {
+    "id": "log-notif-1792290004080",
+    "timestamp": "2026-10-18T02:20:04.080Z",
+    "level": "success",
+    "action": "NEW_NOTICE_DETECTED",
+    "details": "Detected new notice \"Institute of Banking Personnel Selection (IBPS) Recruitment and Selection Notice 2026\" from IBPS. Status: verification-required.",
+    "sourceId": "src-ibps-in",
+    "noticeId": "notif-1792290003445-t3rg"
+  },
+  {
+    "id": "log-notif-1792290002329",
+    "timestamp": "2026-10-18T02:20:02.329Z",
+    "level": "success",
+    "action": "NEW_NOTICE_DETECTED",
+    "details": "Detected new notice \"Uttar Pradesh Public Service Commission (UPPSC) Recruitment and Selection Notice 2026\" from UPPSC. Status: verification-required.",
+    "sourceId": "src-uppsc-up-nic",
+    "noticeId": "notif-1792290001636-txqj"
+  },
+  {
+    "id": "log-notif-1792290000081",
+    "timestamp": "2026-10-18T02:20:00.081Z",
+    "level": "success",
+    "action": "NEW_NOTICE_DETECTED",
+    "details": "Detected new notice \"Bihar Public Service Commission (BPSC) Recruitment and Selection Notice 2026\" from BPSC. Status: verification-required.",
+    "sourceId": "src-bpsc-bih-nic",
+    "noticeId": "notif-1792289999394-fgck"
+  },
+  {
+    "id": "log-notif-1792289995592",
+    "timestamp": "2026-10-18T02:19:55.592Z",
+    "level": "success",
+    "action": "NEW_NOTICE_DETECTED",
+    "details": "Detected new notice \"UP Police Recruitment & Promotion Board (UPPRPB) Recruitment and Selection Notice 2026\" from UP Police. Status: verification-required.",
+    "sourceId": "src-uppbpb-gov",
+    "noticeId": "notif-1792289994962-bxk9"
+  },
+  {
+    "id": "log-notif-1792289993729",
+    "timestamp": "2026-10-18T02:19:53.729Z",
+    "level": "success",
+    "action": "NEW_NOTICE_DETECTED",
+    "details": "Detected new notice \"RRB Technician Grade-I (Signal) and Grade-III Recruitment CEN 02/2026\" from RRB. Status: verification-required.",
+    "sourceId": "src-rrb-gov",
+    "noticeId": "notif-1792289993166-gnxa"
+  },
+  {
+    "id": "log-notif-1792289992144",
+    "timestamp": "2026-10-18T02:19:52.144Z",
+    "level": "success",
+    "action": "NEW_NOTICE_DETECTED",
+    "details": "Detected new notice \"UPSC Combined Defence Services (CDS-II) Examination 2026 Notification\" from UPSC. Status: verification-required.",
+    "sourceId": "src-upsc-gov",
+    "noticeId": "notif-1792289991506-i9cp"
+  },
+  {
+    "id": "log-notif-1792289987705",
+    "timestamp": "2026-10-18T02:19:47.705Z",
+    "level": "success",
+    "action": "NEW_NOTICE_DETECTED",
+    "details": "Detected new notice \"SSC Combined Higher Secondary (10+2) Level CHSL 2026 Notification\" from SSC. Status: verification-required.",
+    "sourceId": "src-ssc-gov",
+    "noticeId": "notif-1792289987093-pkwg"
+  },
+  {
+    "id": "log-cfg-1792153974940",
+    "timestamp": "2026-10-16T12:32:54.940Z",
+    "level": "info",
+    "action": "CONFIG_UPDATED",
+    "details": "Automation settings updated. Auto-Publish is currently: DISABLED."
+  },
+  {
+    "id": "log-cfg-1792153933712",
+    "timestamp": "2026-10-16T12:32:13.712Z",
+    "level": "info",
+    "action": "CONFIG_UPDATED",
+    "details": "Automation settings updated. Auto-Publish is currently: DISABLED."
+  },
+  {
+    "id": "log-dup-1792153932910",
+    "timestamp": "2026-10-16T12:32:12.910Z",
+    "level": "info",
+    "action": "DUPLICATE_SKIPPED",
+    "details": "Skipped duplicate notice \"Institute of Banking Personnel Selection (IBPS) Recruitment and Selection Notice 2026\" from IBPS (Hash: cb72c62e88).",
+    "sourceId": "src-ibps-in",
+    "noticeId": "notif-1792110419101-z4xr"
+  },
+  {
+    "id": "log-dup-1792153931733",
+    "timestamp": "2026-10-16T12:32:11.733Z",
+    "level": "info",
+    "action": "DUPLICATE_SKIPPED",
+    "details": "Skipped duplicate notice \"Uttar Pradesh Public Service Commission (UPPSC) Recruitment and Selection Notice 2026\" from UPPSC (Hash: 2b5a187f1d).",
+    "sourceId": "src-uppsc-up-nic",
+    "noticeId": "notif-1792110417550-93gn"
+  },
+  {
+    "id": "log-dup-1792153930268",
+    "timestamp": "2026-10-16T12:32:10.268Z",
+    "level": "info",
+    "action": "DUPLICATE_SKIPPED",
+    "details": "Skipped duplicate notice \"Bihar Public Service Commission (BPSC) Recruitment and Selection Notice 2026\" from BPSC (Hash: 53b9070aa5).",
+    "sourceId": "src-bpsc-bih-nic",
+    "noticeId": "notif-1792110415408-bqx4"
+  },
+  {
+    "id": "log-dup-1792153926464",
+    "timestamp": "2026-10-16T12:32:06.465Z",
+    "level": "info",
+    "action": "DUPLICATE_SKIPPED",
+    "details": "Skipped duplicate notice \"UP Police Recruitment & Promotion Board (UPPRPB) Recruitment and Selection Notice 2026\" from UP Police (Hash: 3e569f33d6).",
+    "sourceId": "src-uppbpb-gov",
+    "noticeId": "notif-1792110411017-rikw"
+  },
+  {
+    "id": "log-dup-1792153925283",
+    "timestamp": "2026-10-16T12:32:05.283Z",
+    "level": "info",
+    "action": "DUPLICATE_SKIPPED",
+    "details": "Skipped duplicate notice \"RRB Technician Grade-I (Signal) and Grade-III Recruitment CEN 02/2026\" from RRB (Hash: 954a52a86c).",
+    "sourceId": "src-rrb-gov",
+    "noticeId": "notif-1792110409296-thxj"
+  },
+  {
+    "id": "log-dup-1792153924245",
+    "timestamp": "2026-10-16T12:32:04.245Z",
+    "level": "info",
+    "action": "DUPLICATE_SKIPPED",
+    "details": "Skipped duplicate notice \"UPSC Combined Defence Services (CDS-II) Examination 2026 Notification\" from UPSC (Hash: 12472292d9).",
+    "sourceId": "src-upsc-gov",
+    "noticeId": "notif-1792110407723-xcd0"
+  },
+  {
+    "id": "log-dup-1792153920442",
+    "timestamp": "2026-10-16T12:32:00.442Z",
+    "level": "info",
+    "action": "DUPLICATE_SKIPPED",
+    "details": "Skipped duplicate notice \"SSC Combined Higher Secondary (10+2) Level CHSL 2026 Notification\" from SSC (Hash: 5ef8ebc3de).",
+    "sourceId": "src-ssc-gov",
+    "noticeId": "notif-1792110354164-i98f"
+  },
+  {
+    "id": "log-cfg-1792114715106",
+    "timestamp": "2026-10-16T01:38:35.106Z",
+    "level": "info",
+    "action": "CONFIG_UPDATED",
+    "details": "Automation settings updated. Auto-Publish is currently: DISABLED."
+  },
+  {
+    "id": "log-cfg-1792114655106",
+    "timestamp": "2026-10-16T01:37:35.106Z",
+    "level": "info",
+    "action": "CONFIG_UPDATED",
+    "details": "Automation settings updated. Auto-Publish is currently: DISABLED."
+  },
+  {
+    "id": "log-cfg-1792114595105",
+    "timestamp": "2026-10-16T01:36:35.105Z",
+    "level": "info",
+    "action": "CONFIG_UPDATED",
+    "details": "Automation settings updated. Auto-Publish is currently: DISABLED."
+  },
+  {
+    "id": "log-cfg-1792114540105",
+    "timestamp": "2026-10-16T01:35:40.105Z",
+    "level": "info",
+    "action": "CONFIG_UPDATED",
+    "details": "Automation settings updated. Auto-Publish is currently: DISABLED."
+  },
+  {
+    "id": "log-cfg-1792114511365",
+    "timestamp": "2026-10-16T01:35:11.366Z",
+    "level": "info",
+    "action": "CONFIG_UPDATED",
+    "details": "Automation settings updated. Auto-Publish is currently: DISABLED."
+  },
+  {
+    "id": "log-cfg-1792114451364",
+    "timestamp": "2026-10-16T01:34:11.364Z",
+    "level": "info",
+    "action": "CONFIG_UPDATED",
+    "details": "Automation settings updated. Auto-Publish is currently: DISABLED."
+  },
+  {
+    "id": "log-cfg-1792114391362",
+    "timestamp": "2026-10-16T01:33:11.362Z",
+    "level": "info",
+    "action": "CONFIG_UPDATED",
+    "details": "Automation settings updated. Auto-Publish is currently: DISABLED."
+  },
+  {
+    "id": "log-cfg-1792114331362",
+    "timestamp": "2026-10-16T01:32:11.362Z",
+    "level": "info",
+    "action": "CONFIG_UPDATED",
+    "details": "Automation settings updated. Auto-Publish is currently: DISABLED."
+  },
+  {
+    "id": "log-cfg-1792114271360",
+    "timestamp": "2026-10-16T01:31:11.360Z",
+    "level": "info",
+    "action": "CONFIG_UPDATED",
+    "details": "Automation settings updated. Auto-Publish is currently: DISABLED."
+  },
+  {
+    "id": "log-cfg-1792114211360",
+    "timestamp": "2026-10-16T01:30:11.360Z",
+    "level": "info",
+    "action": "CONFIG_UPDATED",
+    "details": "Automation settings updated. Auto-Publish is currently: DISABLED."
+  },
+  {
+    "id": "log-cfg-1792114151360",
+    "timestamp": "2026-10-16T01:29:11.360Z",
+    "level": "info",
+    "action": "CONFIG_UPDATED",
+    "details": "Automation settings updated. Auto-Publish is currently: DISABLED."
+  },
+  {
+    "id": "log-cfg-1792114096478",
+    "timestamp": "2026-10-16T01:28:16.478Z",
+    "level": "info",
+    "action": "CONFIG_UPDATED",
+    "details": "Automation settings updated. Auto-Publish is currently: DISABLED."
+  },
+  {
+    "id": "log-dup-1792114095677",
+    "timestamp": "2026-10-16T01:28:15.677Z",
+    "level": "info",
+    "action": "DUPLICATE_SKIPPED",
+    "details": "Skipped duplicate notice \"UPSC Combined Defence Services (CDS-II) Examination 2026 Notification\" from UPSC (Hash: 12472292d9).",
+    "sourceId": "src-upsc-gov",
+    "noticeId": "notif-1792110407723-xcd0"
+  },
+  {
+    "id": "log-dup-1792114091874",
+    "timestamp": "2026-10-16T01:28:11.874Z",
+    "level": "info",
+    "action": "DUPLICATE_SKIPPED",
+    "details": "Skipped duplicate notice \"SSC Combined Higher Secondary (10+2) Level CHSL 2026 Notification\" from SSC (Hash: 5ef8ebc3de).",
+    "sourceId": "src-ssc-gov",
+    "noticeId": "notif-1792110354164-i98f"
+  },
+  {
+    "id": "log-cfg-1792114039127",
+    "timestamp": "2026-10-16T01:27:19.127Z",
+    "level": "info",
+    "action": "CONFIG_UPDATED",
+    "details": "Automation settings updated. Auto-Publish is currently: DISABLED."
+  },
+  {
+    "id": "log-dup-1792114038326",
+    "timestamp": "2026-10-16T01:27:18.326Z",
+    "level": "info",
+    "action": "DUPLICATE_SKIPPED",
+    "details": "Skipped duplicate notice \"Uttar Pradesh Public Service Commission (UPPSC) Recruitment and Selection Notice 2026\" from UPPSC (Hash: 2b5a187f1d).",
+    "sourceId": "src-uppsc-up-nic",
+    "noticeId": "notif-1792110417550-93gn"
+  },
+  {
+    "id": "log-dup-1792114036675",
+    "timestamp": "2026-10-16T01:27:16.675Z",
+    "level": "info",
+    "action": "DUPLICATE_SKIPPED",
+    "details": "Skipped duplicate notice \"Bihar Public Service Commission (BPSC) Recruitment and Selection Notice 2026\" from BPSC (Hash: 53b9070aa5).",
+    "sourceId": "src-bpsc-bih-nic",
+    "noticeId": "notif-1792110415408-bqx4"
+  },
+  {
+    "id": "log-dup-1792114032873",
+    "timestamp": "2026-10-16T01:27:12.873Z",
+    "level": "info",
+    "action": "DUPLICATE_SKIPPED",
+    "details": "Skipped duplicate notice \"UP Police Recruitment & Promotion Board (UPPRPB) Recruitment and Selection Notice 2026\" from UP Police (Hash: 3e569f33d6).",
+    "sourceId": "src-uppbpb-gov",
+    "noticeId": "notif-1792110411017-rikw"
+  },
+  {
+    "id": "log-cfg-1792113971356",
+    "timestamp": "2026-10-16T01:26:11.356Z",
+    "level": "info",
+    "action": "CONFIG_UPDATED",
+    "details": "Automation settings updated. Auto-Publish is currently: DISABLED."
+  },
+  {
+    "id": "log-cfg-1792113911355",
+    "timestamp": "2026-10-16T01:25:11.355Z",
+    "level": "info",
+    "action": "CONFIG_UPDATED",
+    "details": "Automation settings updated. Auto-Publish is currently: DISABLED."
+  },
+  {
+    "id": "log-cfg-1792113851354",
+    "timestamp": "2026-10-16T01:24:11.354Z",
+    "level": "info",
+    "action": "CONFIG_UPDATED",
+    "details": "Automation settings updated. Auto-Publish is currently: DISABLED."
+  },
+  {
+    "id": "log-cfg-1792113791354",
+    "timestamp": "2026-10-16T01:23:11.354Z",
+    "level": "info",
+    "action": "CONFIG_UPDATED",
+    "details": "Automation settings updated. Auto-Publish is currently: DISABLED."
+  },
+  {
+    "id": "log-cfg-1792113731352",
+    "timestamp": "2026-10-16T01:22:11.352Z",
+    "level": "info",
+    "action": "CONFIG_UPDATED",
+    "details": "Automation settings updated. Auto-Publish is currently: DISABLED."
+  },
+  {
+    "id": "log-cfg-1792113671351",
+    "timestamp": "2026-10-16T01:21:11.351Z",
+    "level": "info",
+    "action": "CONFIG_UPDATED",
+    "details": "Automation settings updated. Auto-Publish is currently: DISABLED."
+  },
+  {
+    "id": "log-cfg-1792113611351",
+    "timestamp": "2026-10-16T01:20:11.351Z",
+    "level": "info",
+    "action": "CONFIG_UPDATED",
+    "details": "Automation settings updated. Auto-Publish is currently: DISABLED."
+  },
+  {
+    "id": "log-cfg-1792113551349",
+    "timestamp": "2026-10-16T01:19:11.349Z",
+    "level": "info",
+    "action": "CONFIG_UPDATED",
+    "details": "Automation settings updated. Auto-Publish is currently: DISABLED."
+  },
+  {
+    "id": "log-cfg-1792113491348",
+    "timestamp": "2026-10-16T01:18:11.348Z",
+    "level": "info",
+    "action": "CONFIG_UPDATED",
+    "details": "Automation settings updated. Auto-Publish is currently: DISABLED."
+  },
+  {
+    "id": "log-cfg-1792113431347",
+    "timestamp": "2026-10-16T01:17:11.347Z",
+    "level": "info",
+    "action": "CONFIG_UPDATED",
+    "details": "Automation settings updated. Auto-Publish is currently: DISABLED."
+  },
+  {
+    "id": "log-cfg-1792113371347",
+    "timestamp": "2026-10-16T01:16:11.347Z",
+    "level": "info",
+    "action": "CONFIG_UPDATED",
+    "details": "Automation settings updated. Auto-Publish is currently: DISABLED."
+  },
+  {
+    "id": "log-cfg-1792113311345",
+    "timestamp": "2026-10-16T01:15:11.345Z",
+    "level": "info",
+    "action": "CONFIG_UPDATED",
+    "details": "Automation settings updated. Auto-Publish is currently: DISABLED."
+  },
+  {
+    "id": "log-cfg-1792113251345",
+    "timestamp": "2026-10-16T01:14:11.345Z",
+    "level": "info",
+    "action": "CONFIG_UPDATED",
+    "details": "Automation settings updated. Auto-Publish is currently: DISABLED."
+  },
+  {
+    "id": "log-cfg-1792113191343",
+    "timestamp": "2026-10-16T01:13:11.343Z",
+    "level": "info",
+    "action": "CONFIG_UPDATED",
+    "details": "Automation settings updated. Auto-Publish is currently: DISABLED."
+  },
+  {
+    "id": "log-cfg-1792113133406",
+    "timestamp": "2026-10-16T01:12:13.406Z",
+    "level": "info",
+    "action": "CONFIG_UPDATED",
+    "details": "Automation settings updated. Auto-Publish is currently: DISABLED."
+  },
+  {
+    "id": "log-dup-1792113132605",
+    "timestamp": "2026-10-16T01:12:12.605Z",
+    "level": "info",
+    "action": "DUPLICATE_SKIPPED",
+    "details": "Skipped duplicate notice \"Institute of Banking Personnel Selection (IBPS) Recruitment and Selection Notice 2026\" from IBPS (Hash: cb72c62e88).",
+    "sourceId": "src-ibps-in",
+    "noticeId": "notif-1792110419101-z4xr"
+  },
+  {
+    "id": "log-dup-1792113131586",
+    "timestamp": "2026-10-16T01:12:11.586Z",
+    "level": "info",
+    "action": "DUPLICATE_SKIPPED",
+    "details": "Skipped duplicate notice \"RRB Technician Grade-I (Signal) and Grade-III Recruitment CEN 02/2026\" from RRB (Hash: 954a52a86c).",
+    "sourceId": "src-rrb-gov",
+    "noticeId": "notif-1792110409296-thxj"
+  },
+  {
+    "id": "log-cfg-1792113071342",
+    "timestamp": "2026-10-16T01:11:11.342Z",
+    "level": "info",
+    "action": "CONFIG_UPDATED",
+    "details": "Automation settings updated. Auto-Publish is currently: DISABLED."
+  },
+  {
+    "id": "log-cfg-1792113011341",
+    "timestamp": "2026-10-16T01:10:11.341Z",
+    "level": "info",
+    "action": "CONFIG_UPDATED",
+    "details": "Automation settings updated. Auto-Publish is currently: DISABLED."
+  },
+  {
+    "id": "log-cfg-1792112951341",
+    "timestamp": "2026-10-16T01:09:11.341Z",
+    "level": "info",
+    "action": "CONFIG_UPDATED",
+    "details": "Automation settings updated. Auto-Publish is currently: DISABLED."
+  },
+  {
+    "id": "log-cfg-1792112891341",
+    "timestamp": "2026-10-16T01:08:11.341Z",
+    "level": "info",
+    "action": "CONFIG_UPDATED",
+    "details": "Automation settings updated. Auto-Publish is currently: DISABLED."
+  },
+  {
+    "id": "log-cfg-1792112831339",
+    "timestamp": "2026-10-16T01:07:11.340Z",
+    "level": "info",
+    "action": "CONFIG_UPDATED",
+    "details": "Automation settings updated. Auto-Publish is currently: DISABLED."
+  },
+  {
+    "id": "log-cfg-1792112771338",
+    "timestamp": "2026-10-16T01:06:11.338Z",
+    "level": "info",
+    "action": "CONFIG_UPDATED",
+    "details": "Automation settings updated. Auto-Publish is currently: DISABLED."
+  },
+  {
+    "id": "log-cfg-1792112711338",
+    "timestamp": "2026-10-16T01:05:11.338Z",
+    "level": "info",
+    "action": "CONFIG_UPDATED",
+    "details": "Automation settings updated. Auto-Publish is currently: DISABLED."
+  },
+  {
+    "id": "log-cfg-1792112651337",
+    "timestamp": "2026-10-16T01:04:11.337Z",
+    "level": "info",
+    "action": "CONFIG_UPDATED",
+    "details": "Automation settings updated. Auto-Publish is currently: DISABLED."
+  },
+  {
+    "id": "log-cfg-1792112591335",
+    "timestamp": "2026-10-16T01:03:11.335Z",
+    "level": "info",
+    "action": "CONFIG_UPDATED",
+    "details": "Automation settings updated. Auto-Publish is currently: DISABLED."
+  },
+  {
+    "id": "log-cfg-1792112531335",
+    "timestamp": "2026-10-16T01:02:11.335Z",
+    "level": "info",
+    "action": "CONFIG_UPDATED",
+    "details": "Automation settings updated. Auto-Publish is currently: DISABLED."
+  },
+  {
+    "id": "log-cfg-1792112471333",
+    "timestamp": "2026-10-16T01:01:11.333Z",
+    "level": "info",
+    "action": "CONFIG_UPDATED",
+    "details": "Automation settings updated. Auto-Publish is currently: DISABLED."
+  },
+  {
+    "id": "log-cfg-1792112411333",
+    "timestamp": "2026-10-16T01:00:11.333Z",
+    "level": "info",
+    "action": "CONFIG_UPDATED",
+    "details": "Automation settings updated. Auto-Publish is currently: DISABLED."
+  },
+  {
+    "id": "log-cfg-1792112351332",
+    "timestamp": "2026-10-16T00:59:11.332Z",
+    "level": "info",
+    "action": "CONFIG_UPDATED",
+    "details": "Automation settings updated. Auto-Publish is currently: DISABLED."
+  },
+  {
+    "id": "log-cfg-1792112291331",
+    "timestamp": "2026-10-16T00:58:11.331Z",
+    "level": "info",
+    "action": "CONFIG_UPDATED",
+    "details": "Automation settings updated. Auto-Publish is currently: DISABLED."
+  },
+  {
+    "id": "log-cfg-1792112236498",
+    "timestamp": "2026-10-16T00:57:16.498Z",
+    "level": "info",
+    "action": "CONFIG_UPDATED",
+    "details": "Automation settings updated. Auto-Publish is currently: DISABLED."
+  },
+  {
+    "id": "log-dup-1792112235697",
+    "timestamp": "2026-10-16T00:57:15.697Z",
+    "level": "info",
+    "action": "DUPLICATE_SKIPPED",
+    "details": "Skipped duplicate notice \"UPSC Combined Defence Services (CDS-II) Examination 2026 Notification\" from UPSC (Hash: 12472292d9).",
+    "sourceId": "src-upsc-gov",
+    "noticeId": "notif-1792110407723-xcd0"
+  },
+  {
+    "id": "log-dup-1792112231893",
+    "timestamp": "2026-10-16T00:57:11.893Z",
+    "level": "info",
+    "action": "DUPLICATE_SKIPPED",
+    "details": "Skipped duplicate notice \"SSC Combined Higher Secondary (10+2) Level CHSL 2026 Notification\" from SSC (Hash: 5ef8ebc3de).",
+    "sourceId": "src-ssc-gov",
+    "noticeId": "notif-1792110354164-i98f"
+  },
+  {
+    "id": "log-cfg-1792112171331",
+    "timestamp": "2026-10-16T00:56:11.331Z",
+    "level": "info",
+    "action": "CONFIG_UPDATED",
+    "details": "Automation settings updated. Auto-Publish is currently: DISABLED."
+  },
+  {
+    "id": "log-cfg-1792112111330",
+    "timestamp": "2026-10-16T00:55:11.330Z",
+    "level": "info",
+    "action": "CONFIG_UPDATED",
+    "details": "Automation settings updated. Auto-Publish is currently: DISABLED."
+  },
+  {
+    "id": "log-cfg-1792112051330",
+    "timestamp": "2026-10-16T00:54:11.330Z",
+    "level": "info",
+    "action": "CONFIG_UPDATED",
+    "details": "Automation settings updated. Auto-Publish is currently: DISABLED."
+  },
+  {
+    "id": "log-cfg-1792111991329",
+    "timestamp": "2026-10-16T00:53:11.329Z",
+    "level": "info",
+    "action": "CONFIG_UPDATED",
+    "details": "Automation settings updated. Auto-Publish is currently: DISABLED."
+  },
+  {
+    "id": "log-cfg-1792111931328",
+    "timestamp": "2026-10-16T00:52:11.328Z",
+    "level": "info",
+    "action": "CONFIG_UPDATED",
+    "details": "Automation settings updated. Auto-Publish is currently: DISABLED."
+  },
+  {
+    "id": "log-cfg-1792111871326",
+    "timestamp": "2026-10-16T00:51:11.326Z",
+    "level": "info",
+    "action": "CONFIG_UPDATED",
+    "details": "Automation settings updated. Auto-Publish is currently: DISABLED."
+  },
+  {
+    "id": "log-cfg-1792111811325",
+    "timestamp": "2026-10-16T00:50:11.325Z",
+    "level": "info",
+    "action": "CONFIG_UPDATED",
+    "details": "Automation settings updated. Auto-Publish is currently: DISABLED."
+  },
+  {
+    "id": "log-cfg-1792111751325",
+    "timestamp": "2026-10-16T00:49:11.325Z",
+    "level": "info",
+    "action": "CONFIG_UPDATED",
+    "details": "Automation settings updated. Auto-Publish is currently: DISABLED."
+  },
+  {
+    "id": "log-cfg-1792111691324",
+    "timestamp": "2026-10-16T00:48:11.324Z",
+    "level": "info",
+    "action": "CONFIG_UPDATED",
+    "details": "Automation settings updated. Auto-Publish is currently: DISABLED."
+  },
+  {
+    "id": "log-cfg-1792111631322",
+    "timestamp": "2026-10-16T00:47:11.322Z",
+    "level": "info",
+    "action": "CONFIG_UPDATED",
+    "details": "Automation settings updated. Auto-Publish is currently: DISABLED."
+  },
+  {
+    "id": "log-cfg-1792111571322",
+    "timestamp": "2026-10-16T00:46:11.322Z",
+    "level": "info",
+    "action": "CONFIG_UPDATED",
+    "details": "Automation settings updated. Auto-Publish is currently: DISABLED."
+  },
+  {
+    "id": "log-cfg-1792111511321",
+    "timestamp": "2026-10-16T00:45:11.321Z",
+    "level": "info",
+    "action": "CONFIG_UPDATED",
+    "details": "Automation settings updated. Auto-Publish is currently: DISABLED."
+  },
+  {
+    "id": "log-cfg-1792111451319",
+    "timestamp": "2026-10-16T00:44:11.319Z",
+    "level": "info",
+    "action": "CONFIG_UPDATED",
+    "details": "Automation settings updated. Auto-Publish is currently: DISABLED."
+  },
+  {
+    "id": "log-cfg-1792111391319",
+    "timestamp": "2026-10-16T00:43:11.319Z",
+    "level": "info",
+    "action": "CONFIG_UPDATED",
+    "details": "Automation settings updated. Auto-Publish is currently: DISABLED."
+  },
+  {
+    "id": "log-cfg-1792111331318",
+    "timestamp": "2026-10-16T00:42:11.318Z",
+    "level": "info",
+    "action": "CONFIG_UPDATED",
+    "details": "Automation settings updated. Auto-Publish is currently: DISABLED."
+  },
+  {
+    "id": "log-cfg-1792111271317",
+    "timestamp": "2026-10-16T00:41:11.317Z",
+    "level": "info",
+    "action": "CONFIG_UPDATED",
+    "details": "Automation settings updated. Auto-Publish is currently: DISABLED."
+  },
+  {
+    "id": "log-cfg-1792111211316",
+    "timestamp": "2026-10-16T00:40:11.316Z",
+    "level": "info",
+    "action": "CONFIG_UPDATED",
+    "details": "Automation settings updated. Auto-Publish is currently: DISABLED."
+  },
+  {
+    "id": "log-cfg-1792111151315",
+    "timestamp": "2026-10-16T00:39:11.315Z",
+    "level": "info",
+    "action": "CONFIG_UPDATED",
+    "details": "Automation settings updated. Auto-Publish is currently: DISABLED."
+  },
+  {
+    "id": "log-cfg-1792111096316",
+    "timestamp": "2026-10-16T00:38:16.316Z",
+    "level": "info",
+    "action": "CONFIG_UPDATED",
+    "details": "Automation settings updated. Auto-Publish is currently: DISABLED."
+  },
+  {
+    "id": "log-cfg-1792111068672",
+    "timestamp": "2026-10-16T00:37:48.672Z",
+    "level": "info",
+    "action": "CONFIG_UPDATED",
+    "details": "Automation settings updated. Auto-Publish is currently: DISABLED."
+  },
+  {
+    "id": "log-cfg-1792111008672",
+    "timestamp": "2026-10-16T00:36:48.672Z",
+    "level": "info",
+    "action": "CONFIG_UPDATED",
+    "details": "Automation settings updated. Auto-Publish is currently: DISABLED."
+  },
+  {
+    "id": "log-cfg-1792110948671",
+    "timestamp": "2026-10-16T00:35:48.671Z",
+    "level": "info",
+    "action": "CONFIG_UPDATED",
+    "details": "Automation settings updated. Auto-Publish is currently: DISABLED."
+  },
+  {
+    "id": "log-cfg-1792110888671",
+    "timestamp": "2026-10-16T00:34:48.671Z",
+    "level": "info",
+    "action": "CONFIG_UPDATED",
+    "details": "Automation settings updated. Auto-Publish is currently: DISABLED."
+  },
+  {
+    "id": "log-cfg-1792110828671",
+    "timestamp": "2026-10-16T00:33:48.671Z",
+    "level": "info",
+    "action": "CONFIG_UPDATED",
+    "details": "Automation settings updated. Auto-Publish is currently: DISABLED."
+  },
+  {
+    "id": "log-cfg-1792110768669",
+    "timestamp": "2026-10-16T00:32:48.669Z",
+    "level": "info",
+    "action": "CONFIG_UPDATED",
+    "details": "Automation settings updated. Auto-Publish is currently: DISABLED."
+  },
+  {
+    "id": "log-cfg-1792110708668",
+    "timestamp": "2026-10-16T00:31:48.669Z",
+    "level": "info",
+    "action": "CONFIG_UPDATED",
+    "details": "Automation settings updated. Auto-Publish is currently: DISABLED."
+  },
+  {
+    "id": "log-cfg-1792110648668",
+    "timestamp": "2026-10-16T00:30:48.668Z",
+    "level": "info",
+    "action": "CONFIG_UPDATED",
+    "details": "Automation settings updated. Auto-Publish is currently: DISABLED."
+  },
+  {
+    "id": "log-cfg-1792110588668",
+    "timestamp": "2026-10-16T00:29:48.668Z",
+    "level": "info",
+    "action": "CONFIG_UPDATED",
+    "details": "Automation settings updated. Auto-Publish is currently: DISABLED."
+  },
+  {
+    "id": "log-cfg-1792110528666",
+    "timestamp": "2026-10-16T00:28:48.666Z",
+    "level": "info",
+    "action": "CONFIG_UPDATED",
+    "details": "Automation settings updated. Auto-Publish is currently: DISABLED."
+  },
+  {
+    "id": "log-cfg-1792110468664",
+    "timestamp": "2026-10-16T00:27:48.665Z",
+    "level": "info",
+    "action": "CONFIG_UPDATED",
+    "details": "Automation settings updated. Auto-Publish is currently: DISABLED."
+  },
+  {
+    "id": "log-cfg-1792110420352",
+    "timestamp": "2026-10-16T00:27:00.352Z",
+    "level": "info",
+    "action": "CONFIG_UPDATED",
+    "details": "Automation settings updated. Auto-Publish is currently: DISABLED."
+  },
+  {
+    "id": "log-notif-1792110419550",
+    "timestamp": "2026-10-16T00:26:59.550Z",
+    "level": "success",
+    "action": "NEW_NOTICE_DETECTED",
+    "details": "Detected new notice \"Institute of Banking Personnel Selection (IBPS) Recruitment and Selection Notice 2026\" from IBPS. Status: verification-required.",
+    "sourceId": "src-ibps-in",
+    "noticeId": "notif-1792110419101-z4xr"
+  },
+  {
+    "id": "log-notif-1792110418034",
+    "timestamp": "2026-10-16T00:26:58.034Z",
+    "level": "success",
+    "action": "NEW_NOTICE_DETECTED",
+    "details": "Detected new notice \"Uttar Pradesh Public Service Commission (UPPSC) Recruitment and Selection Notice 2026\" from UPPSC. Status: verification-required.",
+    "sourceId": "src-uppsc-up-nic",
+    "noticeId": "notif-1792110417550-93gn"
+  },
+  {
+    "id": "log-notif-1792110415960",
+    "timestamp": "2026-10-16T00:26:55.960Z",
+    "level": "success",
+    "action": "NEW_NOTICE_DETECTED",
+    "details": "Detected new notice \"Bihar Public Service Commission (BPSC) Recruitment and Selection Notice 2026\" from BPSC. Status: verification-required.",
+    "sourceId": "src-bpsc-bih-nic",
+    "noticeId": "notif-1792110415408-bqx4"
+  },
+  {
+    "id": "log-notif-1792110411604",
+    "timestamp": "2026-10-16T00:26:51.604Z",
+    "level": "success",
+    "action": "NEW_NOTICE_DETECTED",
+    "details": "Detected new notice \"UP Police Recruitment & Promotion Board (UPPRPB) Recruitment and Selection Notice 2026\" from UP Police. Status: verification-required.",
+    "sourceId": "src-uppbpb-gov",
+    "noticeId": "notif-1792110411017-rikw"
+  },
+  {
+    "id": "log-notif-1792110409806",
+    "timestamp": "2026-10-16T00:26:49.806Z",
+    "level": "success",
+    "action": "NEW_NOTICE_DETECTED",
+    "details": "Detected new notice \"RRB Technician Grade-I (Signal) and Grade-III Recruitment CEN 02/2026\" from RRB. Status: verification-required.",
+    "sourceId": "src-rrb-gov",
+    "noticeId": "notif-1792110409296-thxj"
+  },
+  {
+    "id": "log-notif-1792110408280",
+    "timestamp": "2026-10-16T00:26:48.280Z",
+    "level": "success",
+    "action": "NEW_NOTICE_DETECTED",
+    "details": "Detected new notice \"UPSC Combined Defence Services (CDS-II) Examination 2026 Notification\" from UPSC. Status: verification-required.",
+    "sourceId": "src-upsc-gov",
+    "noticeId": "notif-1792110407723-xcd0"
+  },
+  {
+    "id": "log-notif-1792110403920",
+    "timestamp": "2026-10-16T00:26:43.920Z",
+    "level": "success",
+    "action": "NEW_NOTICE_DETECTED",
+    "details": "Detected new notice \"SSC Combined Higher Secondary (10+2) Level CHSL 2026 Notification\" from SSC. Status: verification-required.",
+    "sourceId": "src-ssc-gov",
+    "noticeId": "notif-1792110354164-i98f"
+  },
+  {
+    "id": "log-dup-1792063604823",
+    "timestamp": "2026-10-15T11:26:44.823Z",
+    "level": "info",
+    "action": "DUPLICATE_SKIPPED",
+    "details": "Skipped duplicate notice \"SSC Combined Higher Secondary (10+2) Level CHSL 2026 Notification\" from SSC (Hash: c053986541).",
+    "sourceId": "src-ssc-gov",
+    "noticeId": "notif-1792063551047-1ox9"
+  },
+  {
+    "id": "log-man-1792063592806",
+    "timestamp": "2026-10-15T11:26:32.806Z",
+    "level": "success",
+    "action": "MANUAL_NOTICE_PROCESSED",
+    "details": "Manual recruitment notice \"UP Police Constable & SI Recruitment 2026\" extracted and draft Hindi article generated.",
+    "noticeId": "notif-manual-1792063588249"
+  },
+  {
+    "id": "log-cfg-1792063587080",
+    "timestamp": "2026-10-15T11:26:27.080Z",
+    "level": "info",
+    "action": "CONFIG_UPDATED",
+    "details": "Automation settings updated. Auto-Publish is currently: DISABLED."
+  },
+  {
+    "id": "log-man-1792063550525",
+    "timestamp": "2026-10-15T11:25:50.525Z",
+    "level": "success",
+    "action": "MANUAL_NOTICE_PROCESSED",
+    "details": "Manual recruitment notice \"UP Police Constable & SI Recruitment 2026\" extracted and draft Hindi article generated.",
+    "noticeId": "notif-manual-1792063497930"
+  },
+  {
+    "id": "log-cfg-1792063532064",
+    "timestamp": "2026-10-15T11:25:32.064Z",
+    "level": "info",
+    "action": "CONFIG_UPDATED",
+    "details": "Automation settings updated. Auto-Publish is currently: DISABLED."
+  },
+  {
+    "id": "log-pub-1792063488015",
+    "timestamp": "2026-10-15T11:24:48.015Z",
+    "level": "success",
+    "action": "NOTICE_PUBLISHED",
+    "details": "Recruitment notice \"SSC Combined Graduate Level (CGL) Examination 2026\" published as active job ID job-auto-1792063488014. Verified and approved by editorial desk",
+    "sourceId": "src-ssc-gov",
+    "noticeId": "notice-ssc-cgl-2026"
+  },
+  {
+    "id": "log-cfg-1792063477063",
+    "timestamp": "2026-10-15T11:24:37.063Z",
+    "level": "info",
+    "action": "CONFIG_UPDATED",
+    "details": "Automation settings updated. Auto-Publish is currently: DISABLED."
+  },
+  {
+    "id": "log-init",
+    "timestamp": "2026-10-15T11:24:31.945Z",
+    "level": "info",
+    "action": "SYSTEM_STARTUP",
+    "details": "SarkariPortal AI Monitoring and Auto-Publishing Engine initialized successfully with 7 configured official sources."
+  }
+]

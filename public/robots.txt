@@ -1,0 +1,13 @@
+User-agent: *
+Allow: /
+Allow: /latest-jobs
+Allow: /results
+Allow: /admit-card
+Allow: /answer-key
+Allow: /syllabus
+Allow: /job/
+Allow: /assets/
+Disallow: /api/
+Disallow: /admin
+
+Sitemap: https://sarkariportal.ai.studio/sitemap.xml

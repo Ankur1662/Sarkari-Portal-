@@ -1,0 +1,10 @@
+{
+  "autoPublishEnabled": false,
+  "minConfidenceForAutoPublish": 90,
+  "requireApplicationUrl": true,
+  "monitoringIntervalMinutes": 30,
+  "aiModel": "gemini-3.8-flash",
+  "maxDailyAiCalls": 100,
+  "currentDailyAiCalls": 6,
+  "lastMonitoringRun": "2026-10-18T10:19:06.849Z"
+}

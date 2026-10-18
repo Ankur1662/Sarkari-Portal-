@@ -1,0 +1,2745 @@
+[
+  {
+    "id": "notif-1792317826346-jxmt",
+    "sourceId": "src-ibps-in",
+    "sourceName": "Institute of Banking Personnel Selection (IBPS)",
+    "sourceUrl": "https://www.ibps.in",
+    "noticeTitle": "Institute of Banking Personnel Selection (IBPS) Recruitment and Selection Notice 2026",
+    "noticeDate": "2026-10-18",
+    "advtNo": "IBPS/REC/2026/01",
+    "documentUrl": "https://www.ibps.in/notice.pdf",
+    "documentHash": "cb9b451ae995ed92e169fa04d26dba7ac147ab179a2ecd87f714ae3a815a7423",
+    "detectedAt": "2026-10-18T10:03:46.346Z",
+    "status": "verification-required",
+    "retryCount": 0,
+    "lastProcessedAt": "2026-10-18T10:03:46.346Z",
+    "extractedData": {
+      "recruitmentTitle": "Institute of Banking Personnel Selection (IBPS) Recruitment Notification 2026",
+      "organization": "Institute of Banking Personnel Selection (IBPS)",
+      "shortOrg": "Institute",
+      "advtNo": "NOTIF-2026/01",
+      "sector": "upsc",
+      "categoryType": "latest-jobs",
+      "postNames": [
+        "Various Grade Officers & Staff"
+      ],
+      "vacancies": 250,
+      "categoryBreakdown": {
+        "ur": 100,
+        "obc": 68,
+        "ews": 25,
+        "sc": 38,
+        "st": 20,
+        "total": 250
+      },
+      "importantDates": {
+        "startDate": "2026-10-18",
+        "lastDate": "2026-11-17",
+        "feeLastDate": "2026-11-17",
+        "examDate": "To be announced officially",
+        "admitCardDate": "10 days before examination"
+      },
+      "qualification": "Bachelor's Degree in Any Stream from Recognized University / Institution",
+      "qualificationLevel": "graduate",
+      "ageLimit": {
+        "min": 18,
+        "max": 32,
+        "asOfDate": "01/08/2026",
+        "relaxation": "OBC: 3 Years, SC/ST: 5 Years, PwD: 10 Years"
+      },
+      "applicationFee": {
+        "genObcEws": 100,
+        "scStPh": 0,
+        "female": 0,
+        "paymentModes": "Debit Card, Credit Card, Internet Banking, UPI"
+      },
+      "selectionProcess": [
+        "Preliminary Examination",
+        "Main Examination",
+        "Interview / Document Verification"
+      ],
+      "payScale": "Level-6 to Level-8 (7th CPC)",
+      "applicationInstructions": "Apply online strictly through the official website portal.",
+      "officialNotificationUrl": "https://www.ibps.in",
+      "officialApplicationUrl": "https://www.ibps.in",
+      "state": "All India",
+      "confidenceScore": 78,
+      "verificationFlags": [
+        "Extracted via deterministic fallback parser",
+        "Please verify official notification PDF before publishing"
+      ],
+      "rawTextExcerpt": "Institute of Banking Personnel Selection (IBPS) has released official recruitment advertisement for filling up vacant posts. Candidates who fulfill all eligibility criteria can apply online via the official recruitment portal. Application window open for 30 days.",
+      "sourcePublicationDate": "2026-10-18",
+      "lastVerifiedDate": "2026-10-18T10:03:46.619Z"
+    },
+    "hindiArticle": {
+      "id": "art-fb-1792317826911",
+      "title": "Institute of Banking Personnel Selection (IBPS) (Institute) भर्ती 2026: 250 पदों पर आवेदन शुरू, जानें अंतिम तिथि एवं योग्यता",
+      "slug": "institute-notif-2026-01-2026",
+      "metaDescription": "Institute of Banking Personnel Selection (IBPS) ने 250 पदों के लिए भर्ती अधिसूचना जारी की है। आवेदन की अंतिम तिथि 2026-11-17 है।",
+      "overview": "Institute of Banking Personnel Selection (IBPS) द्वारा आधिकारिक विज्ञापन संख्या NOTIF-2026/01 के तहत कुल 250 रिक्त पदों पर भर्ती अधिसूचना जारी कर दी गई है। इच्छुक एवं पात्र अभ्यर्थी निर्धारित समय सीमा के भीतर आधिकारिक पोर्टल के माध्यम से ऑनलाइन आवेदन कर सकते हैं।",
+      "importantDatesHindi": [
+        {
+          "label": "ऑनलाइन आवेदन प्रारंभ तिथि",
+          "date": "2026-10-18"
+        },
+        {
+          "label": "आवेदन की अंतिम तिथि",
+          "date": "2026-11-17"
+        },
+        {
+          "label": "परीक्षा शुल्क जमा करने की अंतिम तिथि",
+          "date": "2026-11-17"
+        },
+        {
+          "label": "परीक्षा तिथि",
+          "date": "To be announced officially"
+        }
+      ],
+      "vacancyDetailsHindi": "कुल पद: 250 (अनारक्षित: 100, ओबीसी: 68, ईडब्ल्यूएस: 25, एससी: 38, एसटी: 20)",
+      "eligibilityCriteriaHindi": "Bachelor's Degree in Any Stream from Recognized University / Institution",
+      "ageLimitHindi": "न्यूनतम 18 वर्ष एवं अधिकतम 32 वर्ष (कट-ऑफ तिथि: 01/08/2026)",
+      "applicationFeeHindi": "सामान्य/ओबीसी/ईडब्ल्यूएस: ₹100, आरक्षित वर्ग: ₹0",
+      "selectionProcessHindi": "Preliminary Examination → Main Examination → Interview / Document Verification",
+      "salaryHindi": "Level-6 to Level-8 (7th CPC)",
+      "howToApplyHindi": [
+        "सर्वप्रथम आधिकारिक पोर्टल पर जाएं।",
+        "भर्ती अधिसूचना विज्ञापन को डाउनलोड कर समस्त नियम पढ़ें।",
+        "ऑनलाइन आवेदन पत्र में सभी अनिवार्य विवरण भरें।",
+        "मांगे गए दस्तावेज एवं हस्ताक्षर अपलोड करें।",
+        "परीक्षा शुल्क का ऑनलाइन भुगतान कर पावती प्रिंट करें।"
+      ],
+      "importantDocumentsHindi": [
+        "10वीं/12वीं अंकतालिका व प्रमाण पत्र",
+        "स्नातक डिग्री प्रमाण पत्र",
+        "वैध पहचान पत्र (आधार कार्ड)",
+        "जाति/श्रेणी प्रमाण पत्र"
+      ],
+      "importantLinks": [
+        {
+          "title": "आधिकारिक भर्ती अधिसूचना (PDF)",
+          "url": "https://www.ibps.in",
+          "isOfficial": true
+        },
+        {
+          "title": "ऑनलाइन आवेदन लिंक",
+          "url": "https://www.ibps.in",
+          "isOfficial": true
+        },
+        {
+          "title": "आधिकारिक विभाग वेबसाइट",
+          "url": "https://www.ibps.in",
+          "isOfficial": true
+        }
+      ],
+      "officialNoticeSource": "Official Notification Advt No. NOTIF-2026/01 issued by Institute of Banking Personnel Selection (IBPS)",
+      "faqs": [
+        {
+          "question": "आवेदन की अंतिम तिथि क्या है?",
+          "answer": "आवेदन की अंतिम तिथि 2026-11-17 निर्धारित है।"
+        },
+        {
+          "question": "चयन प्रक्रिया में कौन से चरण शामिल हैं?",
+          "answer": "Preliminary Examination, Main Examination, Interview / Document Verification"
+        }
+      ],
+      "disclaimer": "यह भर्ती विवरण परीक्षार्थियों की सुविधा के लिए तैयार किया गया है। नियम, पात्रता व शर्तों की पूर्ण सत्यता के लिए आधिकारिक अधिसूचना अवश्य पढ़ें।",
+      "fullArticleMarkdown": "# Institute of Banking Personnel Selection (IBPS) (Institute) भर्ती 2026: 250 पदों पर आवेदन शुरू, जानें अंतिम तिथि एवं योग्यता\n\n## 1. भर्ती सारांश (Overview)\nInstitute of Banking Personnel Selection (IBPS) द्वारा आधिकारिक विज्ञापन संख्या NOTIF-2026/01 के तहत कुल 250 रिक्त पदों पर भर्ती अधिसूचना जारी कर दी गई है। इच्छुक एवं पात्र अभ्यर्थी निर्धारित समय सीमा के भीतर आधिकारिक पोर्टल के माध्यम से ऑनलाइन आवेदन कर सकते हैं।\n\n## 2. महत्वपूर्ण तिथियां (Important Dates)\n- **ऑनलाइन आवेदन प्रारंभ तिथि:** 2026-10-18\n- **आवेदन की अंतिम तिथि:** 2026-11-17\n- **परीक्षा शुल्क जमा करने की अंतिम तिथि:** 2026-11-17\n- **परीक्षा तिथि:** To be announced officially\n\n## 3. पदों का विवरण एवं रिक्तियां (Vacancy Details)\nकुल विज्ञापित पद: **250**\n- अनारक्षित (UR): 100\n- ओबीसी (OBC): 68\n- ईडब्ल्यूएस (EWS): 25\n- एससी (SC): 38\n- एसटी (ST): 20\n\n## 4. शैक्षणिक योग्यता (Eligibility Criteria)\nBachelor's Degree in Any Stream from Recognized University / Institution\n\n## 5. आयु सीमा एवं छूट (Age Limit & Relaxations)\nन्यूनतम आयु 18 वर्ष तथा अधिकतम आयु 32 वर्ष। नियमानुसार आयु में छूट प्रदान की जाएगी (OBC: 3 Years, SC/ST: 5 Years, PwD: 10 Years)।\n\n## 6. आवेदन शुल्क (Application Fee)\n- सामान्य / ओबीसी / ईडब्ल्यूएस: ₹100\n- एससी / एसटी / दिव्यांग: ₹0\n- महिला अभ्यर्थी: ₹0\n- भुगतान माध्यम: Debit Card, Credit Card, Internet Banking, UPI\n\n## 7. चयन प्रक्रिया (Selection Process)\n1. Preliminary Examination\n2. Main Examination\n3. Interview / Document Verification\n\n## 8. वेतनमान (Pay Scale)\nLevel-6 to Level-8 (7th CPC)\n\n## 9. आवेदन कैसे करें (Step-by-step How to Apply)\n1. आधिकारिक वेबसाइट पर जाएं।\n2. आधिकारिक भर्ती अधिसूचना (PDF) डाउनलोड करें और ध्यानपूर्वक पढ़ें।\n3. ऑनलाइन आवेदन लिंक पर क्लिक कर आवश्यक विवरण दर्ज करें।\n4. दस्तावेज, फोटो व हस्ताक्षर निर्धारित प्रारूप में अपलोड करें।\n5. आवेदन शुल्क का भुगतान कर अंतिम प्रिंटआउट सुरक्षित रखें।\n\n## 10. अस्वीकरण (Disclaimer)\nयह जानकारी अभ्यर्थियों के मार्गदर्शन हेतु प्रस्तुत की गई है। किसी भी संशय की स्थिति में आधिकारिक अधिसूचना को ही अंतिम माना जाए।",
+      "generatedAt": "2026-10-18T10:03:46.911Z",
+      "updatedAt": "2026-10-18T10:03:46.911Z"
+    },
+    "autoPublishDecision": {
+      "eligible": false,
+      "reason": "Auto-publishing is disabled in master settings (Draft First policy). Saved for administrative approval.",
+      "decidedAt": "2026-10-18T10:03:46.911Z",
+      "published": false
+    }
+  },
+  {
+    "id": "notif-1792317824664-ye5n",
+    "sourceId": "src-uppsc-up-nic",
+    "sourceName": "Uttar Pradesh Public Service Commission (UPPSC)",
+    "sourceUrl": "https://uppsc.up.nic.in/AllNotification.aspx",
+    "noticeTitle": "Uttar Pradesh Public Service Commission (UPPSC) Recruitment and Selection Notice 2026",
+    "noticeDate": "2026-10-18",
+    "advtNo": "UPPSC/REC/2026/01",
+    "documentUrl": "https://uppsc.up.nic.in/notice.pdf",
+    "documentHash": "cc3f85b5c6e7f753b228ceb80c236d2befaa46687efff4d2f257f658b8baec68",
+    "detectedAt": "2026-10-18T10:03:44.664Z",
+    "status": "verification-required",
+    "retryCount": 0,
+    "lastProcessedAt": "2026-10-18T10:03:44.664Z",
+    "extractedData": {
+      "recruitmentTitle": "Uttar Pradesh Public Service Commission (UPPSC) Recruitment Notification 2026",
+      "organization": "Uttar Pradesh Public Service Commission (UPPSC)",
+      "shortOrg": "Uttar",
+      "advtNo": "NOTIF-2026/01",
+      "sector": "upsc",
+      "categoryType": "latest-jobs",
+      "postNames": [
+        "Various Grade Officers & Staff"
+      ],
+      "vacancies": 250,
+      "categoryBreakdown": {
+        "ur": 100,
+        "obc": 68,
+        "ews": 25,
+        "sc": 38,
+        "st": 20,
+        "total": 250
+      },
+      "importantDates": {
+        "startDate": "2026-10-18",
+        "lastDate": "2026-11-17",
+        "feeLastDate": "2026-11-17",
+        "examDate": "To be announced officially",
+        "admitCardDate": "10 days before examination"
+      },
+      "qualification": "Bachelor's Degree in Any Stream from Recognized University / Institution",
+      "qualificationLevel": "graduate",
+      "ageLimit": {
+        "min": 18,
+        "max": 32,
+        "asOfDate": "01/08/2026",
+        "relaxation": "OBC: 3 Years, SC/ST: 5 Years, PwD: 10 Years"
+      },
+      "applicationFee": {
+        "genObcEws": 100,
+        "scStPh": 0,
+        "female": 0,
+        "paymentModes": "Debit Card, Credit Card, Internet Banking, UPI"
+      },
+      "selectionProcess": [
+        "Preliminary Examination",
+        "Main Examination",
+        "Interview / Document Verification"
+      ],
+      "payScale": "Level-6 to Level-8 (7th CPC)",
+      "applicationInstructions": "Apply online strictly through the official website portal.",
+      "officialNotificationUrl": "https://uppsc.up.nic.in/AllNotification.aspx",
+      "officialApplicationUrl": "https://uppsc.up.nic.in/AllNotification.aspx",
+      "state": "All India",
+      "confidenceScore": 78,
+      "verificationFlags": [
+        "Extracted via deterministic fallback parser",
+        "Please verify official notification PDF before publishing"
+      ],
+      "rawTextExcerpt": "Uttar Pradesh Public Service Commission (UPPSC) has released official recruitment advertisement for filling up vacant posts. Candidates who fulfill all eligibility criteria can apply online via the official recruitment portal. Application window open for 30 days.",
+      "sourcePublicationDate": "2026-10-18",
+      "lastVerifiedDate": "2026-10-18T10:03:45.015Z"
+    },
+    "hindiArticle": {
+      "id": "art-fb-1792317825332",
+      "title": "Uttar Pradesh Public Service Commission (UPPSC) (Uttar) भर्ती 2026: 250 पदों पर आवेदन शुरू, जानें अंतिम तिथि एवं योग्यता",
+      "slug": "uttar-notif-2026-01-2026",
+      "metaDescription": "Uttar Pradesh Public Service Commission (UPPSC) ने 250 पदों के लिए भर्ती अधिसूचना जारी की है। आवेदन की अंतिम तिथि 2026-11-17 है।",
+      "overview": "Uttar Pradesh Public Service Commission (UPPSC) द्वारा आधिकारिक विज्ञापन संख्या NOTIF-2026/01 के तहत कुल 250 रिक्त पदों पर भर्ती अधिसूचना जारी कर दी गई है। इच्छुक एवं पात्र अभ्यर्थी निर्धारित समय सीमा के भीतर आधिकारिक पोर्टल के माध्यम से ऑनलाइन आवेदन कर सकते हैं।",
+      "importantDatesHindi": [
+        {
+          "label": "ऑनलाइन आवेदन प्रारंभ तिथि",
+          "date": "2026-10-18"
+        },
+        {
+          "label": "आवेदन की अंतिम तिथि",
+          "date": "2026-11-17"
+        },
+        {
+          "label": "परीक्षा शुल्क जमा करने की अंतिम तिथि",
+          "date": "2026-11-17"
+        },
+        {
+          "label": "परीक्षा तिथि",
+          "date": "To be announced officially"
+        }
+      ],
+      "vacancyDetailsHindi": "कुल पद: 250 (अनारक्षित: 100, ओबीसी: 68, ईडब्ल्यूएस: 25, एससी: 38, एसटी: 20)",
+      "eligibilityCriteriaHindi": "Bachelor's Degree in Any Stream from Recognized University / Institution",
+      "ageLimitHindi": "न्यूनतम 18 वर्ष एवं अधिकतम 32 वर्ष (कट-ऑफ तिथि: 01/08/2026)",
+      "applicationFeeHindi": "सामान्य/ओबीसी/ईडब्ल्यूएस: ₹100, आरक्षित वर्ग: ₹0",
+      "selectionProcessHindi": "Preliminary Examination → Main Examination → Interview / Document Verification",
+      "salaryHindi": "Level-6 to Level-8 (7th CPC)",
+      "howToApplyHindi": [
+        "सर्वप्रथम आधिकारिक पोर्टल पर जाएं।",
+        "भर्ती अधिसूचना विज्ञापन को डाउनलोड कर समस्त नियम पढ़ें।",
+        "ऑनलाइन आवेदन पत्र में सभी अनिवार्य विवरण भरें।",
+        "मांगे गए दस्तावेज एवं हस्ताक्षर अपलोड करें।",
+        "परीक्षा शुल्क का ऑनलाइन भुगतान कर पावती प्रिंट करें।"
+      ],
+      "importantDocumentsHindi": [
+        "10वीं/12वीं अंकतालिका व प्रमाण पत्र",
+        "स्नातक डिग्री प्रमाण पत्र",
+        "वैध पहचान पत्र (आधार कार्ड)",
+        "जाति/श्रेणी प्रमाण पत्र"
+      ],
+      "importantLinks": [
+        {
+          "title": "आधिकारिक भर्ती अधिसूचना (PDF)",
+          "url": "https://uppsc.up.nic.in/AllNotification.aspx",
+          "isOfficial": true
+        },
+        {
+          "title": "ऑनलाइन आवेदन लिंक",
+          "url": "https://uppsc.up.nic.in/AllNotification.aspx",
+          "isOfficial": true
+        },
+        {
+          "title": "आधिकारिक विभाग वेबसाइट",
+          "url": "https://uppsc.up.nic.in/AllNotification.aspx",
+          "isOfficial": true
+        }
+      ],
+      "officialNoticeSource": "Official Notification Advt No. NOTIF-2026/01 issued by Uttar Pradesh Public Service Commission (UPPSC)",
+      "faqs": [
+        {
+          "question": "आवेदन की अंतिम तिथि क्या है?",
+          "answer": "आवेदन की अंतिम तिथि 2026-11-17 निर्धारित है।"
+        },
+        {
+          "question": "चयन प्रक्रिया में कौन से चरण शामिल हैं?",
+          "answer": "Preliminary Examination, Main Examination, Interview / Document Verification"
+        }
+      ],
+      "disclaimer": "यह भर्ती विवरण परीक्षार्थियों की सुविधा के लिए तैयार किया गया है। नियम, पात्रता व शर्तों की पूर्ण सत्यता के लिए आधिकारिक अधिसूचना अवश्य पढ़ें।",
+      "fullArticleMarkdown": "# Uttar Pradesh Public Service Commission (UPPSC) (Uttar) भर्ती 2026: 250 पदों पर आवेदन शुरू, जानें अंतिम तिथि एवं योग्यता\n\n## 1. भर्ती सारांश (Overview)\nUttar Pradesh Public Service Commission (UPPSC) द्वारा आधिकारिक विज्ञापन संख्या NOTIF-2026/01 के तहत कुल 250 रिक्त पदों पर भर्ती अधिसूचना जारी कर दी गई है। इच्छुक एवं पात्र अभ्यर्थी निर्धारित समय सीमा के भीतर आधिकारिक पोर्टल के माध्यम से ऑनलाइन आवेदन कर सकते हैं।\n\n## 2. महत्वपूर्ण तिथियां (Important Dates)\n- **ऑनलाइन आवेदन प्रारंभ तिथि:** 2026-10-18\n- **आवेदन की अंतिम तिथि:** 2026-11-17\n- **परीक्षा शुल्क जमा करने की अंतिम तिथि:** 2026-11-17\n- **परीक्षा तिथि:** To be announced officially\n\n## 3. पदों का विवरण एवं रिक्तियां (Vacancy Details)\nकुल विज्ञापित पद: **250**\n- अनारक्षित (UR): 100\n- ओबीसी (OBC): 68\n- ईडब्ल्यूएस (EWS): 25\n- एससी (SC): 38\n- एसटी (ST): 20\n\n## 4. शैक्षणिक योग्यता (Eligibility Criteria)\nBachelor's Degree in Any Stream from Recognized University / Institution\n\n## 5. आयु सीमा एवं छूट (Age Limit & Relaxations)\nन्यूनतम आयु 18 वर्ष तथा अधिकतम आयु 32 वर्ष। नियमानुसार आयु में छूट प्रदान की जाएगी (OBC: 3 Years, SC/ST: 5 Years, PwD: 10 Years)।\n\n## 6. आवेदन शुल्क (Application Fee)\n- सामान्य / ओबीसी / ईडब्ल्यूएस: ₹100\n- एससी / एसटी / दिव्यांग: ₹0\n- महिला अभ्यर्थी: ₹0\n- भुगतान माध्यम: Debit Card, Credit Card, Internet Banking, UPI\n\n## 7. चयन प्रक्रिया (Selection Process)\n1. Preliminary Examination\n2. Main Examination\n3. Interview / Document Verification\n\n## 8. वेतनमान (Pay Scale)\nLevel-6 to Level-8 (7th CPC)\n\n## 9. आवेदन कैसे करें (Step-by-step How to Apply)\n1. आधिकारिक वेबसाइट पर जाएं।\n2. आधिकारिक भर्ती अधिसूचना (PDF) डाउनलोड करें और ध्यानपूर्वक पढ़ें।\n3. ऑनलाइन आवेदन लिंक पर क्लिक कर आवश्यक विवरण दर्ज करें।\n4. दस्तावेज, फोटो व हस्ताक्षर निर्धारित प्रारूप में अपलोड करें।\n5. आवेदन शुल्क का भुगतान कर अंतिम प्रिंटआउट सुरक्षित रखें।\n\n## 10. अस्वीकरण (Disclaimer)\nयह जानकारी अभ्यर्थियों के मार्गदर्शन हेतु प्रस्तुत की गई है। किसी भी संशय की स्थिति में आधिकारिक अधिसूचना को ही अंतिम माना जाए।",
+      "generatedAt": "2026-10-18T10:03:45.332Z",
+      "updatedAt": "2026-10-18T10:03:45.332Z"
+    },
+    "autoPublishDecision": {
+      "eligible": false,
+      "reason": "Auto-publishing is disabled in master settings (Draft First policy). Saved for administrative approval.",
+      "decidedAt": "2026-10-18T10:03:45.332Z",
+      "published": false
+    }
+  },
+  {
+    "id": "notif-1792317822657-ktcs",
+    "sourceId": "src-bpsc-bih-nic",
+    "sourceName": "Bihar Public Service Commission (BPSC)",
+    "sourceUrl": "https://www.bpsc.bih.nic.in",
+    "noticeTitle": "Bihar Public Service Commission (BPSC) Recruitment and Selection Notice 2026",
+    "noticeDate": "2026-10-18",
+    "advtNo": "BPSC/REC/2026/01",
+    "documentUrl": "https://www.bpsc.bih.nic.in/notice.pdf",
+    "documentHash": "83dc05d1012821a3aa4ed48860487eb831bd258d0e9ce49be3a04e2f0b229197",
+    "detectedAt": "2026-10-18T10:03:42.657Z",
+    "status": "verification-required",
+    "retryCount": 0,
+    "lastProcessedAt": "2026-10-18T10:03:42.657Z",
+    "extractedData": {
+      "recruitmentTitle": "Bihar Public Service Commission (BPSC) Recruitment Notification 2026",
+      "organization": "Bihar Public Service Commission (BPSC)",
+      "shortOrg": "Bihar",
+      "advtNo": "NOTIF-2026/01",
+      "sector": "upsc",
+      "categoryType": "latest-jobs",
+      "postNames": [
+        "Various Grade Officers & Staff"
+      ],
+      "vacancies": 250,
+      "categoryBreakdown": {
+        "ur": 100,
+        "obc": 68,
+        "ews": 25,
+        "sc": 38,
+        "st": 20,
+        "total": 250
+      },
+      "importantDates": {
+        "startDate": "2026-10-18",
+        "lastDate": "2026-11-17",
+        "feeLastDate": "2026-11-17",
+        "examDate": "To be announced officially",
+        "admitCardDate": "10 days before examination"
+      },
+      "qualification": "Bachelor's Degree in Any Stream from Recognized University / Institution",
+      "qualificationLevel": "graduate",
+      "ageLimit": {
+        "min": 18,
+        "max": 32,
+        "asOfDate": "01/08/2026",
+        "relaxation": "OBC: 3 Years, SC/ST: 5 Years, PwD: 10 Years"
+      },
+      "applicationFee": {
+        "genObcEws": 100,
+        "scStPh": 0,
+        "female": 0,
+        "paymentModes": "Debit Card, Credit Card, Internet Banking, UPI"
+      },
+      "selectionProcess": [
+        "Preliminary Examination",
+        "Main Examination",
+        "Interview / Document Verification"
+      ],
+      "payScale": "Level-6 to Level-8 (7th CPC)",
+      "applicationInstructions": "Apply online strictly through the official website portal.",
+      "officialNotificationUrl": "https://www.bpsc.bih.nic.in",
+      "officialApplicationUrl": "https://www.bpsc.bih.nic.in",
+      "state": "All India",
+      "confidenceScore": 78,
+      "verificationFlags": [
+        "Extracted via deterministic fallback parser",
+        "Please verify official notification PDF before publishing"
+      ],
+      "rawTextExcerpt": "Bihar Public Service Commission (BPSC) has released official recruitment advertisement for filling up vacant posts. Candidates who fulfill all eligibility criteria can apply online via the official recruitment portal. Application window open for 30 days.",
+      "sourcePublicationDate": "2026-10-18",
+      "lastVerifiedDate": "2026-10-18T10:03:42.955Z"
+    },
+    "hindiArticle": {
+      "id": "art-fb-1792317823269",
+      "title": "Bihar Public Service Commission (BPSC) (Bihar) भर्ती 2026: 250 पदों पर आवेदन शुरू, जानें अंतिम तिथि एवं योग्यता",
+      "slug": "bihar-notif-2026-01-2026",
+      "metaDescription": "Bihar Public Service Commission (BPSC) ने 250 पदों के लिए भर्ती अधिसूचना जारी की है। आवेदन की अंतिम तिथि 2026-11-17 है।",
+      "overview": "Bihar Public Service Commission (BPSC) द्वारा आधिकारिक विज्ञापन संख्या NOTIF-2026/01 के तहत कुल 250 रिक्त पदों पर भर्ती अधिसूचना जारी कर दी गई है। इच्छुक एवं पात्र अभ्यर्थी निर्धारित समय सीमा के भीतर आधिकारिक पोर्टल के माध्यम से ऑनलाइन आवेदन कर सकते हैं।",
+      "importantDatesHindi": [
+        {
+          "label": "ऑनलाइन आवेदन प्रारंभ तिथि",
+          "date": "2026-10-18"
+        },
+        {
+          "label": "आवेदन की अंतिम तिथि",
+          "date": "2026-11-17"
+        },
+        {
+          "label": "परीक्षा शुल्क जमा करने की अंतिम तिथि",
+          "date": "2026-11-17"
+        },
+        {
+          "label": "परीक्षा तिथि",
+          "date": "To be announced officially"
+        }
+      ],
+      "vacancyDetailsHindi": "कुल पद: 250 (अनारक्षित: 100, ओबीसी: 68, ईडब्ल्यूएस: 25, एससी: 38, एसटी: 20)",
+      "eligibilityCriteriaHindi": "Bachelor's Degree in Any Stream from Recognized University / Institution",
+      "ageLimitHindi": "न्यूनतम 18 वर्ष एवं अधिकतम 32 वर्ष (कट-ऑफ तिथि: 01/08/2026)",
+      "applicationFeeHindi": "सामान्य/ओबीसी/ईडब्ल्यूएस: ₹100, आरक्षित वर्ग: ₹0",
+      "selectionProcessHindi": "Preliminary Examination → Main Examination → Interview / Document Verification",
+      "salaryHindi": "Level-6 to Level-8 (7th CPC)",
+      "howToApplyHindi": [
+        "सर्वप्रथम आधिकारिक पोर्टल पर जाएं।",
+        "भर्ती अधिसूचना विज्ञापन को डाउनलोड कर समस्त नियम पढ़ें।",
+        "ऑनलाइन आवेदन पत्र में सभी अनिवार्य विवरण भरें।",
+        "मांगे गए दस्तावेज एवं हस्ताक्षर अपलोड करें।",
+        "परीक्षा शुल्क का ऑनलाइन भुगतान कर पावती प्रिंट करें।"
+      ],
+      "importantDocumentsHindi": [
+        "10वीं/12वीं अंकतालिका व प्रमाण पत्र",
+        "स्नातक डिग्री प्रमाण पत्र",
+        "वैध पहचान पत्र (आधार कार्ड)",
+        "जाति/श्रेणी प्रमाण पत्र"
+      ],
+      "importantLinks": [
+        {
+          "title": "आधिकारिक भर्ती अधिसूचना (PDF)",
+          "url": "https://www.bpsc.bih.nic.in",
+          "isOfficial": true
+        },
+        {
+          "title": "ऑनलाइन आवेदन लिंक",
+          "url": "https://www.bpsc.bih.nic.in",
+          "isOfficial": true
+        },
+        {
+          "title": "आधिकारिक विभाग वेबसाइट",
+          "url": "https://www.bpsc.bih.nic.in",
+          "isOfficial": true
+        }
+      ],
+      "officialNoticeSource": "Official Notification Advt No. NOTIF-2026/01 issued by Bihar Public Service Commission (BPSC)",
+      "faqs": [
+        {
+          "question": "आवेदन की अंतिम तिथि क्या है?",
+          "answer": "आवेदन की अंतिम तिथि 2026-11-17 निर्धारित है।"
+        },
+        {
+          "question": "चयन प्रक्रिया में कौन से चरण शामिल हैं?",
+          "answer": "Preliminary Examination, Main Examination, Interview / Document Verification"
+        }
+      ],
+      "disclaimer": "यह भर्ती विवरण परीक्षार्थियों की सुविधा के लिए तैयार किया गया है। नियम, पात्रता व शर्तों की पूर्ण सत्यता के लिए आधिकारिक अधिसूचना अवश्य पढ़ें।",
+      "fullArticleMarkdown": "# Bihar Public Service Commission (BPSC) (Bihar) भर्ती 2026: 250 पदों पर आवेदन शुरू, जानें अंतिम तिथि एवं योग्यता\n\n## 1. भर्ती सारांश (Overview)\nBihar Public Service Commission (BPSC) द्वारा आधिकारिक विज्ञापन संख्या NOTIF-2026/01 के तहत कुल 250 रिक्त पदों पर भर्ती अधिसूचना जारी कर दी गई है। इच्छुक एवं पात्र अभ्यर्थी निर्धारित समय सीमा के भीतर आधिकारिक पोर्टल के माध्यम से ऑनलाइन आवेदन कर सकते हैं।\n\n## 2. महत्वपूर्ण तिथियां (Important Dates)\n- **ऑनलाइन आवेदन प्रारंभ तिथि:** 2026-10-18\n- **आवेदन की अंतिम तिथि:** 2026-11-17\n- **परीक्षा शुल्क जमा करने की अंतिम तिथि:** 2026-11-17\n- **परीक्षा तिथि:** To be announced officially\n\n## 3. पदों का विवरण एवं रिक्तियां (Vacancy Details)\nकुल विज्ञापित पद: **250**\n- अनारक्षित (UR): 100\n- ओबीसी (OBC): 68\n- ईडब्ल्यूएस (EWS): 25\n- एससी (SC): 38\n- एसटी (ST): 20\n\n## 4. शैक्षणिक योग्यता (Eligibility Criteria)\nBachelor's Degree in Any Stream from Recognized University / Institution\n\n## 5. आयु सीमा एवं छूट (Age Limit & Relaxations)\nन्यूनतम आयु 18 वर्ष तथा अधिकतम आयु 32 वर्ष। नियमानुसार आयु में छूट प्रदान की जाएगी (OBC: 3 Years, SC/ST: 5 Years, PwD: 10 Years)।\n\n## 6. आवेदन शुल्क (Application Fee)\n- सामान्य / ओबीसी / ईडब्ल्यूएस: ₹100\n- एससी / एसटी / दिव्यांग: ₹0\n- महिला अभ्यर्थी: ₹0\n- भुगतान माध्यम: Debit Card, Credit Card, Internet Banking, UPI\n\n## 7. चयन प्रक्रिया (Selection Process)\n1. Preliminary Examination\n2. Main Examination\n3. Interview / Document Verification\n\n## 8. वेतनमान (Pay Scale)\nLevel-6 to Level-8 (7th CPC)\n\n## 9. आवेदन कैसे करें (Step-by-step How to Apply)\n1. आधिकारिक वेबसाइट पर जाएं।\n2. आधिकारिक भर्ती अधिसूचना (PDF) डाउनलोड करें और ध्यानपूर्वक पढ़ें।\n3. ऑनलाइन आवेदन लिंक पर क्लिक कर आवश्यक विवरण दर्ज करें।\n4. दस्तावेज, फोटो व हस्ताक्षर निर्धारित प्रारूप में अपलोड करें।\n5. आवेदन शुल्क का भुगतान कर अंतिम प्रिंटआउट सुरक्षित रखें।\n\n## 10. अस्वीकरण (Disclaimer)\nयह जानकारी अभ्यर्थियों के मार्गदर्शन हेतु प्रस्तुत की गई है। किसी भी संशय की स्थिति में आधिकारिक अधिसूचना को ही अंतिम माना जाए।",
+      "generatedAt": "2026-10-18T10:03:43.269Z",
+      "updatedAt": "2026-10-18T10:03:43.269Z"
+    },
+    "autoPublishDecision": {
+      "eligible": false,
+      "reason": "Auto-publishing is disabled in master settings (Draft First policy). Saved for administrative approval.",
+      "decidedAt": "2026-10-18T10:03:43.269Z",
+      "published": false
+    }
+  },
+  {
+    "id": "notif-1792317818277-nz76",
+    "sourceId": "src-uppbpb-gov",
+    "sourceName": "UP Police Recruitment & Promotion Board (UPPRPB)",
+    "sourceUrl": "https://uppbpb.gov.in/Notices.aspx",
+    "noticeTitle": "UP Police Recruitment & Promotion Board (UPPRPB) Recruitment and Selection Notice 2026",
+    "noticeDate": "2026-10-18",
+    "advtNo": "UP Police/REC/2026/01",
+    "documentUrl": "https://uppbpb.gov.in/notice.pdf",
+    "documentHash": "335bacca315f168270a41791ae65275e7f9e6484409159c0d3da04cfaa6c2963",
+    "detectedAt": "2026-10-18T10:03:38.277Z",
+    "status": "verification-required",
+    "retryCount": 0,
+    "lastProcessedAt": "2026-10-18T10:03:38.277Z",
+    "extractedData": {
+      "recruitmentTitle": "UP Police Recruitment & Promotion Board (UPPRPB) Recruitment Notification 2026",
+      "organization": "UP Police Recruitment & Promotion Board (UPPRPB)",
+      "shortOrg": "UP",
+      "advtNo": "NOTIF-2026/01",
+      "sector": "upsc",
+      "categoryType": "latest-jobs",
+      "postNames": [
+        "Various Grade Officers & Staff"
+      ],
+      "vacancies": 250,
+      "categoryBreakdown": {
+        "ur": 100,
+        "obc": 68,
+        "ews": 25,
+        "sc": 38,
+        "st": 20,
+        "total": 250
+      },
+      "importantDates": {
+        "startDate": "2026-10-18",
+        "lastDate": "2026-11-17",
+        "feeLastDate": "2026-11-17",
+        "examDate": "To be announced officially",
+        "admitCardDate": "10 days before examination"
+      },
+      "qualification": "Bachelor's Degree in Any Stream from Recognized University / Institution",
+      "qualificationLevel": "graduate",
+      "ageLimit": {
+        "min": 18,
+        "max": 32,
+        "asOfDate": "01/08/2026",
+        "relaxation": "OBC: 3 Years, SC/ST: 5 Years, PwD: 10 Years"
+      },
+      "applicationFee": {
+        "genObcEws": 100,
+        "scStPh": 0,
+        "female": 0,
+        "paymentModes": "Debit Card, Credit Card, Internet Banking, UPI"
+      },
+      "selectionProcess": [
+        "Preliminary Examination",
+        "Main Examination",
+        "Interview / Document Verification"
+      ],
+      "payScale": "Level-6 to Level-8 (7th CPC)",
+      "applicationInstructions": "Apply online strictly through the official website portal.",
+      "officialNotificationUrl": "https://uppbpb.gov.in/Notices.aspx",
+      "officialApplicationUrl": "https://uppbpb.gov.in/Notices.aspx",
+      "state": "All India",
+      "confidenceScore": 78,
+      "verificationFlags": [
+        "Extracted via deterministic fallback parser",
+        "Please verify official notification PDF before publishing"
+      ],
+      "rawTextExcerpt": "UP Police Recruitment & Promotion Board (UPPRPB) has released official recruitment advertisement for filling up vacant posts. Candidates who fulfill all eligibility criteria can apply online via the official recruitment portal. Application window open for 30 days.",
+      "sourcePublicationDate": "2026-10-18",
+      "lastVerifiedDate": "2026-10-18T10:03:38.559Z"
+    },
+    "hindiArticle": {
+      "id": "art-fb-1792317818853",
+      "title": "UP Police Recruitment & Promotion Board (UPPRPB) (UP) भर्ती 2026: 250 पदों पर आवेदन शुरू, जानें अंतिम तिथि एवं योग्यता",
+      "slug": "up-notif-2026-01-2026",
+      "metaDescription": "UP Police Recruitment & Promotion Board (UPPRPB) ने 250 पदों के लिए भर्ती अधिसूचना जारी की है। आवेदन की अंतिम तिथि 2026-11-17 है।",
+      "overview": "UP Police Recruitment & Promotion Board (UPPRPB) द्वारा आधिकारिक विज्ञापन संख्या NOTIF-2026/01 के तहत कुल 250 रिक्त पदों पर भर्ती अधिसूचना जारी कर दी गई है। इच्छुक एवं पात्र अभ्यर्थी निर्धारित समय सीमा के भीतर आधिकारिक पोर्टल के माध्यम से ऑनलाइन आवेदन कर सकते हैं।",
+      "importantDatesHindi": [
+        {
+          "label": "ऑनलाइन आवेदन प्रारंभ तिथि",
+          "date": "2026-10-18"
+        },
+        {
+          "label": "आवेदन की अंतिम तिथि",
+          "date": "2026-11-17"
+        },
+        {
+          "label": "परीक्षा शुल्क जमा करने की अंतिम तिथि",
+          "date": "2026-11-17"
+        },
+        {
+          "label": "परीक्षा तिथि",
+          "date": "To be announced officially"
+        }
+      ],
+      "vacancyDetailsHindi": "कुल पद: 250 (अनारक्षित: 100, ओबीसी: 68, ईडब्ल्यूएस: 25, एससी: 38, एसटी: 20)",
+      "eligibilityCriteriaHindi": "Bachelor's Degree in Any Stream from Recognized University / Institution",
+      "ageLimitHindi": "न्यूनतम 18 वर्ष एवं अधिकतम 32 वर्ष (कट-ऑफ तिथि: 01/08/2026)",
+      "applicationFeeHindi": "सामान्य/ओबीसी/ईडब्ल्यूएस: ₹100, आरक्षित वर्ग: ₹0",
+      "selectionProcessHindi": "Preliminary Examination → Main Examination → Interview / Document Verification",
+      "salaryHindi": "Level-6 to Level-8 (7th CPC)",
+      "howToApplyHindi": [
+        "सर्वप्रथम आधिकारिक पोर्टल पर जाएं।",
+        "भर्ती अधिसूचना विज्ञापन को डाउनलोड कर समस्त नियम पढ़ें।",
+        "ऑनलाइन आवेदन पत्र में सभी अनिवार्य विवरण भरें।",
+        "मांगे गए दस्तावेज एवं हस्ताक्षर अपलोड करें।",
+        "परीक्षा शुल्क का ऑनलाइन भुगतान कर पावती प्रिंट करें।"
+      ],
+      "importantDocumentsHindi": [
+        "10वीं/12वीं अंकतालिका व प्रमाण पत्र",
+        "स्नातक डिग्री प्रमाण पत्र",
+        "वैध पहचान पत्र (आधार कार्ड)",
+        "जाति/श्रेणी प्रमाण पत्र"
+      ],
+      "importantLinks": [
+        {
+          "title": "आधिकारिक भर्ती अधिसूचना (PDF)",
+          "url": "https://uppbpb.gov.in/Notices.aspx",
+          "isOfficial": true
+        },
+        {
+          "title": "ऑनलाइन आवेदन लिंक",
+          "url": "https://uppbpb.gov.in/Notices.aspx",
+          "isOfficial": true
+        },
+        {
+          "title": "आधिकारिक विभाग वेबसाइट",
+          "url": "https://uppbpb.gov.in/Notices.aspx",
+          "isOfficial": true
+        }
+      ],
+      "officialNoticeSource": "Official Notification Advt No. NOTIF-2026/01 issued by UP Police Recruitment & Promotion Board (UPPRPB)",
+      "faqs": [
+        {
+          "question": "आवेदन की अंतिम तिथि क्या है?",
+          "answer": "आवेदन की अंतिम तिथि 2026-11-17 निर्धारित है।"
+        },
+        {
+          "question": "चयन प्रक्रिया में कौन से चरण शामिल हैं?",
+          "answer": "Preliminary Examination, Main Examination, Interview / Document Verification"
+        }
+      ],
+      "disclaimer": "यह भर्ती विवरण परीक्षार्थियों की सुविधा के लिए तैयार किया गया है। नियम, पात्रता व शर्तों की पूर्ण सत्यता के लिए आधिकारिक अधिसूचना अवश्य पढ़ें।",
+      "fullArticleMarkdown": "# UP Police Recruitment & Promotion Board (UPPRPB) (UP) भर्ती 2026: 250 पदों पर आवेदन शुरू, जानें अंतिम तिथि एवं योग्यता\n\n## 1. भर्ती सारांश (Overview)\nUP Police Recruitment & Promotion Board (UPPRPB) द्वारा आधिकारिक विज्ञापन संख्या NOTIF-2026/01 के तहत कुल 250 रिक्त पदों पर भर्ती अधिसूचना जारी कर दी गई है। इच्छुक एवं पात्र अभ्यर्थी निर्धारित समय सीमा के भीतर आधिकारिक पोर्टल के माध्यम से ऑनलाइन आवेदन कर सकते हैं।\n\n## 2. महत्वपूर्ण तिथियां (Important Dates)\n- **ऑनलाइन आवेदन प्रारंभ तिथि:** 2026-10-18\n- **आवेदन की अंतिम तिथि:** 2026-11-17\n- **परीक्षा शुल्क जमा करने की अंतिम तिथि:** 2026-11-17\n- **परीक्षा तिथि:** To be announced officially\n\n## 3. पदों का विवरण एवं रिक्तियां (Vacancy Details)\nकुल विज्ञापित पद: **250**\n- अनारक्षित (UR): 100\n- ओबीसी (OBC): 68\n- ईडब्ल्यूएस (EWS): 25\n- एससी (SC): 38\n- एसटी (ST): 20\n\n## 4. शैक्षणिक योग्यता (Eligibility Criteria)\nBachelor's Degree in Any Stream from Recognized University / Institution\n\n## 5. आयु सीमा एवं छूट (Age Limit & Relaxations)\nन्यूनतम आयु 18 वर्ष तथा अधिकतम आयु 32 वर्ष। नियमानुसार आयु में छूट प्रदान की जाएगी (OBC: 3 Years, SC/ST: 5 Years, PwD: 10 Years)।\n\n## 6. आवेदन शुल्क (Application Fee)\n- सामान्य / ओबीसी / ईडब्ल्यूएस: ₹100\n- एससी / एसटी / दिव्यांग: ₹0\n- महिला अभ्यर्थी: ₹0\n- भुगतान माध्यम: Debit Card, Credit Card, Internet Banking, UPI\n\n## 7. चयन प्रक्रिया (Selection Process)\n1. Preliminary Examination\n2. Main Examination\n3. Interview / Document Verification\n\n## 8. वेतनमान (Pay Scale)\nLevel-6 to Level-8 (7th CPC)\n\n## 9. आवेदन कैसे करें (Step-by-step How to Apply)\n1. आधिकारिक वेबसाइट पर जाएं।\n2. आधिकारिक भर्ती अधिसूचना (PDF) डाउनलोड करें और ध्यानपूर्वक पढ़ें।\n3. ऑनलाइन आवेदन लिंक पर क्लिक कर आवश्यक विवरण दर्ज करें।\n4. दस्तावेज, फोटो व हस्ताक्षर निर्धारित प्रारूप में अपलोड करें।\n5. आवेदन शुल्क का भुगतान कर अंतिम प्रिंटआउट सुरक्षित रखें।\n\n## 10. अस्वीकरण (Disclaimer)\nयह जानकारी अभ्यर्थियों के मार्गदर्शन हेतु प्रस्तुत की गई है। किसी भी संशय की स्थिति में आधिकारिक अधिसूचना को ही अंतिम माना जाए।",
+      "generatedAt": "2026-10-18T10:03:38.853Z",
+      "updatedAt": "2026-10-18T10:03:38.853Z"
+    },
+    "autoPublishDecision": {
+      "eligible": false,
+      "reason": "Auto-publishing is disabled in master settings (Draft First policy). Saved for administrative approval.",
+      "decidedAt": "2026-10-18T10:03:38.853Z",
+      "published": false
+    }
+  },
+  {
+    "id": "notif-1792317816350-bbnv",
+    "sourceId": "src-rrb-gov",
+    "sourceName": "Railway Recruitment Boards (RRB Central)",
+    "sourceUrl": "https://www.rrbapply.gov.in/",
+    "noticeTitle": "RRB Technician Grade-I (Signal) and Grade-III Recruitment CEN 02/2026",
+    "noticeDate": "2026-10-18",
+    "advtNo": "CEN 02/2026",
+    "documentUrl": "https://www.rrbapply.gov.in/notices/cen-02-technician.pdf",
+    "documentHash": "aebf703a5bedf7a44cdae8592b2778c89137d74e5d8848dd120bac0854dfc3da",
+    "detectedAt": "2026-10-18T10:03:36.350Z",
+    "status": "verification-required",
+    "retryCount": 0,
+    "lastProcessedAt": "2026-10-18T10:03:36.350Z",
+    "extractedData": {
+      "recruitmentTitle": "Railway Recruitment Boards (RRB Central) Recruitment Notification 2026",
+      "organization": "Railway Recruitment Boards (RRB Central)",
+      "shortOrg": "Railway",
+      "advtNo": "NOTIF-2026/01",
+      "sector": "upsc",
+      "categoryType": "latest-jobs",
+      "postNames": [
+        "Various Grade Officers & Staff"
+      ],
+      "vacancies": 144,
+      "categoryBreakdown": {
+        "ur": 58,
+        "obc": 39,
+        "ews": 14,
+        "sc": 22,
+        "st": 12,
+        "total": 144
+      },
+      "importantDates": {
+        "startDate": "2026-10-18",
+        "lastDate": "2026-11-17",
+        "feeLastDate": "2026-11-17",
+        "examDate": "To be announced officially",
+        "admitCardDate": "10 days before examination"
+      },
+      "qualification": "Bachelor's Degree in Any Stream from Recognized University / Institution",
+      "qualificationLevel": "graduate",
+      "ageLimit": {
+        "min": 18,
+        "max": 32,
+        "asOfDate": "01/08/2026",
+        "relaxation": "OBC: 3 Years, SC/ST: 5 Years, PwD: 10 Years"
+      },
+      "applicationFee": {
+        "genObcEws": 100,
+        "scStPh": 0,
+        "female": 0,
+        "paymentModes": "Debit Card, Credit Card, Internet Banking, UPI"
+      },
+      "selectionProcess": [
+        "Preliminary Examination",
+        "Main Examination",
+        "Interview / Document Verification"
+      ],
+      "payScale": "Level-6 to Level-8 (7th CPC)",
+      "applicationInstructions": "Apply online strictly through the official website portal.",
+      "officialNotificationUrl": "https://www.rrbapply.gov.in/",
+      "officialApplicationUrl": "https://www.rrbapply.gov.in/",
+      "state": "All India",
+      "confidenceScore": 78,
+      "verificationFlags": [
+        "Extracted via deterministic fallback parser",
+        "Please verify official notification PDF before publishing"
+      ],
+      "rawTextExcerpt": "Government of India, Ministry of Railways, Railway Recruitment Boards invite online applications from eligible candidates for Technician Grade-I Signal and Technician Grade-III posts in various Zonal Railways and Production Units. Vacancies: 9,144 posts. Pay Level: Level-5 and Level-2. Qualification: Matriculation/SSLC plus ITI/National Apprenticeship Certificate or B.Sc / Diploma in Engineering.",
+      "sourcePublicationDate": "2026-10-18",
+      "lastVerifiedDate": "2026-10-18T10:03:36.690Z"
+    },
+    "hindiArticle": {
+      "id": "art-fb-1792317817008",
+      "title": "Railway Recruitment Boards (RRB Central) (Railway) भर्ती 2026: 144 पदों पर आवेदन शुरू, जानें अंतिम तिथि एवं योग्यता",
+      "slug": "railway-notif-2026-01-2026",
+      "metaDescription": "Railway Recruitment Boards (RRB Central) ने 144 पदों के लिए भर्ती अधिसूचना जारी की है। आवेदन की अंतिम तिथि 2026-11-17 है।",
+      "overview": "Railway Recruitment Boards (RRB Central) द्वारा आधिकारिक विज्ञापन संख्या NOTIF-2026/01 के तहत कुल 144 रिक्त पदों पर भर्ती अधिसूचना जारी कर दी गई है। इच्छुक एवं पात्र अभ्यर्थी निर्धारित समय सीमा के भीतर आधिकारिक पोर्टल के माध्यम से ऑनलाइन आवेदन कर सकते हैं।",
+      "importantDatesHindi": [
+        {
+          "label": "ऑनलाइन आवेदन प्रारंभ तिथि",
+          "date": "2026-10-18"
+        },
+        {
+          "label": "आवेदन की अंतिम तिथि",
+          "date": "2026-11-17"
+        },
+        {
+          "label": "परीक्षा शुल्क जमा करने की अंतिम तिथि",
+          "date": "2026-11-17"
+        },
+        {
+          "label": "परीक्षा तिथि",
+          "date": "To be announced officially"
+        }
+      ],
+      "vacancyDetailsHindi": "कुल पद: 144 (अनारक्षित: 58, ओबीसी: 39, ईडब्ल्यूएस: 14, एससी: 22, एसटी: 12)",
+      "eligibilityCriteriaHindi": "Bachelor's Degree in Any Stream from Recognized University / Institution",
+      "ageLimitHindi": "न्यूनतम 18 वर्ष एवं अधिकतम 32 वर्ष (कट-ऑफ तिथि: 01/08/2026)",
+      "applicationFeeHindi": "सामान्य/ओबीसी/ईडब्ल्यूएस: ₹100, आरक्षित वर्ग: ₹0",
+      "selectionProcessHindi": "Preliminary Examination → Main Examination → Interview / Document Verification",
+      "salaryHindi": "Level-6 to Level-8 (7th CPC)",
+      "howToApplyHindi": [
+        "सर्वप्रथम आधिकारिक पोर्टल पर जाएं।",
+        "भर्ती अधिसूचना विज्ञापन को डाउनलोड कर समस्त नियम पढ़ें।",
+        "ऑनलाइन आवेदन पत्र में सभी अनिवार्य विवरण भरें।",
+        "मांगे गए दस्तावेज एवं हस्ताक्षर अपलोड करें।",
+        "परीक्षा शुल्क का ऑनलाइन भुगतान कर पावती प्रिंट करें।"
+      ],
+      "importantDocumentsHindi": [
+        "10वीं/12वीं अंकतालिका व प्रमाण पत्र",
+        "स्नातक डिग्री प्रमाण पत्र",
+        "वैध पहचान पत्र (आधार कार्ड)",
+        "जाति/श्रेणी प्रमाण पत्र"
+      ],
+      "importantLinks": [
+        {
+          "title": "आधिकारिक भर्ती अधिसूचना (PDF)",
+          "url": "https://www.rrbapply.gov.in/",
+          "isOfficial": true
+        },
+        {
+          "title": "ऑनलाइन आवेदन लिंक",
+          "url": "https://www.rrbapply.gov.in/",
+          "isOfficial": true
+        },
+        {
+          "title": "आधिकारिक विभाग वेबसाइट",
+          "url": "https://www.rrbapply.gov.in/",
+          "isOfficial": true
+        }
+      ],
+      "officialNoticeSource": "Official Notification Advt No. NOTIF-2026/01 issued by Railway Recruitment Boards (RRB Central)",
+      "faqs": [
+        {
+          "question": "आवेदन की अंतिम तिथि क्या है?",
+          "answer": "आवेदन की अंतिम तिथि 2026-11-17 निर्धारित है।"
+        },
+        {
+          "question": "चयन प्रक्रिया में कौन से चरण शामिल हैं?",
+          "answer": "Preliminary Examination, Main Examination, Interview / Document Verification"
+        }
+      ],
+      "disclaimer": "यह भर्ती विवरण परीक्षार्थियों की सुविधा के लिए तैयार किया गया है। नियम, पात्रता व शर्तों की पूर्ण सत्यता के लिए आधिकारिक अधिसूचना अवश्य पढ़ें।",
+      "fullArticleMarkdown": "# Railway Recruitment Boards (RRB Central) (Railway) भर्ती 2026: 144 पदों पर आवेदन शुरू, जानें अंतिम तिथि एवं योग्यता\n\n## 1. भर्ती सारांश (Overview)\nRailway Recruitment Boards (RRB Central) द्वारा आधिकारिक विज्ञापन संख्या NOTIF-2026/01 के तहत कुल 144 रिक्त पदों पर भर्ती अधिसूचना जारी कर दी गई है। इच्छुक एवं पात्र अभ्यर्थी निर्धारित समय सीमा के भीतर आधिकारिक पोर्टल के माध्यम से ऑनलाइन आवेदन कर सकते हैं।\n\n## 2. महत्वपूर्ण तिथियां (Important Dates)\n- **ऑनलाइन आवेदन प्रारंभ तिथि:** 2026-10-18\n- **आवेदन की अंतिम तिथि:** 2026-11-17\n- **परीक्षा शुल्क जमा करने की अंतिम तिथि:** 2026-11-17\n- **परीक्षा तिथि:** To be announced officially\n\n## 3. पदों का विवरण एवं रिक्तियां (Vacancy Details)\nकुल विज्ञापित पद: **144**\n- अनारक्षित (UR): 58\n- ओबीसी (OBC): 39\n- ईडब्ल्यूएस (EWS): 14\n- एससी (SC): 22\n- एसटी (ST): 12\n\n## 4. शैक्षणिक योग्यता (Eligibility Criteria)\nBachelor's Degree in Any Stream from Recognized University / Institution\n\n## 5. आयु सीमा एवं छूट (Age Limit & Relaxations)\nन्यूनतम आयु 18 वर्ष तथा अधिकतम आयु 32 वर्ष। नियमानुसार आयु में छूट प्रदान की जाएगी (OBC: 3 Years, SC/ST: 5 Years, PwD: 10 Years)।\n\n## 6. आवेदन शुल्क (Application Fee)\n- सामान्य / ओबीसी / ईडब्ल्यूएस: ₹100\n- एससी / एसटी / दिव्यांग: ₹0\n- महिला अभ्यर्थी: ₹0\n- भुगतान माध्यम: Debit Card, Credit Card, Internet Banking, UPI\n\n## 7. चयन प्रक्रिया (Selection Process)\n1. Preliminary Examination\n2. Main Examination\n3. Interview / Document Verification\n\n## 8. वेतनमान (Pay Scale)\nLevel-6 to Level-8 (7th CPC)\n\n## 9. आवेदन कैसे करें (Step-by-step How to Apply)\n1. आधिकारिक वेबसाइट पर जाएं।\n2. आधिकारिक भर्ती अधिसूचना (PDF) डाउनलोड करें और ध्यानपूर्वक पढ़ें।\n3. ऑनलाइन आवेदन लिंक पर क्लिक कर आवश्यक विवरण दर्ज करें।\n4. दस्तावेज, फोटो व हस्ताक्षर निर्धारित प्रारूप में अपलोड करें।\n5. आवेदन शुल्क का भुगतान कर अंतिम प्रिंटआउट सुरक्षित रखें।\n\n## 10. अस्वीकरण (Disclaimer)\nयह जानकारी अभ्यर्थियों के मार्गदर्शन हेतु प्रस्तुत की गई है। किसी भी संशय की स्थिति में आधिकारिक अधिसूचना को ही अंतिम माना जाए।",
+      "generatedAt": "2026-10-18T10:03:37.008Z",
+      "updatedAt": "2026-10-18T10:03:37.008Z"
+    },
+    "autoPublishDecision": {
+      "eligible": false,
+      "reason": "Auto-publishing is disabled in master settings (Draft First policy). Saved for administrative approval.",
+      "decidedAt": "2026-10-18T10:03:37.008Z",
+      "published": false
+    }
+  },
+  {
+    "id": "notif-1792317814694-z8vl",
+    "sourceId": "src-upsc-gov",
+    "sourceName": "Union Public Service Commission (UPSC)",
+    "sourceUrl": "https://upsc.gov.in/examinations/cds-ii-2026",
+    "noticeTitle": "UPSC Combined Defence Services (CDS-II) Examination 2026 Notification",
+    "noticeDate": "2026-10-18",
+    "advtNo": "UPSC-09/2026-CDS-II",
+    "documentUrl": "https://upsc.gov.in/notices/cds-ii-2026.pdf",
+    "documentHash": "ecda6c4a212d7b5c660c761d7a23b0dff0134a2dd26bfb915e64e3c4ad2e0ad9",
+    "detectedAt": "2026-10-18T10:03:34.694Z",
+    "status": "verification-required",
+    "retryCount": 0,
+    "lastProcessedAt": "2026-10-18T10:03:34.694Z",
+    "extractedData": {
+      "recruitmentTitle": "Union Public Service Commission (UPSC) Recruitment Notification 2026",
+      "organization": "Union Public Service Commission (UPSC)",
+      "shortOrg": "Union",
+      "advtNo": "NOTIF-2026/01",
+      "sector": "upsc",
+      "categoryType": "latest-jobs",
+      "postNames": [
+        "Various Grade Officers & Staff"
+      ],
+      "vacancies": 459,
+      "categoryBreakdown": {
+        "ur": 184,
+        "obc": 124,
+        "ews": 46,
+        "sc": 69,
+        "st": 37,
+        "total": 459
+      },
+      "importantDates": {
+        "startDate": "2026-10-18",
+        "lastDate": "2026-11-17",
+        "feeLastDate": "2026-11-17",
+        "examDate": "To be announced officially",
+        "admitCardDate": "10 days before examination"
+      },
+      "qualification": "Bachelor's Degree in Any Stream from Recognized University / Institution",
+      "qualificationLevel": "graduate",
+      "ageLimit": {
+        "min": 18,
+        "max": 32,
+        "asOfDate": "01/08/2026",
+        "relaxation": "OBC: 3 Years, SC/ST: 5 Years, PwD: 10 Years"
+      },
+      "applicationFee": {
+        "genObcEws": 100,
+        "scStPh": 0,
+        "female": 0,
+        "paymentModes": "Debit Card, Credit Card, Internet Banking, UPI"
+      },
+      "selectionProcess": [
+        "Preliminary Examination",
+        "Main Examination",
+        "Interview / Document Verification"
+      ],
+      "payScale": "Level-6 to Level-8 (7th CPC)",
+      "applicationInstructions": "Apply online strictly through the official website portal.",
+      "officialNotificationUrl": "https://upsc.gov.in/examinations/cds-ii-2026",
+      "officialApplicationUrl": "https://upsc.gov.in/examinations/cds-ii-2026",
+      "state": "All India",
+      "confidenceScore": 78,
+      "verificationFlags": [
+        "Extracted via deterministic fallback parser",
+        "Please verify official notification PDF before publishing"
+      ],
+      "rawTextExcerpt": "Union Public Service Commission invites applications for the Combined Defence Services Examination (II) 2026. Total Vacancies: 459 posts across Indian Military Academy (IMA), Indian Naval Academy (INA), Air Force Academy (AFA), and Officers Training Academy (OTA). Qualification: Degree of a recognized University or equivalent. Age Limit: 19 to 24 years. Selection Process: Written Exam followed by ",
+      "sourcePublicationDate": "2026-10-18",
+      "lastVerifiedDate": "2026-10-18T10:03:35.014Z"
+    },
+    "hindiArticle": {
+      "id": "art-fb-1792317815323",
+      "title": "Union Public Service Commission (UPSC) (Union) भर्ती 2026: 459 पदों पर आवेदन शुरू, जानें अंतिम तिथि एवं योग्यता",
+      "slug": "union-notif-2026-01-2026",
+      "metaDescription": "Union Public Service Commission (UPSC) ने 459 पदों के लिए भर्ती अधिसूचना जारी की है। आवेदन की अंतिम तिथि 2026-11-17 है।",
+      "overview": "Union Public Service Commission (UPSC) द्वारा आधिकारिक विज्ञापन संख्या NOTIF-2026/01 के तहत कुल 459 रिक्त पदों पर भर्ती अधिसूचना जारी कर दी गई है। इच्छुक एवं पात्र अभ्यर्थी निर्धारित समय सीमा के भीतर आधिकारिक पोर्टल के माध्यम से ऑनलाइन आवेदन कर सकते हैं।",
+      "importantDatesHindi": [
+        {
+          "label": "ऑनलाइन आवेदन प्रारंभ तिथि",
+          "date": "2026-10-18"
+        },
+        {
+          "label": "आवेदन की अंतिम तिथि",
+          "date": "2026-11-17"
+        },
+        {
+          "label": "परीक्षा शुल्क जमा करने की अंतिम तिथि",
+          "date": "2026-11-17"
+        },
+        {
+          "label": "परीक्षा तिथि",
+          "date": "To be announced officially"
+        }
+      ],
+      "vacancyDetailsHindi": "कुल पद: 459 (अनारक्षित: 184, ओबीसी: 124, ईडब्ल्यूएस: 46, एससी: 69, एसटी: 37)",
+      "eligibilityCriteriaHindi": "Bachelor's Degree in Any Stream from Recognized University / Institution",
+      "ageLimitHindi": "न्यूनतम 18 वर्ष एवं अधिकतम 32 वर्ष (कट-ऑफ तिथि: 01/08/2026)",
+      "applicationFeeHindi": "सामान्य/ओबीसी/ईडब्ल्यूएस: ₹100, आरक्षित वर्ग: ₹0",
+      "selectionProcessHindi": "Preliminary Examination → Main Examination → Interview / Document Verification",
+      "salaryHindi": "Level-6 to Level-8 (7th CPC)",
+      "howToApplyHindi": [
+        "सर्वप्रथम आधिकारिक पोर्टल पर जाएं।",
+        "भर्ती अधिसूचना विज्ञापन को डाउनलोड कर समस्त नियम पढ़ें।",
+        "ऑनलाइन आवेदन पत्र में सभी अनिवार्य विवरण भरें।",
+        "मांगे गए दस्तावेज एवं हस्ताक्षर अपलोड करें।",
+        "परीक्षा शुल्क का ऑनलाइन भुगतान कर पावती प्रिंट करें।"
+      ],
+      "importantDocumentsHindi": [
+        "10वीं/12वीं अंकतालिका व प्रमाण पत्र",
+        "स्नातक डिग्री प्रमाण पत्र",
+        "वैध पहचान पत्र (आधार कार्ड)",
+        "जाति/श्रेणी प्रमाण पत्र"
+      ],
+      "importantLinks": [
+        {
+          "title": "आधिकारिक भर्ती अधिसूचना (PDF)",
+          "url": "https://upsc.gov.in/examinations/cds-ii-2026",
+          "isOfficial": true
+        },
+        {
+          "title": "ऑनलाइन आवेदन लिंक",
+          "url": "https://upsc.gov.in/examinations/cds-ii-2026",
+          "isOfficial": true
+        },
+        {
+          "title": "आधिकारिक विभाग वेबसाइट",
+          "url": "https://upsc.gov.in/examinations/cds-ii-2026",
+          "isOfficial": true
+        }
+      ],
+      "officialNoticeSource": "Official Notification Advt No. NOTIF-2026/01 issued by Union Public Service Commission (UPSC)",
+      "faqs": [
+        {
+          "question": "आवेदन की अंतिम तिथि क्या है?",
+          "answer": "आवेदन की अंतिम तिथि 2026-11-17 निर्धारित है।"
+        },
+        {
+          "question": "चयन प्रक्रिया में कौन से चरण शामिल हैं?",
+          "answer": "Preliminary Examination, Main Examination, Interview / Document Verification"
+        }
+      ],
+      "disclaimer": "यह भर्ती विवरण परीक्षार्थियों की सुविधा के लिए तैयार किया गया है। नियम, पात्रता व शर्तों की पूर्ण सत्यता के लिए आधिकारिक अधिसूचना अवश्य पढ़ें।",
+      "fullArticleMarkdown": "# Union Public Service Commission (UPSC) (Union) भर्ती 2026: 459 पदों पर आवेदन शुरू, जानें अंतिम तिथि एवं योग्यता\n\n## 1. भर्ती सारांश (Overview)\nUnion Public Service Commission (UPSC) द्वारा आधिकारिक विज्ञापन संख्या NOTIF-2026/01 के तहत कुल 459 रिक्त पदों पर भर्ती अधिसूचना जारी कर दी गई है। इच्छुक एवं पात्र अभ्यर्थी निर्धारित समय सीमा के भीतर आधिकारिक पोर्टल के माध्यम से ऑनलाइन आवेदन कर सकते हैं।\n\n## 2. महत्वपूर्ण तिथियां (Important Dates)\n- **ऑनलाइन आवेदन प्रारंभ तिथि:** 2026-10-18\n- **आवेदन की अंतिम तिथि:** 2026-11-17\n- **परीक्षा शुल्क जमा करने की अंतिम तिथि:** 2026-11-17\n- **परीक्षा तिथि:** To be announced officially\n\n## 3. पदों का विवरण एवं रिक्तियां (Vacancy Details)\nकुल विज्ञापित पद: **459**\n- अनारक्षित (UR): 184\n- ओबीसी (OBC): 124\n- ईडब्ल्यूएस (EWS): 46\n- एससी (SC): 69\n- एसटी (ST): 37\n\n## 4. शैक्षणिक योग्यता (Eligibility Criteria)\nBachelor's Degree in Any Stream from Recognized University / Institution\n\n## 5. आयु सीमा एवं छूट (Age Limit & Relaxations)\nन्यूनतम आयु 18 वर्ष तथा अधिकतम आयु 32 वर्ष। नियमानुसार आयु में छूट प्रदान की जाएगी (OBC: 3 Years, SC/ST: 5 Years, PwD: 10 Years)।\n\n## 6. आवेदन शुल्क (Application Fee)\n- सामान्य / ओबीसी / ईडब्ल्यूएस: ₹100\n- एससी / एसटी / दिव्यांग: ₹0\n- महिला अभ्यर्थी: ₹0\n- भुगतान माध्यम: Debit Card, Credit Card, Internet Banking, UPI\n\n## 7. चयन प्रक्रिया (Selection Process)\n1. Preliminary Examination\n2. Main Examination\n3. Interview / Document Verification\n\n## 8. वेतनमान (Pay Scale)\nLevel-6 to Level-8 (7th CPC)\n\n## 9. आवेदन कैसे करें (Step-by-step How to Apply)\n1. आधिकारिक वेबसाइट पर जाएं।\n2. आधिकारिक भर्ती अधिसूचना (PDF) डाउनलोड करें और ध्यानपूर्वक पढ़ें।\n3. ऑनलाइन आवेदन लिंक पर क्लिक कर आवश्यक विवरण दर्ज करें।\n4. दस्तावेज, फोटो व हस्ताक्षर निर्धारित प्रारूप में अपलोड करें।\n5. आवेदन शुल्क का भुगतान कर अंतिम प्रिंटआउट सुरक्षित रखें।\n\n## 10. अस्वीकरण (Disclaimer)\nयह जानकारी अभ्यर्थियों के मार्गदर्शन हेतु प्रस्तुत की गई है। किसी भी संशय की स्थिति में आधिकारिक अधिसूचना को ही अंतिम माना जाए।",
+      "generatedAt": "2026-10-18T10:03:35.323Z",
+      "updatedAt": "2026-10-18T10:03:35.323Z"
+    },
+    "autoPublishDecision": {
+      "eligible": false,
+      "reason": "Auto-publishing is disabled in master settings (Draft First policy). Saved for administrative approval.",
+      "decidedAt": "2026-10-18T10:03:35.323Z",
+      "published": false
+    }
+  },
+  {
+    "id": "notif-1792317810261-7d3p",
+    "sourceId": "src-ssc-gov",
+    "sourceName": "Staff Selection Commission (SSC)",
+    "sourceUrl": "https://ssc.gov.in/candidate-portal/chsl-2026",
+    "noticeTitle": "SSC Combined Higher Secondary (10+2) Level CHSL 2026 Notification",
+    "noticeDate": "2026-10-18",
+    "advtNo": "SSC/HQ/CHSL/2026",
+    "documentUrl": "https://ssc.gov.in/notice-chsl-2026.pdf",
+    "documentHash": "cde55e98685f36b7bd0a2a31bc0865d1997462519f4d2feeb3bdfc5a47e7ee64",
+    "detectedAt": "2026-10-18T10:03:30.261Z",
+    "status": "verification-required",
+    "retryCount": 0,
+    "lastProcessedAt": "2026-10-18T10:03:30.261Z",
+    "extractedData": {
+      "recruitmentTitle": "Staff Selection Commission (SSC) Recruitment Notification 2026",
+      "organization": "Staff Selection Commission (SSC)",
+      "shortOrg": "Staff",
+      "advtNo": "NOTIF-2026/01",
+      "sector": "upsc",
+      "categoryType": "latest-jobs",
+      "postNames": [
+        "Various Grade Officers & Staff"
+      ],
+      "vacancies": 712,
+      "categoryBreakdown": {
+        "ur": 285,
+        "obc": 192,
+        "ews": 71,
+        "sc": 107,
+        "st": 57,
+        "total": 712
+      },
+      "importantDates": {
+        "startDate": "2026-10-18",
+        "lastDate": "2026-11-17",
+        "feeLastDate": "2026-11-17",
+        "examDate": "To be announced officially",
+        "admitCardDate": "10 days before examination"
+      },
+      "qualification": "Bachelor's Degree in Any Stream from Recognized University / Institution",
+      "qualificationLevel": "graduate",
+      "ageLimit": {
+        "min": 18,
+        "max": 32,
+        "asOfDate": "01/08/2026",
+        "relaxation": "OBC: 3 Years, SC/ST: 5 Years, PwD: 10 Years"
+      },
+      "applicationFee": {
+        "genObcEws": 100,
+        "scStPh": 0,
+        "female": 0,
+        "paymentModes": "Debit Card, Credit Card, Internet Banking, UPI"
+      },
+      "selectionProcess": [
+        "Preliminary Examination",
+        "Main Examination",
+        "Interview / Document Verification"
+      ],
+      "payScale": "Level-6 to Level-8 (7th CPC)",
+      "applicationInstructions": "Apply online strictly through the official website portal.",
+      "officialNotificationUrl": "https://ssc.gov.in/candidate-portal/chsl-2026",
+      "officialApplicationUrl": "https://ssc.gov.in/candidate-portal/chsl-2026",
+      "state": "All India",
+      "confidenceScore": 78,
+      "verificationFlags": [
+        "Extracted via deterministic fallback parser",
+        "Please verify official notification PDF before publishing"
+      ],
+      "rawTextExcerpt": "Staff Selection Commission will hold the Combined Higher Secondary (10+2) Level Examination 2026 for recruitment to the posts of Lower Divisional Clerk (LDC), Junior Secretariat Assistant (JSA), and Data Entry Operator (DEO). Total estimated vacancies: 3,712 posts across central government ministries. Educational Qualification: 12th standard or equivalent from a recognized board. Application Last ",
+      "sourcePublicationDate": "2026-10-18",
+      "lastVerifiedDate": "2026-10-18T10:03:30.595Z"
+    },
+    "hindiArticle": {
+      "id": "art-fb-1792317810890",
+      "title": "Staff Selection Commission (SSC) (Staff) भर्ती 2026: 712 पदों पर आवेदन शुरू, जानें अंतिम तिथि एवं योग्यता",
+      "slug": "staff-notif-2026-01-2026",
+      "metaDescription": "Staff Selection Commission (SSC) ने 712 पदों के लिए भर्ती अधिसूचना जारी की है। आवेदन की अंतिम तिथि 2026-11-17 है।",
+      "overview": "Staff Selection Commission (SSC) द्वारा आधिकारिक विज्ञापन संख्या NOTIF-2026/01 के तहत कुल 712 रिक्त पदों पर भर्ती अधिसूचना जारी कर दी गई है। इच्छुक एवं पात्र अभ्यर्थी निर्धारित समय सीमा के भीतर आधिकारिक पोर्टल के माध्यम से ऑनलाइन आवेदन कर सकते हैं।",
+      "importantDatesHindi": [
+        {
+          "label": "ऑनलाइन आवेदन प्रारंभ तिथि",
+          "date": "2026-10-18"
+        },
+        {
+          "label": "आवेदन की अंतिम तिथि",
+          "date": "2026-11-17"
+        },
+        {
+          "label": "परीक्षा शुल्क जमा करने की अंतिम तिथि",
+          "date": "2026-11-17"
+        },
+        {
+          "label": "परीक्षा तिथि",
+          "date": "To be announced officially"
+        }
+      ],
+      "vacancyDetailsHindi": "कुल पद: 712 (अनारक्षित: 285, ओबीसी: 192, ईडब्ल्यूएस: 71, एससी: 107, एसटी: 57)",
+      "eligibilityCriteriaHindi": "Bachelor's Degree in Any Stream from Recognized University / Institution",
+      "ageLimitHindi": "न्यूनतम 18 वर्ष एवं अधिकतम 32 वर्ष (कट-ऑफ तिथि: 01/08/2026)",
+      "applicationFeeHindi": "सामान्य/ओबीसी/ईडब्ल्यूएस: ₹100, आरक्षित वर्ग: ₹0",
+      "selectionProcessHindi": "Preliminary Examination → Main Examination → Interview / Document Verification",
+      "salaryHindi": "Level-6 to Level-8 (7th CPC)",
+      "howToApplyHindi": [
+        "सर्वप्रथम आधिकारिक पोर्टल पर जाएं।",
+        "भर्ती अधिसूचना विज्ञापन को डाउनलोड कर समस्त नियम पढ़ें।",
+        "ऑनलाइन आवेदन पत्र में सभी अनिवार्य विवरण भरें।",
+        "मांगे गए दस्तावेज एवं हस्ताक्षर अपलोड करें।",
+        "परीक्षा शुल्क का ऑनलाइन भुगतान कर पावती प्रिंट करें।"
+      ],
+      "importantDocumentsHindi": [
+        "10वीं/12वीं अंकतालिका व प्रमाण पत्र",
+        "स्नातक डिग्री प्रमाण पत्र",
+        "वैध पहचान पत्र (आधार कार्ड)",
+        "जाति/श्रेणी प्रमाण पत्र"
+      ],
+      "importantLinks": [
+        {
+          "title": "आधिकारिक भर्ती अधिसूचना (PDF)",
+          "url": "https://ssc.gov.in/candidate-portal/chsl-2026",
+          "isOfficial": true
+        },
+        {
+          "title": "ऑनलाइन आवेदन लिंक",
+          "url": "https://ssc.gov.in/candidate-portal/chsl-2026",
+          "isOfficial": true
+        },
+        {
+          "title": "आधिकारिक विभाग वेबसाइट",
+          "url": "https://ssc.gov.in/candidate-portal/chsl-2026",
+          "isOfficial": true
+        }
+      ],
+      "officialNoticeSource": "Official Notification Advt No. NOTIF-2026/01 issued by Staff Selection Commission (SSC)",
+      "faqs": [
+        {
+          "question": "आवेदन की अंतिम तिथि क्या है?",
+          "answer": "आवेदन की अंतिम तिथि 2026-11-17 निर्धारित है।"
+        },
+        {
+          "question": "चयन प्रक्रिया में कौन से चरण शामिल हैं?",
+          "answer": "Preliminary Examination, Main Examination, Interview / Document Verification"
+        }
+      ],
+      "disclaimer": "यह भर्ती विवरण परीक्षार्थियों की सुविधा के लिए तैयार किया गया है। नियम, पात्रता व शर्तों की पूर्ण सत्यता के लिए आधिकारिक अधिसूचना अवश्य पढ़ें।",
+      "fullArticleMarkdown": "# Staff Selection Commission (SSC) (Staff) भर्ती 2026: 712 पदों पर आवेदन शुरू, जानें अंतिम तिथि एवं योग्यता\n\n## 1. भर्ती सारांश (Overview)\nStaff Selection Commission (SSC) द्वारा आधिकारिक विज्ञापन संख्या NOTIF-2026/01 के तहत कुल 712 रिक्त पदों पर भर्ती अधिसूचना जारी कर दी गई है। इच्छुक एवं पात्र अभ्यर्थी निर्धारित समय सीमा के भीतर आधिकारिक पोर्टल के माध्यम से ऑनलाइन आवेदन कर सकते हैं।\n\n## 2. महत्वपूर्ण तिथियां (Important Dates)\n- **ऑनलाइन आवेदन प्रारंभ तिथि:** 2026-10-18\n- **आवेदन की अंतिम तिथि:** 2026-11-17\n- **परीक्षा शुल्क जमा करने की अंतिम तिथि:** 2026-11-17\n- **परीक्षा तिथि:** To be announced officially\n\n## 3. पदों का विवरण एवं रिक्तियां (Vacancy Details)\nकुल विज्ञापित पद: **712**\n- अनारक्षित (UR): 285\n- ओबीसी (OBC): 192\n- ईडब्ल्यूएस (EWS): 71\n- एससी (SC): 107\n- एसटी (ST): 57\n\n## 4. शैक्षणिक योग्यता (Eligibility Criteria)\nBachelor's Degree in Any Stream from Recognized University / Institution\n\n## 5. आयु सीमा एवं छूट (Age Limit & Relaxations)\nन्यूनतम आयु 18 वर्ष तथा अधिकतम आयु 32 वर्ष। नियमानुसार आयु में छूट प्रदान की जाएगी (OBC: 3 Years, SC/ST: 5 Years, PwD: 10 Years)।\n\n## 6. आवेदन शुल्क (Application Fee)\n- सामान्य / ओबीसी / ईडब्ल्यूएस: ₹100\n- एससी / एसटी / दिव्यांग: ₹0\n- महिला अभ्यर्थी: ₹0\n- भुगतान माध्यम: Debit Card, Credit Card, Internet Banking, UPI\n\n## 7. चयन प्रक्रिया (Selection Process)\n1. Preliminary Examination\n2. Main Examination\n3. Interview / Document Verification\n\n## 8. वेतनमान (Pay Scale)\nLevel-6 to Level-8 (7th CPC)\n\n## 9. आवेदन कैसे करें (Step-by-step How to Apply)\n1. आधिकारिक वेबसाइट पर जाएं।\n2. आधिकारिक भर्ती अधिसूचना (PDF) डाउनलोड करें और ध्यानपूर्वक पढ़ें।\n3. ऑनलाइन आवेदन लिंक पर क्लिक कर आवश्यक विवरण दर्ज करें।\n4. दस्तावेज, फोटो व हस्ताक्षर निर्धारित प्रारूप में अपलोड करें।\n5. आवेदन शुल्क का भुगतान कर अंतिम प्रिंटआउट सुरक्षित रखें।\n\n## 10. अस्वीकरण (Disclaimer)\nयह जानकारी अभ्यर्थियों के मार्गदर्शन हेतु प्रस्तुत की गई है। किसी भी संशय की स्थिति में आधिकारिक अधिसूचना को ही अंतिम माना जाए।",
+      "generatedAt": "2026-10-18T10:03:30.890Z",
+      "updatedAt": "2026-10-18T10:03:30.890Z"
+    },
+    "autoPublishDecision": {
+      "eligible": false,
+      "reason": "Auto-publishing is disabled in master settings (Draft First policy). Saved for administrative approval.",
+      "decidedAt": "2026-10-18T10:03:30.890Z",
+      "published": false
+    }
+  },
+  {
+    "id": "notif-1792110419101-z4xr",
+    "sourceId": "src-ibps-in",
+    "sourceName": "Institute of Banking Personnel Selection (IBPS)",
+    "sourceUrl": "https://www.ibps.in",
+    "noticeTitle": "Institute of Banking Personnel Selection (IBPS) Recruitment and Selection Notice 2026",
+    "noticeDate": "2026-10-16",
+    "advtNo": "IBPS/REC/2026/01",
+    "documentUrl": "https://www.ibps.in/notice.pdf",
+    "documentHash": "cb72c62e88f4344cb260d0aa19cefbbc0f0f00774983e4b38d62063fc476ef3a",
+    "detectedAt": "2026-10-16T00:26:59.101Z",
+    "status": "verification-required",
+    "retryCount": 0,
+    "lastProcessedAt": "2026-10-16T00:26:59.101Z",
+    "extractedData": {
+      "recruitmentTitle": "Institute of Banking Personnel Selection (IBPS) Recruitment Notification 2026",
+      "organization": "Institute of Banking Personnel Selection (IBPS)",
+      "shortOrg": "Institute",
+      "advtNo": "NOTIF-2026/01",
+      "sector": "upsc",
+      "categoryType": "latest-jobs",
+      "postNames": [
+        "Various Grade Officers & Staff"
+      ],
+      "vacancies": 250,
+      "categoryBreakdown": {
+        "ur": 100,
+        "obc": 68,
+        "ews": 25,
+        "sc": 38,
+        "st": 20,
+        "total": 250
+      },
+      "importantDates": {
+        "startDate": "2026-10-16",
+        "lastDate": "2026-11-15",
+        "feeLastDate": "2026-11-15",
+        "examDate": "To be announced officially",
+        "admitCardDate": "10 days before examination"
+      },
+      "qualification": "Bachelor's Degree in Any Stream from Recognized University / Institution",
+      "qualificationLevel": "graduate",
+      "ageLimit": {
+        "min": 18,
+        "max": 32,
+        "asOfDate": "01/08/2026",
+        "relaxation": "OBC: 3 Years, SC/ST: 5 Years, PwD: 10 Years"
+      },
+      "applicationFee": {
+        "genObcEws": 100,
+        "scStPh": 0,
+        "female": 0,
+        "paymentModes": "Debit Card, Credit Card, Internet Banking, UPI"
+      },
+      "selectionProcess": [
+        "Preliminary Examination",
+        "Main Examination",
+        "Interview / Document Verification"
+      ],
+      "payScale": "Level-6 to Level-8 (7th CPC)",
+      "applicationInstructions": "Apply online strictly through the official website portal.",
+      "officialNotificationUrl": "https://www.ibps.in",
+      "officialApplicationUrl": "https://www.ibps.in",
+      "state": "All India",
+      "confidenceScore": 78,
+      "verificationFlags": [
+        "Extracted via deterministic fallback parser",
+        "Please verify official notification PDF before publishing"
+      ],
+      "rawTextExcerpt": "Institute of Banking Personnel Selection (IBPS) has released official recruitment advertisement for filling up vacant posts. Candidates who fulfill all eligibility criteria can apply online via the official recruitment portal. Application window open for 30 days.",
+      "sourcePublicationDate": "2026-10-16",
+      "lastVerifiedDate": "2026-10-16T00:26:59.328Z"
+    },
+    "hindiArticle": {
+      "id": "art-fb-1792110419549",
+      "title": "Institute of Banking Personnel Selection (IBPS) (Institute) भर्ती 2026: 250 पदों पर आवेदन शुरू, जानें अंतिम तिथि एवं योग्यता",
+      "slug": "institute-notif-2026-01-2026",
+      "metaDescription": "Institute of Banking Personnel Selection (IBPS) ने 250 पदों के लिए भर्ती अधिसूचना जारी की है। आवेदन की अंतिम तिथि 2026-11-15 है।",
+      "overview": "Institute of Banking Personnel Selection (IBPS) द्वारा आधिकारिक विज्ञापन संख्या NOTIF-2026/01 के तहत कुल 250 रिक्त पदों पर भर्ती अधिसूचना जारी कर दी गई है। इच्छुक एवं पात्र अभ्यर्थी निर्धारित समय सीमा के भीतर आधिकारिक पोर्टल के माध्यम से ऑनलाइन आवेदन कर सकते हैं।",
+      "importantDatesHindi": [
+        {
+          "label": "ऑनलाइन आवेदन प्रारंभ तिथि",
+          "date": "2026-10-16"
+        },
+        {
+          "label": "आवेदन की अंतिम तिथि",
+          "date": "2026-11-15"
+        },
+        {
+          "label": "परीक्षा शुल्क जमा करने की अंतिम तिथि",
+          "date": "2026-11-15"
+        },
+        {
+          "label": "परीक्षा तिथि",
+          "date": "To be announced officially"
+        }
+      ],
+      "vacancyDetailsHindi": "कुल पद: 250 (अनारक्षित: 100, ओबीसी: 68, ईडब्ल्यूएस: 25, एससी: 38, एसटी: 20)",
+      "eligibilityCriteriaHindi": "Bachelor's Degree in Any Stream from Recognized University / Institution",
+      "ageLimitHindi": "न्यूनतम 18 वर्ष एवं अधिकतम 32 वर्ष (कट-ऑफ तिथि: 01/08/2026)",
+      "applicationFeeHindi": "सामान्य/ओबीसी/ईडब्ल्यूएस: ₹100, आरक्षित वर्ग: ₹0",
+      "selectionProcessHindi": "Preliminary Examination → Main Examination → Interview / Document Verification",
+      "salaryHindi": "Level-6 to Level-8 (7th CPC)",
+      "howToApplyHindi": [
+        "सर्वप्रथम आधिकारिक पोर्टल पर जाएं।",
+        "भर्ती अधिसूचना विज्ञापन को डाउनलोड कर समस्त नियम पढ़ें।",
+        "ऑनलाइन आवेदन पत्र में सभी अनिवार्य विवरण भरें।",
+        "मांगे गए दस्तावेज एवं हस्ताक्षर अपलोड करें।",
+        "परीक्षा शुल्क का ऑनलाइन भुगतान कर पावती प्रिंट करें।"
+      ],
+      "importantDocumentsHindi": [
+        "10वीं/12वीं अंकतालिका व प्रमाण पत्र",
+        "स्नातक डिग्री प्रमाण पत्र",
+        "वैध पहचान पत्र (आधार कार्ड)",
+        "जाति/श्रेणी प्रमाण पत्र"
+      ],
+      "importantLinks": [
+        {
+          "title": "आधिकारिक भर्ती अधिसूचना (PDF)",
+          "url": "https://www.ibps.in",
+          "isOfficial": true
+        },
+        {
+          "title": "ऑनलाइन आवेदन लिंक",
+          "url": "https://www.ibps.in",
+          "isOfficial": true
+        },
+        {
+          "title": "आधिकारिक विभाग वेबसाइट",
+          "url": "https://www.ibps.in",
+          "isOfficial": true
+        }
+      ],
+      "officialNoticeSource": "Official Notification Advt No. NOTIF-2026/01 issued by Institute of Banking Personnel Selection (IBPS)",
+      "faqs": [
+        {
+          "question": "आवेदन की अंतिम तिथि क्या है?",
+          "answer": "आवेदन की अंतिम तिथि 2026-11-15 निर्धारित है।"
+        },
+        {
+          "question": "चयन प्रक्रिया में कौन से चरण शामिल हैं?",
+          "answer": "Preliminary Examination, Main Examination, Interview / Document Verification"
+        }
+      ],
+      "disclaimer": "यह भर्ती विवरण परीक्षार्थियों की सुविधा के लिए तैयार किया गया है। नियम, पात्रता व शर्तों की पूर्ण सत्यता के लिए आधिकारिक अधिसूचना अवश्य पढ़ें।",
+      "fullArticleMarkdown": "# Institute of Banking Personnel Selection (IBPS) (Institute) भर्ती 2026: 250 पदों पर आवेदन शुरू, जानें अंतिम तिथि एवं योग्यता\n\n## 1. भर्ती सारांश (Overview)\nInstitute of Banking Personnel Selection (IBPS) द्वारा आधिकारिक विज्ञापन संख्या NOTIF-2026/01 के तहत कुल 250 रिक्त पदों पर भर्ती अधिसूचना जारी कर दी गई है। इच्छुक एवं पात्र अभ्यर्थी निर्धारित समय सीमा के भीतर आधिकारिक पोर्टल के माध्यम से ऑनलाइन आवेदन कर सकते हैं।\n\n## 2. महत्वपूर्ण तिथियां (Important Dates)\n- **ऑनलाइन आवेदन प्रारंभ तिथि:** 2026-10-16\n- **आवेदन की अंतिम तिथि:** 2026-11-15\n- **परीक्षा शुल्क जमा करने की अंतिम तिथि:** 2026-11-15\n- **परीक्षा तिथि:** To be announced officially\n\n## 3. पदों का विवरण एवं रिक्तियां (Vacancy Details)\nकुल विज्ञापित पद: **250**\n- अनारक्षित (UR): 100\n- ओबीसी (OBC): 68\n- ईडब्ल्यूएस (EWS): 25\n- एससी (SC): 38\n- एसटी (ST): 20\n\n## 4. शैक्षणिक योग्यता (Eligibility Criteria)\nBachelor's Degree in Any Stream from Recognized University / Institution\n\n## 5. आयु सीमा एवं छूट (Age Limit & Relaxations)\nन्यूनतम आयु 18 वर्ष तथा अधिकतम आयु 32 वर्ष। नियमानुसार आयु में छूट प्रदान की जाएगी (OBC: 3 Years, SC/ST: 5 Years, PwD: 10 Years)।\n\n## 6. आवेदन शुल्क (Application Fee)\n- सामान्य / ओबीसी / ईडब्ल्यूएस: ₹100\n- एससी / एसटी / दिव्यांग: ₹0\n- महिला अभ्यर्थी: ₹0\n- भुगतान माध्यम: Debit Card, Credit Card, Internet Banking, UPI\n\n## 7. चयन प्रक्रिया (Selection Process)\n1. Preliminary Examination\n2. Main Examination\n3. Interview / Document Verification\n\n## 8. वेतनमान (Pay Scale)\nLevel-6 to Level-8 (7th CPC)\n\n## 9. आवेदन कैसे करें (Step-by-step How to Apply)\n1. आधिकारिक वेबसाइट पर जाएं।\n2. आधिकारिक भर्ती अधिसूचना (PDF) डाउनलोड करें और ध्यानपूर्वक पढ़ें।\n3. ऑनलाइन आवेदन लिंक पर क्लिक कर आवश्यक विवरण दर्ज करें।\n4. दस्तावेज, फोटो व हस्ताक्षर निर्धारित प्रारूप में अपलोड करें।\n5. आवेदन शुल्क का भुगतान कर अंतिम प्रिंटआउट सुरक्षित रखें।\n\n## 10. अस्वीकरण (Disclaimer)\nयह जानकारी अभ्यर्थियों के मार्गदर्शन हेतु प्रस्तुत की गई है। किसी भी संशय की स्थिति में आधिकारिक अधिसूचना को ही अंतिम माना जाए।",
+      "generatedAt": "2026-10-16T00:26:59.549Z",
+      "updatedAt": "2026-10-16T00:26:59.549Z"
+    },
+    "autoPublishDecision": {
+      "eligible": false,
+      "reason": "Auto-publishing is disabled in master settings (Draft First policy). Saved for administrative approval.",
+      "decidedAt": "2026-10-16T00:26:59.549Z",
+      "published": false
+    }
+  },
+  {
+    "id": "notif-1792110417550-93gn",
+    "sourceId": "src-uppsc-up-nic",
+    "sourceName": "Uttar Pradesh Public Service Commission (UPPSC)",
+    "sourceUrl": "https://uppsc.up.nic.in/AllNotification.aspx",
+    "noticeTitle": "Uttar Pradesh Public Service Commission (UPPSC) Recruitment and Selection Notice 2026",
+    "noticeDate": "2026-10-16",
+    "advtNo": "UPPSC/REC/2026/01",
+    "documentUrl": "https://uppsc.up.nic.in/notice.pdf",
+    "documentHash": "2b5a187f1d96f9ee9f973581bb53ae0de0dd03f8dab1475327343bb788af5003",
+    "detectedAt": "2026-10-16T00:26:57.551Z",
+    "status": "verification-required",
+    "retryCount": 0,
+    "lastProcessedAt": "2026-10-16T00:26:57.551Z",
+    "extractedData": {
+      "recruitmentTitle": "Uttar Pradesh Public Service Commission (UPPSC) Recruitment Notification 2026",
+      "organization": "Uttar Pradesh Public Service Commission (UPPSC)",
+      "shortOrg": "Uttar",
+      "advtNo": "NOTIF-2026/01",
+      "sector": "upsc",
+      "categoryType": "latest-jobs",
+      "postNames": [
+        "Various Grade Officers & Staff"
+      ],
+      "vacancies": 250,
+      "categoryBreakdown": {
+        "ur": 100,
+        "obc": 68,
+        "ews": 25,
+        "sc": 38,
+        "st": 20,
+        "total": 250
+      },
+      "importantDates": {
+        "startDate": "2026-10-16",
+        "lastDate": "2026-11-15",
+        "feeLastDate": "2026-11-15",
+        "examDate": "To be announced officially",
+        "admitCardDate": "10 days before examination"
+      },
+      "qualification": "Bachelor's Degree in Any Stream from Recognized University / Institution",
+      "qualificationLevel": "graduate",
+      "ageLimit": {
+        "min": 18,
+        "max": 32,
+        "asOfDate": "01/08/2026",
+        "relaxation": "OBC: 3 Years, SC/ST: 5 Years, PwD: 10 Years"
+      },
+      "applicationFee": {
+        "genObcEws": 100,
+        "scStPh": 0,
+        "female": 0,
+        "paymentModes": "Debit Card, Credit Card, Internet Banking, UPI"
+      },
+      "selectionProcess": [
+        "Preliminary Examination",
+        "Main Examination",
+        "Interview / Document Verification"
+      ],
+      "payScale": "Level-6 to Level-8 (7th CPC)",
+      "applicationInstructions": "Apply online strictly through the official website portal.",
+      "officialNotificationUrl": "https://uppsc.up.nic.in/AllNotification.aspx",
+      "officialApplicationUrl": "https://uppsc.up.nic.in/AllNotification.aspx",
+      "state": "All India",
+      "confidenceScore": 78,
+      "verificationFlags": [
+        "Extracted via deterministic fallback parser",
+        "Please verify official notification PDF before publishing"
+      ],
+      "rawTextExcerpt": "Uttar Pradesh Public Service Commission (UPPSC) has released official recruitment advertisement for filling up vacant posts. Candidates who fulfill all eligibility criteria can apply online via the official recruitment portal. Application window open for 30 days.",
+      "sourcePublicationDate": "2026-10-16",
+      "lastVerifiedDate": "2026-10-16T00:26:57.806Z"
+    },
+    "hindiArticle": {
+      "id": "art-fb-1792110418033",
+      "title": "Uttar Pradesh Public Service Commission (UPPSC) (Uttar) भर्ती 2026: 250 पदों पर आवेदन शुरू, जानें अंतिम तिथि एवं योग्यता",
+      "slug": "uttar-notif-2026-01-2026",
+      "metaDescription": "Uttar Pradesh Public Service Commission (UPPSC) ने 250 पदों के लिए भर्ती अधिसूचना जारी की है। आवेदन की अंतिम तिथि 2026-11-15 है।",
+      "overview": "Uttar Pradesh Public Service Commission (UPPSC) द्वारा आधिकारिक विज्ञापन संख्या NOTIF-2026/01 के तहत कुल 250 रिक्त पदों पर भर्ती अधिसूचना जारी कर दी गई है। इच्छुक एवं पात्र अभ्यर्थी निर्धारित समय सीमा के भीतर आधिकारिक पोर्टल के माध्यम से ऑनलाइन आवेदन कर सकते हैं।",
+      "importantDatesHindi": [
+        {
+          "label": "ऑनलाइन आवेदन प्रारंभ तिथि",
+          "date": "2026-10-16"
+        },
+        {
+          "label": "आवेदन की अंतिम तिथि",
+          "date": "2026-11-15"
+        },
+        {
+          "label": "परीक्षा शुल्क जमा करने की अंतिम तिथि",
+          "date": "2026-11-15"
+        },
+        {
+          "label": "परीक्षा तिथि",
+          "date": "To be announced officially"
+        }
+      ],
+      "vacancyDetailsHindi": "कुल पद: 250 (अनारक्षित: 100, ओबीसी: 68, ईडब्ल्यूएस: 25, एससी: 38, एसटी: 20)",
+      "eligibilityCriteriaHindi": "Bachelor's Degree in Any Stream from Recognized University / Institution",
+      "ageLimitHindi": "न्यूनतम 18 वर्ष एवं अधिकतम 32 वर्ष (कट-ऑफ तिथि: 01/08/2026)",
+      "applicationFeeHindi": "सामान्य/ओबीसी/ईडब्ल्यूएस: ₹100, आरक्षित वर्ग: ₹0",
+      "selectionProcessHindi": "Preliminary Examination → Main Examination → Interview / Document Verification",
+      "salaryHindi": "Level-6 to Level-8 (7th CPC)",
+      "howToApplyHindi": [
+        "सर्वप्रथम आधिकारिक पोर्टल पर जाएं।",
+        "भर्ती अधिसूचना विज्ञापन को डाउनलोड कर समस्त नियम पढ़ें।",
+        "ऑनलाइन आवेदन पत्र में सभी अनिवार्य विवरण भरें।",
+        "मांगे गए दस्तावेज एवं हस्ताक्षर अपलोड करें।",
+        "परीक्षा शुल्क का ऑनलाइन भुगतान कर पावती प्रिंट करें।"
+      ],
+      "importantDocumentsHindi": [
+        "10वीं/12वीं अंकतालिका व प्रमाण पत्र",
+        "स्नातक डिग्री प्रमाण पत्र",
+        "वैध पहचान पत्र (आधार कार्ड)",
+        "जाति/श्रेणी प्रमाण पत्र"
+      ],
+      "importantLinks": [
+        {
+          "title": "आधिकारिक भर्ती अधिसूचना (PDF)",
+          "url": "https://uppsc.up.nic.in/AllNotification.aspx",
+          "isOfficial": true
+        },
+        {
+          "title": "ऑनलाइन आवेदन लिंक",
+          "url": "https://uppsc.up.nic.in/AllNotification.aspx",
+          "isOfficial": true
+        },
+        {
+          "title": "आधिकारिक विभाग वेबसाइट",
+          "url": "https://uppsc.up.nic.in/AllNotification.aspx",
+          "isOfficial": true
+        }
+      ],
+      "officialNoticeSource": "Official Notification Advt No. NOTIF-2026/01 issued by Uttar Pradesh Public Service Commission (UPPSC)",
+      "faqs": [
+        {
+          "question": "आवेदन की अंतिम तिथि क्या है?",
+          "answer": "आवेदन की अंतिम तिथि 2026-11-15 निर्धारित है।"
+        },
+        {
+          "question": "चयन प्रक्रिया में कौन से चरण शामिल हैं?",
+          "answer": "Preliminary Examination, Main Examination, Interview / Document Verification"
+        }
+      ],
+      "disclaimer": "यह भर्ती विवरण परीक्षार्थियों की सुविधा के लिए तैयार किया गया है। नियम, पात्रता व शर्तों की पूर्ण सत्यता के लिए आधिकारिक अधिसूचना अवश्य पढ़ें।",
+      "fullArticleMarkdown": "# Uttar Pradesh Public Service Commission (UPPSC) (Uttar) भर्ती 2026: 250 पदों पर आवेदन शुरू, जानें अंतिम तिथि एवं योग्यता\n\n## 1. भर्ती सारांश (Overview)\nUttar Pradesh Public Service Commission (UPPSC) द्वारा आधिकारिक विज्ञापन संख्या NOTIF-2026/01 के तहत कुल 250 रिक्त पदों पर भर्ती अधिसूचना जारी कर दी गई है। इच्छुक एवं पात्र अभ्यर्थी निर्धारित समय सीमा के भीतर आधिकारिक पोर्टल के माध्यम से ऑनलाइन आवेदन कर सकते हैं।\n\n## 2. महत्वपूर्ण तिथियां (Important Dates)\n- **ऑनलाइन आवेदन प्रारंभ तिथि:** 2026-10-16\n- **आवेदन की अंतिम तिथि:** 2026-11-15\n- **परीक्षा शुल्क जमा करने की अंतिम तिथि:** 2026-11-15\n- **परीक्षा तिथि:** To be announced officially\n\n## 3. पदों का विवरण एवं रिक्तियां (Vacancy Details)\nकुल विज्ञापित पद: **250**\n- अनारक्षित (UR): 100\n- ओबीसी (OBC): 68\n- ईडब्ल्यूएस (EWS): 25\n- एससी (SC): 38\n- एसटी (ST): 20\n\n## 4. शैक्षणिक योग्यता (Eligibility Criteria)\nBachelor's Degree in Any Stream from Recognized University / Institution\n\n## 5. आयु सीमा एवं छूट (Age Limit & Relaxations)\nन्यूनतम आयु 18 वर्ष तथा अधिकतम आयु 32 वर्ष। नियमानुसार आयु में छूट प्रदान की जाएगी (OBC: 3 Years, SC/ST: 5 Years, PwD: 10 Years)।\n\n## 6. आवेदन शुल्क (Application Fee)\n- सामान्य / ओबीसी / ईडब्ल्यूएस: ₹100\n- एससी / एसटी / दिव्यांग: ₹0\n- महिला अभ्यर्थी: ₹0\n- भुगतान माध्यम: Debit Card, Credit Card, Internet Banking, UPI\n\n## 7. चयन प्रक्रिया (Selection Process)\n1. Preliminary Examination\n2. Main Examination\n3. Interview / Document Verification\n\n## 8. वेतनमान (Pay Scale)\nLevel-6 to Level-8 (7th CPC)\n\n## 9. आवेदन कैसे करें (Step-by-step How to Apply)\n1. आधिकारिक वेबसाइट पर जाएं।\n2. आधिकारिक भर्ती अधिसूचना (PDF) डाउनलोड करें और ध्यानपूर्वक पढ़ें।\n3. ऑनलाइन आवेदन लिंक पर क्लिक कर आवश्यक विवरण दर्ज करें।\n4. दस्तावेज, फोटो व हस्ताक्षर निर्धारित प्रारूप में अपलोड करें।\n5. आवेदन शुल्क का भुगतान कर अंतिम प्रिंटआउट सुरक्षित रखें।\n\n## 10. अस्वीकरण (Disclaimer)\nयह जानकारी अभ्यर्थियों के मार्गदर्शन हेतु प्रस्तुत की गई है। किसी भी संशय की स्थिति में आधिकारिक अधिसूचना को ही अंतिम माना जाए।",
+      "generatedAt": "2026-10-16T00:26:58.033Z",
+      "updatedAt": "2026-10-16T00:26:58.033Z"
+    },
+    "autoPublishDecision": {
+      "eligible": false,
+      "reason": "Auto-publishing is disabled in master settings (Draft First policy). Saved for administrative approval.",
+      "decidedAt": "2026-10-16T00:26:58.033Z",
+      "published": false
+    }
+  },
+  {
+    "id": "notif-1792110415408-bqx4",
+    "sourceId": "src-bpsc-bih-nic",
+    "sourceName": "Bihar Public Service Commission (BPSC)",
+    "sourceUrl": "https://www.bpsc.bih.nic.in",
+    "noticeTitle": "Bihar Public Service Commission (BPSC) Recruitment and Selection Notice 2026",
+    "noticeDate": "2026-10-16",
+    "advtNo": "BPSC/REC/2026/01",
+    "documentUrl": "https://www.bpsc.bih.nic.in/notice.pdf",
+    "documentHash": "53b9070aa581301b97ae67f505ffb1545c12767f2a0776bc6668be7e1fca1c84",
+    "detectedAt": "2026-10-16T00:26:55.408Z",
+    "status": "verification-required",
+    "retryCount": 0,
+    "lastProcessedAt": "2026-10-16T00:26:55.408Z",
+    "extractedData": {
+      "recruitmentTitle": "Bihar Public Service Commission (BPSC) Recruitment Notification 2026",
+      "organization": "Bihar Public Service Commission (BPSC)",
+      "shortOrg": "Bihar",
+      "advtNo": "NOTIF-2026/01",
+      "sector": "upsc",
+      "categoryType": "latest-jobs",
+      "postNames": [
+        "Various Grade Officers & Staff"
+      ],
+      "vacancies": 250,
+      "categoryBreakdown": {
+        "ur": 100,
+        "obc": 68,
+        "ews": 25,
+        "sc": 38,
+        "st": 20,
+        "total": 250
+      },
+      "importantDates": {
+        "startDate": "2026-10-16",
+        "lastDate": "2026-11-15",
+        "feeLastDate": "2026-11-15",
+        "examDate": "To be announced officially",
+        "admitCardDate": "10 days before examination"
+      },
+      "qualification": "Bachelor's Degree in Any Stream from Recognized University / Institution",
+      "qualificationLevel": "graduate",
+      "ageLimit": {
+        "min": 18,
+        "max": 32,
+        "asOfDate": "01/08/2026",
+        "relaxation": "OBC: 3 Years, SC/ST: 5 Years, PwD: 10 Years"
+      },
+      "applicationFee": {
+        "genObcEws": 100,
+        "scStPh": 0,
+        "female": 0,
+        "paymentModes": "Debit Card, Credit Card, Internet Banking, UPI"
+      },
+      "selectionProcess": [
+        "Preliminary Examination",
+        "Main Examination",
+        "Interview / Document Verification"
+      ],
+      "payScale": "Level-6 to Level-8 (7th CPC)",
+      "applicationInstructions": "Apply online strictly through the official website portal.",
+      "officialNotificationUrl": "https://www.bpsc.bih.nic.in",
+      "officialApplicationUrl": "https://www.bpsc.bih.nic.in",
+      "state": "All India",
+      "confidenceScore": 78,
+      "verificationFlags": [
+        "Extracted via deterministic fallback parser",
+        "Please verify official notification PDF before publishing"
+      ],
+      "rawTextExcerpt": "Bihar Public Service Commission (BPSC) has released official recruitment advertisement for filling up vacant posts. Candidates who fulfill all eligibility criteria can apply online via the official recruitment portal. Application window open for 30 days.",
+      "sourcePublicationDate": "2026-10-16",
+      "lastVerifiedDate": "2026-10-16T00:26:55.659Z"
+    },
+    "hindiArticle": {
+      "id": "art-fb-1792110415959",
+      "title": "Bihar Public Service Commission (BPSC) (Bihar) भर्ती 2026: 250 पदों पर आवेदन शुरू, जानें अंतिम तिथि एवं योग्यता",
+      "slug": "bihar-notif-2026-01-2026",
+      "metaDescription": "Bihar Public Service Commission (BPSC) ने 250 पदों के लिए भर्ती अधिसूचना जारी की है। आवेदन की अंतिम तिथि 2026-11-15 है।",
+      "overview": "Bihar Public Service Commission (BPSC) द्वारा आधिकारिक विज्ञापन संख्या NOTIF-2026/01 के तहत कुल 250 रिक्त पदों पर भर्ती अधिसूचना जारी कर दी गई है। इच्छुक एवं पात्र अभ्यर्थी निर्धारित समय सीमा के भीतर आधिकारिक पोर्टल के माध्यम से ऑनलाइन आवेदन कर सकते हैं।",
+      "importantDatesHindi": [
+        {
+          "label": "ऑनलाइन आवेदन प्रारंभ तिथि",
+          "date": "2026-10-16"
+        },
+        {
+          "label": "आवेदन की अंतिम तिथि",
+          "date": "2026-11-15"
+        },
+        {
+          "label": "परीक्षा शुल्क जमा करने की अंतिम तिथि",
+          "date": "2026-11-15"
+        },
+        {
+          "label": "परीक्षा तिथि",
+          "date": "To be announced officially"
+        }
+      ],
+      "vacancyDetailsHindi": "कुल पद: 250 (अनारक्षित: 100, ओबीसी: 68, ईडब्ल्यूएस: 25, एससी: 38, एसटी: 20)",
+      "eligibilityCriteriaHindi": "Bachelor's Degree in Any Stream from Recognized University / Institution",
+      "ageLimitHindi": "न्यूनतम 18 वर्ष एवं अधिकतम 32 वर्ष (कट-ऑफ तिथि: 01/08/2026)",
+      "applicationFeeHindi": "सामान्य/ओबीसी/ईडब्ल्यूएस: ₹100, आरक्षित वर्ग: ₹0",
+      "selectionProcessHindi": "Preliminary Examination → Main Examination → Interview / Document Verification",
+      "salaryHindi": "Level-6 to Level-8 (7th CPC)",
+      "howToApplyHindi": [
+        "सर्वप्रथम आधिकारिक पोर्टल पर जाएं।",
+        "भर्ती अधिसूचना विज्ञापन को डाउनलोड कर समस्त नियम पढ़ें।",
+        "ऑनलाइन आवेदन पत्र में सभी अनिवार्य विवरण भरें।",
+        "मांगे गए दस्तावेज एवं हस्ताक्षर अपलोड करें।",
+        "परीक्षा शुल्क का ऑनलाइन भुगतान कर पावती प्रिंट करें।"
+      ],
+      "importantDocumentsHindi": [
+        "10वीं/12वीं अंकतालिका व प्रमाण पत्र",
+        "स्नातक डिग्री प्रमाण पत्र",
+        "वैध पहचान पत्र (आधार कार्ड)",
+        "जाति/श्रेणी प्रमाण पत्र"
+      ],
+      "importantLinks": [
+        {
+          "title": "आधिकारिक भर्ती अधिसूचना (PDF)",
+          "url": "https://www.bpsc.bih.nic.in",
+          "isOfficial": true
+        },
+        {
+          "title": "ऑनलाइन आवेदन लिंक",
+          "url": "https://www.bpsc.bih.nic.in",
+          "isOfficial": true
+        },
+        {
+          "title": "आधिकारिक विभाग वेबसाइट",
+          "url": "https://www.bpsc.bih.nic.in",
+          "isOfficial": true
+        }
+      ],
+      "officialNoticeSource": "Official Notification Advt No. NOTIF-2026/01 issued by Bihar Public Service Commission (BPSC)",
+      "faqs": [
+        {
+          "question": "आवेदन की अंतिम तिथि क्या है?",
+          "answer": "आवेदन की अंतिम तिथि 2026-11-15 निर्धारित है।"
+        },
+        {
+          "question": "चयन प्रक्रिया में कौन से चरण शामिल हैं?",
+          "answer": "Preliminary Examination, Main Examination, Interview / Document Verification"
+        }
+      ],
+      "disclaimer": "यह भर्ती विवरण परीक्षार्थियों की सुविधा के लिए तैयार किया गया है। नियम, पात्रता व शर्तों की पूर्ण सत्यता के लिए आधिकारिक अधिसूचना अवश्य पढ़ें।",
+      "fullArticleMarkdown": "# Bihar Public Service Commission (BPSC) (Bihar) भर्ती 2026: 250 पदों पर आवेदन शुरू, जानें अंतिम तिथि एवं योग्यता\n\n## 1. भर्ती सारांश (Overview)\nBihar Public Service Commission (BPSC) द्वारा आधिकारिक विज्ञापन संख्या NOTIF-2026/01 के तहत कुल 250 रिक्त पदों पर भर्ती अधिसूचना जारी कर दी गई है। इच्छुक एवं पात्र अभ्यर्थी निर्धारित समय सीमा के भीतर आधिकारिक पोर्टल के माध्यम से ऑनलाइन आवेदन कर सकते हैं।\n\n## 2. महत्वपूर्ण तिथियां (Important Dates)\n- **ऑनलाइन आवेदन प्रारंभ तिथि:** 2026-10-16\n- **आवेदन की अंतिम तिथि:** 2026-11-15\n- **परीक्षा शुल्क जमा करने की अंतिम तिथि:** 2026-11-15\n- **परीक्षा तिथि:** To be announced officially\n\n## 3. पदों का विवरण एवं रिक्तियां (Vacancy Details)\nकुल विज्ञापित पद: **250**\n- अनारक्षित (UR): 100\n- ओबीसी (OBC): 68\n- ईडब्ल्यूएस (EWS): 25\n- एससी (SC): 38\n- एसटी (ST): 20\n\n## 4. शैक्षणिक योग्यता (Eligibility Criteria)\nBachelor's Degree in Any Stream from Recognized University / Institution\n\n## 5. आयु सीमा एवं छूट (Age Limit & Relaxations)\nन्यूनतम आयु 18 वर्ष तथा अधिकतम आयु 32 वर्ष। नियमानुसार आयु में छूट प्रदान की जाएगी (OBC: 3 Years, SC/ST: 5 Years, PwD: 10 Years)।\n\n## 6. आवेदन शुल्क (Application Fee)\n- सामान्य / ओबीसी / ईडब्ल्यूएस: ₹100\n- एससी / एसटी / दिव्यांग: ₹0\n- महिला अभ्यर्थी: ₹0\n- भुगतान माध्यम: Debit Card, Credit Card, Internet Banking, UPI\n\n## 7. चयन प्रक्रिया (Selection Process)\n1. Preliminary Examination\n2. Main Examination\n3. Interview / Document Verification\n\n## 8. वेतनमान (Pay Scale)\nLevel-6 to Level-8 (7th CPC)\n\n## 9. आवेदन कैसे करें (Step-by-step How to Apply)\n1. आधिकारिक वेबसाइट पर जाएं।\n2. आधिकारिक भर्ती अधिसूचना (PDF) डाउनलोड करें और ध्यानपूर्वक पढ़ें।\n3. ऑनलाइन आवेदन लिंक पर क्लिक कर आवश्यक विवरण दर्ज करें।\n4. दस्तावेज, फोटो व हस्ताक्षर निर्धारित प्रारूप में अपलोड करें।\n5. आवेदन शुल्क का भुगतान कर अंतिम प्रिंटआउट सुरक्षित रखें।\n\n## 10. अस्वीकरण (Disclaimer)\nयह जानकारी अभ्यर्थियों के मार्गदर्शन हेतु प्रस्तुत की गई है। किसी भी संशय की स्थिति में आधिकारिक अधिसूचना को ही अंतिम माना जाए।",
+      "generatedAt": "2026-10-16T00:26:55.959Z",
+      "updatedAt": "2026-10-16T00:26:55.959Z"
+    },
+    "autoPublishDecision": {
+      "eligible": false,
+      "reason": "Auto-publishing is disabled in master settings (Draft First policy). Saved for administrative approval.",
+      "decidedAt": "2026-10-16T00:26:55.959Z",
+      "published": false
+    }
+  },
+  {
+    "id": "notif-1792110411017-rikw",
+    "sourceId": "src-uppbpb-gov",
+    "sourceName": "UP Police Recruitment & Promotion Board (UPPRPB)",
+    "sourceUrl": "https://uppbpb.gov.in/Notices.aspx",
+    "noticeTitle": "UP Police Recruitment & Promotion Board (UPPRPB) Recruitment and Selection Notice 2026",
+    "noticeDate": "2026-10-16",
+    "advtNo": "UP Police/REC/2026/01",
+    "documentUrl": "https://uppbpb.gov.in/notice.pdf",
+    "documentHash": "3e569f33d63844e3f8cfa5f7f66d78b7cfaeb1b7e733af661acf8b0f8648be77",
+    "detectedAt": "2026-10-16T00:26:51.017Z",
+    "status": "verification-required",
+    "retryCount": 0,
+    "lastProcessedAt": "2026-10-16T00:26:51.017Z",
+    "extractedData": {
+      "recruitmentTitle": "UP Police Recruitment & Promotion Board (UPPRPB) Recruitment Notification 2026",
+      "organization": "UP Police Recruitment & Promotion Board (UPPRPB)",
+      "shortOrg": "UP",
+      "advtNo": "NOTIF-2026/01",
+      "sector": "upsc",
+      "categoryType": "latest-jobs",
+      "postNames": [
+        "Various Grade Officers & Staff"
+      ],
+      "vacancies": 250,
+      "categoryBreakdown": {
+        "ur": 100,
+        "obc": 68,
+        "ews": 25,
+        "sc": 38,
+        "st": 20,
+        "total": 250
+      },
+      "importantDates": {
+        "startDate": "2026-10-16",
+        "lastDate": "2026-11-15",
+        "feeLastDate": "2026-11-15",
+        "examDate": "To be announced officially",
+        "admitCardDate": "10 days before examination"
+      },
+      "qualification": "Bachelor's Degree in Any Stream from Recognized University / Institution",
+      "qualificationLevel": "graduate",
+      "ageLimit": {
+        "min": 18,
+        "max": 32,
+        "asOfDate": "01/08/2026",
+        "relaxation": "OBC: 3 Years, SC/ST: 5 Years, PwD: 10 Years"
+      },
+      "applicationFee": {
+        "genObcEws": 100,
+        "scStPh": 0,
+        "female": 0,
+        "paymentModes": "Debit Card, Credit Card, Internet Banking, UPI"
+      },
+      "selectionProcess": [
+        "Preliminary Examination",
+        "Main Examination",
+        "Interview / Document Verification"
+      ],
+      "payScale": "Level-6 to Level-8 (7th CPC)",
+      "applicationInstructions": "Apply online strictly through the official website portal.",
+      "officialNotificationUrl": "https://uppbpb.gov.in/Notices.aspx",
+      "officialApplicationUrl": "https://uppbpb.gov.in/Notices.aspx",
+      "state": "All India",
+      "confidenceScore": 78,
+      "verificationFlags": [
+        "Extracted via deterministic fallback parser",
+        "Please verify official notification PDF before publishing"
+      ],
+      "rawTextExcerpt": "UP Police Recruitment & Promotion Board (UPPRPB) has released official recruitment advertisement for filling up vacant posts. Candidates who fulfill all eligibility criteria can apply online via the official recruitment portal. Application window open for 30 days.",
+      "sourcePublicationDate": "2026-10-16",
+      "lastVerifiedDate": "2026-10-16T00:26:51.287Z"
+    },
+    "hindiArticle": {
+      "id": "art-fb-1792110411603",
+      "title": "UP Police Recruitment & Promotion Board (UPPRPB) (UP) भर्ती 2026: 250 पदों पर आवेदन शुरू, जानें अंतिम तिथि एवं योग्यता",
+      "slug": "up-notif-2026-01-2026",
+      "metaDescription": "UP Police Recruitment & Promotion Board (UPPRPB) ने 250 पदों के लिए भर्ती अधिसूचना जारी की है। आवेदन की अंतिम तिथि 2026-11-15 है।",
+      "overview": "UP Police Recruitment & Promotion Board (UPPRPB) द्वारा आधिकारिक विज्ञापन संख्या NOTIF-2026/01 के तहत कुल 250 रिक्त पदों पर भर्ती अधिसूचना जारी कर दी गई है। इच्छुक एवं पात्र अभ्यर्थी निर्धारित समय सीमा के भीतर आधिकारिक पोर्टल के माध्यम से ऑनलाइन आवेदन कर सकते हैं।",
+      "importantDatesHindi": [
+        {
+          "label": "ऑनलाइन आवेदन प्रारंभ तिथि",
+          "date": "2026-10-16"
+        },
+        {
+          "label": "आवेदन की अंतिम तिथि",
+          "date": "2026-11-15"
+        },
+        {
+          "label": "परीक्षा शुल्क जमा करने की अंतिम तिथि",
+          "date": "2026-11-15"
+        },
+        {
+          "label": "परीक्षा तिथि",
+          "date": "To be announced officially"
+        }
+      ],
+      "vacancyDetailsHindi": "कुल पद: 250 (अनारक्षित: 100, ओबीसी: 68, ईडब्ल्यूएस: 25, एससी: 38, एसटी: 20)",
+      "eligibilityCriteriaHindi": "Bachelor's Degree in Any Stream from Recognized University / Institution",
+      "ageLimitHindi": "न्यूनतम 18 वर्ष एवं अधिकतम 32 वर्ष (कट-ऑफ तिथि: 01/08/2026)",
+      "applicationFeeHindi": "सामान्य/ओबीसी/ईडब्ल्यूएस: ₹100, आरक्षित वर्ग: ₹0",
+      "selectionProcessHindi": "Preliminary Examination → Main Examination → Interview / Document Verification",
+      "salaryHindi": "Level-6 to Level-8 (7th CPC)",
+      "howToApplyHindi": [
+        "सर्वप्रथम आधिकारिक पोर्टल पर जाएं।",
+        "भर्ती अधिसूचना विज्ञापन को डाउनलोड कर समस्त नियम पढ़ें।",
+        "ऑनलाइन आवेदन पत्र में सभी अनिवार्य विवरण भरें।",
+        "मांगे गए दस्तावेज एवं हस्ताक्षर अपलोड करें।",
+        "परीक्षा शुल्क का ऑनलाइन भुगतान कर पावती प्रिंट करें।"
+      ],
+      "importantDocumentsHindi": [
+        "10वीं/12वीं अंकतालिका व प्रमाण पत्र",
+        "स्नातक डिग्री प्रमाण पत्र",
+        "वैध पहचान पत्र (आधार कार्ड)",
+        "जाति/श्रेणी प्रमाण पत्र"
+      ],
+      "importantLinks": [
+        {
+          "title": "आधिकारिक भर्ती अधिसूचना (PDF)",
+          "url": "https://uppbpb.gov.in/Notices.aspx",
+          "isOfficial": true
+        },
+        {
+          "title": "ऑनलाइन आवेदन लिंक",
+          "url": "https://uppbpb.gov.in/Notices.aspx",
+          "isOfficial": true
+        },
+        {
+          "title": "आधिकारिक विभाग वेबसाइट",
+          "url": "https://uppbpb.gov.in/Notices.aspx",
+          "isOfficial": true
+        }
+      ],
+      "officialNoticeSource": "Official Notification Advt No. NOTIF-2026/01 issued by UP Police Recruitment & Promotion Board (UPPRPB)",
+      "faqs": [
+        {
+          "question": "आवेदन की अंतिम तिथि क्या है?",
+          "answer": "आवेदन की अंतिम तिथि 2026-11-15 निर्धारित है।"
+        },
+        {
+          "question": "चयन प्रक्रिया में कौन से चरण शामिल हैं?",
+          "answer": "Preliminary Examination, Main Examination, Interview / Document Verification"
+        }
+      ],
+      "disclaimer": "यह भर्ती विवरण परीक्षार्थियों की सुविधा के लिए तैयार किया गया है। नियम, पात्रता व शर्तों की पूर्ण सत्यता के लिए आधिकारिक अधिसूचना अवश्य पढ़ें।",
+      "fullArticleMarkdown": "# UP Police Recruitment & Promotion Board (UPPRPB) (UP) भर्ती 2026: 250 पदों पर आवेदन शुरू, जानें अंतिम तिथि एवं योग्यता\n\n## 1. भर्ती सारांश (Overview)\nUP Police Recruitment & Promotion Board (UPPRPB) द्वारा आधिकारिक विज्ञापन संख्या NOTIF-2026/01 के तहत कुल 250 रिक्त पदों पर भर्ती अधिसूचना जारी कर दी गई है। इच्छुक एवं पात्र अभ्यर्थी निर्धारित समय सीमा के भीतर आधिकारिक पोर्टल के माध्यम से ऑनलाइन आवेदन कर सकते हैं।\n\n## 2. महत्वपूर्ण तिथियां (Important Dates)\n- **ऑनलाइन आवेदन प्रारंभ तिथि:** 2026-10-16\n- **आवेदन की अंतिम तिथि:** 2026-11-15\n- **परीक्षा शुल्क जमा करने की अंतिम तिथि:** 2026-11-15\n- **परीक्षा तिथि:** To be announced officially\n\n## 3. पदों का विवरण एवं रिक्तियां (Vacancy Details)\nकुल विज्ञापित पद: **250**\n- अनारक्षित (UR): 100\n- ओबीसी (OBC): 68\n- ईडब्ल्यूएस (EWS): 25\n- एससी (SC): 38\n- एसटी (ST): 20\n\n## 4. शैक्षणिक योग्यता (Eligibility Criteria)\nBachelor's Degree in Any Stream from Recognized University / Institution\n\n## 5. आयु सीमा एवं छूट (Age Limit & Relaxations)\nन्यूनतम आयु 18 वर्ष तथा अधिकतम आयु 32 वर्ष। नियमानुसार आयु में छूट प्रदान की जाएगी (OBC: 3 Years, SC/ST: 5 Years, PwD: 10 Years)।\n\n## 6. आवेदन शुल्क (Application Fee)\n- सामान्य / ओबीसी / ईडब्ल्यूएस: ₹100\n- एससी / एसटी / दिव्यांग: ₹0\n- महिला अभ्यर्थी: ₹0\n- भुगतान माध्यम: Debit Card, Credit Card, Internet Banking, UPI\n\n## 7. चयन प्रक्रिया (Selection Process)\n1. Preliminary Examination\n2. Main Examination\n3. Interview / Document Verification\n\n## 8. वेतनमान (Pay Scale)\nLevel-6 to Level-8 (7th CPC)\n\n## 9. आवेदन कैसे करें (Step-by-step How to Apply)\n1. आधिकारिक वेबसाइट पर जाएं।\n2. आधिकारिक भर्ती अधिसूचना (PDF) डाउनलोड करें और ध्यानपूर्वक पढ़ें।\n3. ऑनलाइन आवेदन लिंक पर क्लिक कर आवश्यक विवरण दर्ज करें।\n4. दस्तावेज, फोटो व हस्ताक्षर निर्धारित प्रारूप में अपलोड करें।\n5. आवेदन शुल्क का भुगतान कर अंतिम प्रिंटआउट सुरक्षित रखें।\n\n## 10. अस्वीकरण (Disclaimer)\nयह जानकारी अभ्यर्थियों के मार्गदर्शन हेतु प्रस्तुत की गई है। किसी भी संशय की स्थिति में आधिकारिक अधिसूचना को ही अंतिम माना जाए।",
+      "generatedAt": "2026-10-16T00:26:51.603Z",
+      "updatedAt": "2026-10-16T00:26:51.603Z"
+    },
+    "autoPublishDecision": {
+      "eligible": false,
+      "reason": "Auto-publishing is disabled in master settings (Draft First policy). Saved for administrative approval.",
+      "decidedAt": "2026-10-16T00:26:51.603Z",
+      "published": false
+    }
+  },
+  {
+    "id": "notif-1792110409296-thxj",
+    "sourceId": "src-rrb-gov",
+    "sourceName": "Railway Recruitment Boards (RRB Central)",
+    "sourceUrl": "https://www.rrbapply.gov.in/",
+    "noticeTitle": "RRB Technician Grade-I (Signal) and Grade-III Recruitment CEN 02/2026",
+    "noticeDate": "2026-10-16",
+    "advtNo": "CEN 02/2026",
+    "documentUrl": "https://www.rrbapply.gov.in/notices/cen-02-technician.pdf",
+    "documentHash": "954a52a86c73884b5cb8ac1c12dfd371681500db65fe50af1498549bce7745de",
+    "detectedAt": "2026-10-16T00:26:49.296Z",
+    "status": "verification-required",
+    "retryCount": 0,
+    "lastProcessedAt": "2026-10-16T00:26:49.296Z",
+    "extractedData": {
+      "recruitmentTitle": "Railway Recruitment Boards (RRB Central) Recruitment Notification 2026",
+      "organization": "Railway Recruitment Boards (RRB Central)",
+      "shortOrg": "Railway",
+      "advtNo": "NOTIF-2026/01",
+      "sector": "upsc",
+      "categoryType": "latest-jobs",
+      "postNames": [
+        "Various Grade Officers & Staff"
+      ],
+      "vacancies": 144,
+      "categoryBreakdown": {
+        "ur": 58,
+        "obc": 39,
+        "ews": 14,
+        "sc": 22,
+        "st": 12,
+        "total": 144
+      },
+      "importantDates": {
+        "startDate": "2026-10-16",
+        "lastDate": "2026-11-15",
+        "feeLastDate": "2026-11-15",
+        "examDate": "To be announced officially",
+        "admitCardDate": "10 days before examination"
+      },
+      "qualification": "Bachelor's Degree in Any Stream from Recognized University / Institution",
+      "qualificationLevel": "graduate",
+      "ageLimit": {
+        "min": 18,
+        "max": 32,
+        "asOfDate": "01/08/2026",
+        "relaxation": "OBC: 3 Years, SC/ST: 5 Years, PwD: 10 Years"
+      },
+      "applicationFee": {
+        "genObcEws": 100,
+        "scStPh": 0,
+        "female": 0,
+        "paymentModes": "Debit Card, Credit Card, Internet Banking, UPI"
+      },
+      "selectionProcess": [
+        "Preliminary Examination",
+        "Main Examination",
+        "Interview / Document Verification"
+      ],
+      "payScale": "Level-6 to Level-8 (7th CPC)",
+      "applicationInstructions": "Apply online strictly through the official website portal.",
+      "officialNotificationUrl": "https://www.rrbapply.gov.in/",
+      "officialApplicationUrl": "https://www.rrbapply.gov.in/",
+      "state": "All India",
+      "confidenceScore": 78,
+      "verificationFlags": [
+        "Extracted via deterministic fallback parser",
+        "Please verify official notification PDF before publishing"
+      ],
+      "rawTextExcerpt": "Government of India, Ministry of Railways, Railway Recruitment Boards invite online applications from eligible candidates for Technician Grade-I Signal and Technician Grade-III posts in various Zonal Railways and Production Units. Vacancies: 9,144 posts. Pay Level: Level-5 and Level-2. Qualification: Matriculation/SSLC plus ITI/National Apprenticeship Certificate or B.Sc / Diploma in Engineering.",
+      "sourcePublicationDate": "2026-10-16",
+      "lastVerifiedDate": "2026-10-16T00:26:49.582Z"
+    },
+    "hindiArticle": {
+      "id": "art-fb-1792110409805",
+      "title": "Railway Recruitment Boards (RRB Central) (Railway) भर्ती 2026: 144 पदों पर आवेदन शुरू, जानें अंतिम तिथि एवं योग्यता",
+      "slug": "railway-notif-2026-01-2026",
+      "metaDescription": "Railway Recruitment Boards (RRB Central) ने 144 पदों के लिए भर्ती अधिसूचना जारी की है। आवेदन की अंतिम तिथि 2026-11-15 है।",
+      "overview": "Railway Recruitment Boards (RRB Central) द्वारा आधिकारिक विज्ञापन संख्या NOTIF-2026/01 के तहत कुल 144 रिक्त पदों पर भर्ती अधिसूचना जारी कर दी गई है। इच्छुक एवं पात्र अभ्यर्थी निर्धारित समय सीमा के भीतर आधिकारिक पोर्टल के माध्यम से ऑनलाइन आवेदन कर सकते हैं।",
+      "importantDatesHindi": [
+        {
+          "label": "ऑनलाइन आवेदन प्रारंभ तिथि",
+          "date": "2026-10-16"
+        },
+        {
+          "label": "आवेदन की अंतिम तिथि",
+          "date": "2026-11-15"
+        },
+        {
+          "label": "परीक्षा शुल्क जमा करने की अंतिम तिथि",
+          "date": "2026-11-15"
+        },
+        {
+          "label": "परीक्षा तिथि",
+          "date": "To be announced officially"
+        }
+      ],
+      "vacancyDetailsHindi": "कुल पद: 144 (अनारक्षित: 58, ओबीसी: 39, ईडब्ल्यूएस: 14, एससी: 22, एसटी: 12)",
+      "eligibilityCriteriaHindi": "Bachelor's Degree in Any Stream from Recognized University / Institution",
+      "ageLimitHindi": "न्यूनतम 18 वर्ष एवं अधिकतम 32 वर्ष (कट-ऑफ तिथि: 01/08/2026)",
+      "applicationFeeHindi": "सामान्य/ओबीसी/ईडब्ल्यूएस: ₹100, आरक्षित वर्ग: ₹0",
+      "selectionProcessHindi": "Preliminary Examination → Main Examination → Interview / Document Verification",
+      "salaryHindi": "Level-6 to Level-8 (7th CPC)",
+      "howToApplyHindi": [
+        "सर्वप्रथम आधिकारिक पोर्टल पर जाएं।",
+        "भर्ती अधिसूचना विज्ञापन को डाउनलोड कर समस्त नियम पढ़ें।",
+        "ऑनलाइन आवेदन पत्र में सभी अनिवार्य विवरण भरें।",
+        "मांगे गए दस्तावेज एवं हस्ताक्षर अपलोड करें।",
+        "परीक्षा शुल्क का ऑनलाइन भुगतान कर पावती प्रिंट करें।"
+      ],
+      "importantDocumentsHindi": [
+        "10वीं/12वीं अंकतालिका व प्रमाण पत्र",
+        "स्नातक डिग्री प्रमाण पत्र",
+        "वैध पहचान पत्र (आधार कार्ड)",
+        "जाति/श्रेणी प्रमाण पत्र"
+      ],
+      "importantLinks": [
+        {
+          "title": "आधिकारिक भर्ती अधिसूचना (PDF)",
+          "url": "https://www.rrbapply.gov.in/",
+          "isOfficial": true
+        },
+        {
+          "title": "ऑनलाइन आवेदन लिंक",
+          "url": "https://www.rrbapply.gov.in/",
+          "isOfficial": true
+        },
+        {
+          "title": "आधिकारिक विभाग वेबसाइट",
+          "url": "https://www.rrbapply.gov.in/",
+          "isOfficial": true
+        }
+      ],
+      "officialNoticeSource": "Official Notification Advt No. NOTIF-2026/01 issued by Railway Recruitment Boards (RRB Central)",
+      "faqs": [
+        {
+          "question": "आवेदन की अंतिम तिथि क्या है?",
+          "answer": "आवेदन की अंतिम तिथि 2026-11-15 निर्धारित है।"
+        },
+        {
+          "question": "चयन प्रक्रिया में कौन से चरण शामिल हैं?",
+          "answer": "Preliminary Examination, Main Examination, Interview / Document Verification"
+        }
+      ],
+      "disclaimer": "यह भर्ती विवरण परीक्षार्थियों की सुविधा के लिए तैयार किया गया है। नियम, पात्रता व शर्तों की पूर्ण सत्यता के लिए आधिकारिक अधिसूचना अवश्य पढ़ें।",
+      "fullArticleMarkdown": "# Railway Recruitment Boards (RRB Central) (Railway) भर्ती 2026: 144 पदों पर आवेदन शुरू, जानें अंतिम तिथि एवं योग्यता\n\n## 1. भर्ती सारांश (Overview)\nRailway Recruitment Boards (RRB Central) द्वारा आधिकारिक विज्ञापन संख्या NOTIF-2026/01 के तहत कुल 144 रिक्त पदों पर भर्ती अधिसूचना जारी कर दी गई है। इच्छुक एवं पात्र अभ्यर्थी निर्धारित समय सीमा के भीतर आधिकारिक पोर्टल के माध्यम से ऑनलाइन आवेदन कर सकते हैं।\n\n## 2. महत्वपूर्ण तिथियां (Important Dates)\n- **ऑनलाइन आवेदन प्रारंभ तिथि:** 2026-10-16\n- **आवेदन की अंतिम तिथि:** 2026-11-15\n- **परीक्षा शुल्क जमा करने की अंतिम तिथि:** 2026-11-15\n- **परीक्षा तिथि:** To be announced officially\n\n## 3. पदों का विवरण एवं रिक्तियां (Vacancy Details)\nकुल विज्ञापित पद: **144**\n- अनारक्षित (UR): 58\n- ओबीसी (OBC): 39\n- ईडब्ल्यूएस (EWS): 14\n- एससी (SC): 22\n- एसटी (ST): 12\n\n## 4. शैक्षणिक योग्यता (Eligibility Criteria)\nBachelor's Degree in Any Stream from Recognized University / Institution\n\n## 5. आयु सीमा एवं छूट (Age Limit & Relaxations)\nन्यूनतम आयु 18 वर्ष तथा अधिकतम आयु 32 वर्ष। नियमानुसार आयु में छूट प्रदान की जाएगी (OBC: 3 Years, SC/ST: 5 Years, PwD: 10 Years)।\n\n## 6. आवेदन शुल्क (Application Fee)\n- सामान्य / ओबीसी / ईडब्ल्यूएस: ₹100\n- एससी / एसटी / दिव्यांग: ₹0\n- महिला अभ्यर्थी: ₹0\n- भुगतान माध्यम: Debit Card, Credit Card, Internet Banking, UPI\n\n## 7. चयन प्रक्रिया (Selection Process)\n1. Preliminary Examination\n2. Main Examination\n3. Interview / Document Verification\n\n## 8. वेतनमान (Pay Scale)\nLevel-6 to Level-8 (7th CPC)\n\n## 9. आवेदन कैसे करें (Step-by-step How to Apply)\n1. आधिकारिक वेबसाइट पर जाएं।\n2. आधिकारिक भर्ती अधिसूचना (PDF) डाउनलोड करें और ध्यानपूर्वक पढ़ें।\n3. ऑनलाइन आवेदन लिंक पर क्लिक कर आवश्यक विवरण दर्ज करें।\n4. दस्तावेज, फोटो व हस्ताक्षर निर्धारित प्रारूप में अपलोड करें।\n5. आवेदन शुल्क का भुगतान कर अंतिम प्रिंटआउट सुरक्षित रखें।\n\n## 10. अस्वीकरण (Disclaimer)\nयह जानकारी अभ्यर्थियों के मार्गदर्शन हेतु प्रस्तुत की गई है। किसी भी संशय की स्थिति में आधिकारिक अधिसूचना को ही अंतिम माना जाए।",
+      "generatedAt": "2026-10-16T00:26:49.805Z",
+      "updatedAt": "2026-10-16T00:26:49.805Z"
+    },
+    "autoPublishDecision": {
+      "eligible": false,
+      "reason": "Auto-publishing is disabled in master settings (Draft First policy). Saved for administrative approval.",
+      "decidedAt": "2026-10-16T00:26:49.805Z",
+      "published": false
+    }
+  },
+  {
+    "id": "notif-1792110407723-xcd0",
+    "sourceId": "src-upsc-gov",
+    "sourceName": "Union Public Service Commission (UPSC)",
+    "sourceUrl": "https://upsc.gov.in/examinations/cds-ii-2026",
+    "noticeTitle": "UPSC Combined Defence Services (CDS-II) Examination 2026 Notification",
+    "noticeDate": "2026-10-16",
+    "advtNo": "UPSC-09/2026-CDS-II",
+    "documentUrl": "https://upsc.gov.in/notices/cds-ii-2026.pdf",
+    "documentHash": "12472292d9b404bee99190a42cd106228b91928376ae24bfbcc05c03547f85b9",
+    "detectedAt": "2026-10-16T00:26:47.723Z",
+    "status": "verification-required",
+    "retryCount": 0,
+    "lastProcessedAt": "2026-10-16T00:26:47.723Z",
+    "extractedData": {
+      "recruitmentTitle": "Union Public Service Commission (UPSC) Recruitment Notification 2026",
+      "organization": "Union Public Service Commission (UPSC)",
+      "shortOrg": "Union",
+      "advtNo": "NOTIF-2026/01",
+      "sector": "upsc",
+      "categoryType": "latest-jobs",
+      "postNames": [
+        "Various Grade Officers & Staff"
+      ],
+      "vacancies": 459,
+      "categoryBreakdown": {
+        "ur": 184,
+        "obc": 124,
+        "ews": 46,
+        "sc": 69,
+        "st": 37,
+        "total": 459
+      },
+      "importantDates": {
+        "startDate": "2026-10-16",
+        "lastDate": "2026-11-15",
+        "feeLastDate": "2026-11-15",
+        "examDate": "To be announced officially",
+        "admitCardDate": "10 days before examination"
+      },
+      "qualification": "Bachelor's Degree in Any Stream from Recognized University / Institution",
+      "qualificationLevel": "graduate",
+      "ageLimit": {
+        "min": 18,
+        "max": 32,
+        "asOfDate": "01/08/2026",
+        "relaxation": "OBC: 3 Years, SC/ST: 5 Years, PwD: 10 Years"
+      },
+      "applicationFee": {
+        "genObcEws": 100,
+        "scStPh": 0,
+        "female": 0,
+        "paymentModes": "Debit Card, Credit Card, Internet Banking, UPI"
+      },
+      "selectionProcess": [
+        "Preliminary Examination",
+        "Main Examination",
+        "Interview / Document Verification"
+      ],
+      "payScale": "Level-6 to Level-8 (7th CPC)",
+      "applicationInstructions": "Apply online strictly through the official website portal.",
+      "officialNotificationUrl": "https://upsc.gov.in/examinations/cds-ii-2026",
+      "officialApplicationUrl": "https://upsc.gov.in/examinations/cds-ii-2026",
+      "state": "All India",
+      "confidenceScore": 78,
+      "verificationFlags": [
+        "Extracted via deterministic fallback parser",
+        "Please verify official notification PDF before publishing"
+      ],
+      "rawTextExcerpt": "Union Public Service Commission invites applications for the Combined Defence Services Examination (II) 2026. Total Vacancies: 459 posts across Indian Military Academy (IMA), Indian Naval Academy (INA), Air Force Academy (AFA), and Officers Training Academy (OTA). Qualification: Degree of a recognized University or equivalent. Age Limit: 19 to 24 years. Selection Process: Written Exam followed by ",
+      "sourcePublicationDate": "2026-10-16",
+      "lastVerifiedDate": "2026-10-16T00:26:47.961Z"
+    },
+    "hindiArticle": {
+      "id": "art-fb-1792110408280",
+      "title": "Union Public Service Commission (UPSC) (Union) भर्ती 2026: 459 पदों पर आवेदन शुरू, जानें अंतिम तिथि एवं योग्यता",
+      "slug": "union-notif-2026-01-2026",
+      "metaDescription": "Union Public Service Commission (UPSC) ने 459 पदों के लिए भर्ती अधिसूचना जारी की है। आवेदन की अंतिम तिथि 2026-11-15 है।",
+      "overview": "Union Public Service Commission (UPSC) द्वारा आधिकारिक विज्ञापन संख्या NOTIF-2026/01 के तहत कुल 459 रिक्त पदों पर भर्ती अधिसूचना जारी कर दी गई है। इच्छुक एवं पात्र अभ्यर्थी निर्धारित समय सीमा के भीतर आधिकारिक पोर्टल के माध्यम से ऑनलाइन आवेदन कर सकते हैं।",
+      "importantDatesHindi": [
+        {
+          "label": "ऑनलाइन आवेदन प्रारंभ तिथि",
+          "date": "2026-10-16"
+        },
+        {
+          "label": "आवेदन की अंतिम तिथि",
+          "date": "2026-11-15"
+        },
+        {
+          "label": "परीक्षा शुल्क जमा करने की अंतिम तिथि",
+          "date": "2026-11-15"
+        },
+        {
+          "label": "परीक्षा तिथि",
+          "date": "To be announced officially"
+        }
+      ],
+      "vacancyDetailsHindi": "कुल पद: 459 (अनारक्षित: 184, ओबीसी: 124, ईडब्ल्यूएस: 46, एससी: 69, एसटी: 37)",
+      "eligibilityCriteriaHindi": "Bachelor's Degree in Any Stream from Recognized University / Institution",
+      "ageLimitHindi": "न्यूनतम 18 वर्ष एवं अधिकतम 32 वर्ष (कट-ऑफ तिथि: 01/08/2026)",
+      "applicationFeeHindi": "सामान्य/ओबीसी/ईडब्ल्यूएस: ₹100, आरक्षित वर्ग: ₹0",
+      "selectionProcessHindi": "Preliminary Examination → Main Examination → Interview / Document Verification",
+      "salaryHindi": "Level-6 to Level-8 (7th CPC)",
+      "howToApplyHindi": [
+        "सर्वप्रथम आधिकारिक पोर्टल पर जाएं।",
+        "भर्ती अधिसूचना विज्ञापन को डाउनलोड कर समस्त नियम पढ़ें।",
+        "ऑनलाइन आवेदन पत्र में सभी अनिवार्य विवरण भरें।",
+        "मांगे गए दस्तावेज एवं हस्ताक्षर अपलोड करें।",
+        "परीक्षा शुल्क का ऑनलाइन भुगतान कर पावती प्रिंट करें।"
+      ],
+      "importantDocumentsHindi": [
+        "10वीं/12वीं अंकतालिका व प्रमाण पत्र",
+        "स्नातक डिग्री प्रमाण पत्र",
+        "वैध पहचान पत्र (आधार कार्ड)",
+        "जाति/श्रेणी प्रमाण पत्र"
+      ],
+      "importantLinks": [
+        {
+          "title": "आधिकारिक भर्ती अधिसूचना (PDF)",
+          "url": "https://upsc.gov.in/examinations/cds-ii-2026",
+          "isOfficial": true
+        },
+        {
+          "title": "ऑनलाइन आवेदन लिंक",
+          "url": "https://upsc.gov.in/examinations/cds-ii-2026",
+          "isOfficial": true
+        },
+        {
+          "title": "आधिकारिक विभाग वेबसाइट",
+          "url": "https://upsc.gov.in/examinations/cds-ii-2026",
+          "isOfficial": true
+        }
+      ],
+      "officialNoticeSource": "Official Notification Advt No. NOTIF-2026/01 issued by Union Public Service Commission (UPSC)",
+      "faqs": [
+        {
+          "question": "आवेदन की अंतिम तिथि क्या है?",
+          "answer": "आवेदन की अंतिम तिथि 2026-11-15 निर्धारित है।"
+        },
+        {
+          "question": "चयन प्रक्रिया में कौन से चरण शामिल हैं?",
+          "answer": "Preliminary Examination, Main Examination, Interview / Document Verification"
+        }
+      ],
+      "disclaimer": "यह भर्ती विवरण परीक्षार्थियों की सुविधा के लिए तैयार किया गया है। नियम, पात्रता व शर्तों की पूर्ण सत्यता के लिए आधिकारिक अधिसूचना अवश्य पढ़ें।",
+      "fullArticleMarkdown": "# Union Public Service Commission (UPSC) (Union) भर्ती 2026: 459 पदों पर आवेदन शुरू, जानें अंतिम तिथि एवं योग्यता\n\n## 1. भर्ती सारांश (Overview)\nUnion Public Service Commission (UPSC) द्वारा आधिकारिक विज्ञापन संख्या NOTIF-2026/01 के तहत कुल 459 रिक्त पदों पर भर्ती अधिसूचना जारी कर दी गई है। इच्छुक एवं पात्र अभ्यर्थी निर्धारित समय सीमा के भीतर आधिकारिक पोर्टल के माध्यम से ऑनलाइन आवेदन कर सकते हैं।\n\n## 2. महत्वपूर्ण तिथियां (Important Dates)\n- **ऑनलाइन आवेदन प्रारंभ तिथि:** 2026-10-16\n- **आवेदन की अंतिम तिथि:** 2026-11-15\n- **परीक्षा शुल्क जमा करने की अंतिम तिथि:** 2026-11-15\n- **परीक्षा तिथि:** To be announced officially\n\n## 3. पदों का विवरण एवं रिक्तियां (Vacancy Details)\nकुल विज्ञापित पद: **459**\n- अनारक्षित (UR): 184\n- ओबीसी (OBC): 124\n- ईडब्ल्यूएस (EWS): 46\n- एससी (SC): 69\n- एसटी (ST): 37\n\n## 4. शैक्षणिक योग्यता (Eligibility Criteria)\nBachelor's Degree in Any Stream from Recognized University / Institution\n\n## 5. आयु सीमा एवं छूट (Age Limit & Relaxations)\nन्यूनतम आयु 18 वर्ष तथा अधिकतम आयु 32 वर्ष। नियमानुसार आयु में छूट प्रदान की जाएगी (OBC: 3 Years, SC/ST: 5 Years, PwD: 10 Years)।\n\n## 6. आवेदन शुल्क (Application Fee)\n- सामान्य / ओबीसी / ईडब्ल्यूएस: ₹100\n- एससी / एसटी / दिव्यांग: ₹0\n- महिला अभ्यर्थी: ₹0\n- भुगतान माध्यम: Debit Card, Credit Card, Internet Banking, UPI\n\n## 7. चयन प्रक्रिया (Selection Process)\n1. Preliminary Examination\n2. Main Examination\n3. Interview / Document Verification\n\n## 8. वेतनमान (Pay Scale)\nLevel-6 to Level-8 (7th CPC)\n\n## 9. आवेदन कैसे करें (Step-by-step How to Apply)\n1. आधिकारिक वेबसाइट पर जाएं।\n2. आधिकारिक भर्ती अधिसूचना (PDF) डाउनलोड करें और ध्यानपूर्वक पढ़ें।\n3. ऑनलाइन आवेदन लिंक पर क्लिक कर आवश्यक विवरण दर्ज करें।\n4. दस्तावेज, फोटो व हस्ताक्षर निर्धारित प्रारूप में अपलोड करें।\n5. आवेदन शुल्क का भुगतान कर अंतिम प्रिंटआउट सुरक्षित रखें।\n\n## 10. अस्वीकरण (Disclaimer)\nयह जानकारी अभ्यर्थियों के मार्गदर्शन हेतु प्रस्तुत की गई है। किसी भी संशय की स्थिति में आधिकारिक अधिसूचना को ही अंतिम माना जाए।",
+      "generatedAt": "2026-10-16T00:26:48.280Z",
+      "updatedAt": "2026-10-16T00:26:48.280Z"
+    },
+    "autoPublishDecision": {
+      "eligible": false,
+      "reason": "Auto-publishing is disabled in master settings (Draft First policy). Saved for administrative approval.",
+      "decidedAt": "2026-10-16T00:26:48.280Z",
+      "published": false
+    }
+  },
+  {
+    "id": "notif-1792110354164-i98f",
+    "sourceId": "src-ssc-gov",
+    "sourceName": "Staff Selection Commission (SSC)",
+    "sourceUrl": "https://ssc.gov.in/candidate-portal/chsl-2026",
+    "noticeTitle": "SSC Combined Higher Secondary (10+2) Level CHSL 2026 Notification",
+    "noticeDate": "2026-10-16",
+    "advtNo": "SSC/HQ/CHSL/2026",
+    "documentUrl": "https://ssc.gov.in/notice-chsl-2026.pdf",
+    "documentHash": "5ef8ebc3de343306655e465977233b7e05ae103f18cdea4cf027078cf948c231",
+    "detectedAt": "2026-10-16T00:25:54.164Z",
+    "status": "verification-required",
+    "retryCount": 0,
+    "lastProcessedAt": "2026-10-16T00:25:54.164Z",
+    "extractedData": {
+      "recruitmentTitle": "Combined Higher Secondary (10+2) Level Examination 2026",
+      "organization": "Staff Selection Commission",
+      "shortOrg": "SSC",
+      "advtNo": "Not specified in official notification",
+      "sector": "ssc",
+      "categoryType": "latest-jobs",
+      "postNames": [
+        "Lower Divisional Clerk (LDC)",
+        "Junior Secretariat Assistant (JSA)",
+        "Data Entry Operator (DEO)"
+      ],
+      "vacancies": 3712,
+      "categoryBreakdown": {
+        "ur": null,
+        "obc": null,
+        "ews": null,
+        "sc": null,
+        "st": null,
+        "total": 3712
+      },
+      "importantDates": {
+        "startDate": "Not specified in official notification",
+        "lastDate": "30 days from notification",
+        "feeLastDate": "Not specified in official notification",
+        "examDate": "Not specified in official notification",
+        "admitCardDate": "Not specified in official notification",
+        "resultDate": "Not specified in official notification"
+      },
+      "qualification": "12th standard or equivalent from a recognized board",
+      "qualificationLevel": "12th",
+      "ageLimit": {
+        "min": null,
+        "max": null,
+        "asOfDate": "Not specified in official notification",
+        "relaxation": "Not specified in official notification"
+      },
+      "applicationFee": {
+        "genObcEws": null,
+        "scStPh": null,
+        "female": null,
+        "paymentModes": "Not specified in official notification"
+      },
+      "selectionProcess": [],
+      "payScale": "Not specified in official notification",
+      "applicationInstructions": "Not specified in official notification",
+      "officialNotificationUrl": "Not specified in official notification",
+      "officialApplicationUrl": "Not specified in official notification",
+      "state": "All India",
+      "confidenceScore": 72,
+      "verificationFlags": [
+        "Advertisement number missing",
+        "Exact start and last dates missing (only relative duration given: '30 days from notification')",
+        "Category-wise vacancy breakdown not specified",
+        "Age limit criteria not specified",
+        "Application fee details not specified",
+        "Selection process and pay scale details not specified"
+      ],
+      "rawTextExcerpt": "Staff Selection Commission will hold the Combined Higher Secondary (10+2) Level Examination 2026 for recruitment to the posts of Lower Divisional Clerk (LDC), Junior Secretariat Assistant (JSA), and Data Entry Operator (DEO). Total estimated vacancies: 3,712 posts across central government ministries. Educational Qualification: 12th standard or equivalent from a recognized board. Application Last Date: 30 days from notification.",
+      "sourcePublicationDate": "2026-10-16",
+      "lastVerifiedDate": "2026-10-16T00:26:43.527Z"
+    },
+    "hindiArticle": {
+      "id": "art-fb-1792110403919",
+      "title": "Staff Selection Commission (SSC) भर्ती 2026: 3712 पदों पर आवेदन शुरू, जानें अंतिम तिथि एवं योग्यता",
+      "slug": "ssc-not-specified-in-official-notification-2026",
+      "metaDescription": "Staff Selection Commission ने 3712 पदों के लिए भर्ती अधिसूचना जारी की है। आवेदन की अंतिम तिथि 30 days from notification है।",
+      "overview": "Staff Selection Commission द्वारा आधिकारिक विज्ञापन संख्या Not specified in official notification के तहत कुल 3712 रिक्त पदों पर भर्ती अधिसूचना जारी कर दी गई है। इच्छुक एवं पात्र अभ्यर्थी निर्धारित समय सीमा के भीतर आधिकारिक पोर्टल के माध्यम से ऑनलाइन आवेदन कर सकते हैं।",
+      "importantDatesHindi": [
+        {
+          "label": "ऑनलाइन आवेदन प्रारंभ तिथि",
+          "date": "Not specified in official notification"
+        },
+        {
+          "label": "आवेदन की अंतिम तिथि",
+          "date": "30 days from notification"
+        },
+        {
+          "label": "परीक्षा शुल्क जमा करने की अंतिम तिथि",
+          "date": "Not specified in official notification"
+        },
+        {
+          "label": "परीक्षा तिथि",
+          "date": "Not specified in official notification"
+        }
+      ],
+      "vacancyDetailsHindi": "कुल पद: 3712 (अनारक्षित: null, ओबीसी: null, ईडब्ल्यूएस: null, एससी: null, एसटी: null)",
+      "eligibilityCriteriaHindi": "12th standard or equivalent from a recognized board",
+      "ageLimitHindi": "न्यूनतम null वर्ष एवं अधिकतम null वर्ष (कट-ऑफ तिथि: Not specified in official notification)",
+      "applicationFeeHindi": "सामान्य/ओबीसी/ईडब्ल्यूएस: ₹null, आरक्षित वर्ग: ₹null",
+      "selectionProcessHindi": "",
+      "salaryHindi": "Not specified in official notification",
+      "howToApplyHindi": [
+        "सर्वप्रथम आधिकारिक पोर्टल पर जाएं।",
+        "भर्ती अधिसूचना विज्ञापन को डाउनलोड कर समस्त नियम पढ़ें।",
+        "ऑनलाइन आवेदन पत्र में सभी अनिवार्य विवरण भरें।",
+        "मांगे गए दस्तावेज एवं हस्ताक्षर अपलोड करें।",
+        "परीक्षा शुल्क का ऑनलाइन भुगतान कर पावती प्रिंट करें।"
+      ],
+      "importantDocumentsHindi": [
+        "10वीं/12वीं अंकतालिका व प्रमाण पत्र",
+        "स्नातक डिग्री प्रमाण पत्र",
+        "वैध पहचान पत्र (आधार कार्ड)",
+        "जाति/श्रेणी प्रमाण पत्र"
+      ],
+      "importantLinks": [
+        {
+          "title": "आधिकारिक भर्ती अधिसूचना (PDF)",
+          "url": "Not specified in official notification",
+          "isOfficial": true
+        },
+        {
+          "title": "ऑनलाइन आवेदन लिंक",
+          "url": "Not specified in official notification",
+          "isOfficial": true
+        },
+        {
+          "title": "आधिकारिक विभाग वेबसाइट",
+          "url": "https://ssc.gov.in/candidate-portal/chsl-2026",
+          "isOfficial": true
+        }
+      ],
+      "officialNoticeSource": "Official Notification Advt No. Not specified in official notification issued by Staff Selection Commission",
+      "faqs": [
+        {
+          "question": "आवेदन की अंतिम तिथि क्या है?",
+          "answer": "आवेदन की अंतिम तिथि 30 days from notification निर्धारित है।"
+        },
+        {
+          "question": "चयन प्रक्रिया में कौन से चरण शामिल हैं?",
+          "answer": ""
+        }
+      ],
+      "disclaimer": "यह भर्ती विवरण परीक्षार्थियों की सुविधा के लिए तैयार किया गया है। नियम, पात्रता व शर्तों की पूर्ण सत्यता के लिए आधिकारिक अधिसूचना अवश्य पढ़ें।",
+      "fullArticleMarkdown": "# Staff Selection Commission (SSC) भर्ती 2026: 3712 पदों पर आवेदन शुरू, जानें अंतिम तिथि एवं योग्यता\n\n## 1. भर्ती सारांश (Overview)\nStaff Selection Commission द्वारा आधिकारिक विज्ञापन संख्या Not specified in official notification के तहत कुल 3712 रिक्त पदों पर भर्ती अधिसूचना जारी कर दी गई है। इच्छुक एवं पात्र अभ्यर्थी निर्धारित समय सीमा के भीतर आधिकारिक पोर्टल के माध्यम से ऑनलाइन आवेदन कर सकते हैं।\n\n## 2. महत्वपूर्ण तिथियां (Important Dates)\n- **ऑनलाइन आवेदन प्रारंभ तिथि:** Not specified in official notification\n- **आवेदन की अंतिम तिथि:** 30 days from notification\n- **परीक्षा शुल्क जमा करने की अंतिम तिथि:** Not specified in official notification\n- **परीक्षा तिथि:** Not specified in official notification\n\n## 3. पदों का विवरण एवं रिक्तियां (Vacancy Details)\nकुल विज्ञापित पद: **3712**\n- अनारक्षित (UR): null\n- ओबीसी (OBC): null\n- ईडब्ल्यूएस (EWS): null\n- एससी (SC): null\n- एसटी (ST): null\n\n## 4. शैक्षणिक योग्यता (Eligibility Criteria)\n12th standard or equivalent from a recognized board\n\n## 5. आयु सीमा एवं छूट (Age Limit & Relaxations)\nन्यूनतम आयु null वर्ष तथा अधिकतम आयु null वर्ष। नियमानुसार आयु में छूट प्रदान की जाएगी (Not specified in official notification)।\n\n## 6. आवेदन शुल्क (Application Fee)\n- सामान्य / ओबीसी / ईडब्ल्यूएस: ₹null\n- एससी / एसटी / दिव्यांग: ₹null\n- महिला अभ्यर्थी: ₹null\n- भुगतान माध्यम: Not specified in official notification\n\n## 7. चयन प्रक्रिया (Selection Process)\n\n\n## 8. वेतनमान (Pay Scale)\nNot specified in official notification\n\n## 9. आवेदन कैसे करें (Step-by-step How to Apply)\n1. आधिकारिक वेबसाइट पर जाएं।\n2. आधिकारिक भर्ती अधिसूचना (PDF) डाउनलोड करें और ध्यानपूर्वक पढ़ें।\n3. ऑनलाइन आवेदन लिंक पर क्लिक कर आवश्यक विवरण दर्ज करें।\n4. दस्तावेज, फोटो व हस्ताक्षर निर्धारित प्रारूप में अपलोड करें।\n5. आवेदन शुल्क का भुगतान कर अंतिम प्रिंटआउट सुरक्षित रखें।\n\n## 10. अस्वीकरण (Disclaimer)\nयह जानकारी अभ्यर्थियों के मार्गदर्शन हेतु प्रस्तुत की गई है। किसी भी संशय की स्थिति में आधिकारिक अधिसूचना को ही अंतिम माना जाए।",
+      "generatedAt": "2026-10-16T00:26:43.919Z",
+      "updatedAt": "2026-10-16T00:26:43.919Z"
+    },
+    "autoPublishDecision": {
+      "eligible": false,
+      "reason": "Auto-publishing is disabled in master settings (Draft First policy). Saved for administrative approval.",
+      "decidedAt": "2026-10-16T00:26:43.919Z",
+      "published": false
+    }
+  },
+  {
+    "id": "notif-manual-1792063588249",
+    "sourceId": "src-manual-upload",
+    "sourceName": "UP Police Recruitment & Promotion Board (UPPRPB)",
+    "sourceUrl": "https://uppbpb.gov.in",
+    "noticeTitle": "UP Police Constable & SI Recruitment 2026",
+    "noticeDate": "2026-10-15",
+    "advtNo": "UPPRPB-CONST-2026",
+    "documentHash": "e8f75c936535309f7fa7c717bc95fd5af43d0d3745a542c93d22f2452748a3f4",
+    "detectedAt": "2026-10-15T11:26:28.249Z",
+    "status": "draft-ready",
+    "retryCount": 0,
+    "lastProcessedAt": "2026-10-15T11:26:32.805Z",
+    "extractedData": {
+      "recruitmentTitle": "UP Police Recruitment & Promotion Board (UPPRPB) Recruitment Notification 2026",
+      "organization": "UP Police Recruitment & Promotion Board (UPPRPB)",
+      "shortOrg": "UP",
+      "advtNo": "NOTIF-2026/01",
+      "sector": "upsc",
+      "categoryType": "latest-jobs",
+      "postNames": [
+        "Various Grade Officers & Staff"
+      ],
+      "vacancies": 250,
+      "categoryBreakdown": {
+        "ur": 100,
+        "obc": 68,
+        "ews": 25,
+        "sc": 38,
+        "st": 20,
+        "total": 250
+      },
+      "importantDates": {
+        "startDate": "2026-04-01",
+        "lastDate": "2026-04-30",
+        "feeLastDate": "2026-04-30",
+        "examDate": "To be announced officially",
+        "admitCardDate": "10 days before examination"
+      },
+      "qualification": "Bachelor's Degree in Any Stream from Recognized University / Institution",
+      "qualificationLevel": "graduate",
+      "ageLimit": {
+        "min": 18,
+        "max": 32,
+        "asOfDate": "01/08/2026",
+        "relaxation": "OBC: 3 Years, SC/ST: 5 Years, PwD: 10 Years"
+      },
+      "applicationFee": {
+        "genObcEws": 100,
+        "scStPh": 0,
+        "female": 0,
+        "paymentModes": "Debit Card, Credit Card, Internet Banking, UPI"
+      },
+      "selectionProcess": [
+        "Preliminary Examination",
+        "Main Examination",
+        "Interview / Document Verification"
+      ],
+      "payScale": "Level-6 to Level-8 (7th CPC)",
+      "applicationInstructions": "Apply online strictly through the official website portal.",
+      "officialNotificationUrl": "https://uppbpb.gov.in",
+      "officialApplicationUrl": "https://uppbpb.gov.in",
+      "state": "All India",
+      "confidenceScore": 78,
+      "verificationFlags": [
+        "Extracted via deterministic fallback parser",
+        "Please verify official notification PDF before publishing"
+      ],
+      "rawTextExcerpt": "Uttar Pradesh Police Recruitment Board invites online applications for 25,000 Constable and Sub-Inspector vacancies. Minimum qualification: 12th Pass for Constable, Graduation for SI. Age limit: 18-25 years. Application start date: 2026-04-01, Last date: 2026-04-30. Written examination proposed in July 2026.",
+      "sourcePublicationDate": "2026-10-15",
+      "lastVerifiedDate": "2026-10-15T11:26:31.333Z"
+    },
+    "hindiArticle": {
+      "id": "art-fb-1792063592805",
+      "title": "UP Police Recruitment & Promotion Board (UPPRPB) (UP) भर्ती 2026: 250 पदों पर आवेदन शुरू, जानें अंतिम तिथि एवं योग्यता",
+      "slug": "up-notif-2026-01-2026",
+      "metaDescription": "UP Police Recruitment & Promotion Board (UPPRPB) ने 250 पदों के लिए भर्ती अधिसूचना जारी की है। आवेदन की अंतिम तिथि 2026-04-30 है।",
+      "overview": "UP Police Recruitment & Promotion Board (UPPRPB) द्वारा आधिकारिक विज्ञापन संख्या NOTIF-2026/01 के तहत कुल 250 रिक्त पदों पर भर्ती अधिसूचना जारी कर दी गई है। इच्छुक एवं पात्र अभ्यर्थी निर्धारित समय सीमा के भीतर आधिकारिक पोर्टल के माध्यम से ऑनलाइन आवेदन कर सकते हैं।",
+      "importantDatesHindi": [
+        {
+          "label": "ऑनलाइन आवेदन प्रारंभ तिथि",
+          "date": "2026-04-01"
+        },
+        {
+          "label": "आवेदन की अंतिम तिथि",
+          "date": "2026-04-30"
+        },
+        {
+          "label": "परीक्षा शुल्क जमा करने की अंतिम तिथि",
+          "date": "2026-04-30"
+        },
+        {
+          "label": "परीक्षा तिथि",
+          "date": "To be announced officially"
+        }
+      ],
+      "vacancyDetailsHindi": "कुल पद: 250 (अनारक्षित: 100, ओबीसी: 68, ईडब्ल्यूएस: 25, एससी: 38, एसटी: 20)",
+      "eligibilityCriteriaHindi": "Bachelor's Degree in Any Stream from Recognized University / Institution",
+      "ageLimitHindi": "न्यूनतम 18 वर्ष एवं अधिकतम 32 वर्ष (कट-ऑफ तिथि: 01/08/2026)",
+      "applicationFeeHindi": "सामान्य/ओबीसी/ईडब्ल्यूएस: ₹100, आरक्षित वर्ग: ₹0",
+      "selectionProcessHindi": "Preliminary Examination → Main Examination → Interview / Document Verification",
+      "salaryHindi": "Level-6 to Level-8 (7th CPC)",
+      "howToApplyHindi": [
+        "सर्वप्रथम आधिकारिक पोर्टल पर जाएं।",
+        "भर्ती अधिसूचना विज्ञापन को डाउनलोड कर समस्त नियम पढ़ें।",
+        "ऑनलाइन आवेदन पत्र में सभी अनिवार्य विवरण भरें।",
+        "मांगे गए दस्तावेज एवं हस्ताक्षर अपलोड करें।",
+        "परीक्षा शुल्क का ऑनलाइन भुगतान कर पावती प्रिंट करें।"
+      ],
+      "importantDocumentsHindi": [
+        "10वीं/12वीं अंकतालिका व प्रमाण पत्र",
+        "स्नातक डिग्री प्रमाण पत्र",
+        "वैध पहचान पत्र (आधार कार्ड)",
+        "जाति/श्रेणी प्रमाण पत्र"
+      ],
+      "importantLinks": [
+        {
+          "title": "आधिकारिक भर्ती अधिसूचना (PDF)",
+          "url": "https://uppbpb.gov.in",
+          "isOfficial": true
+        },
+        {
+          "title": "ऑनलाइन आवेदन लिंक",
+          "url": "https://uppbpb.gov.in",
+          "isOfficial": true
+        },
+        {
+          "title": "आधिकारिक विभाग वेबसाइट",
+          "url": "https://uppbpb.gov.in",
+          "isOfficial": true
+        }
+      ],
+      "officialNoticeSource": "Official Notification Advt No. NOTIF-2026/01 issued by UP Police Recruitment & Promotion Board (UPPRPB)",
+      "faqs": [
+        {
+          "question": "आवेदन की अंतिम तिथि क्या है?",
+          "answer": "आवेदन की अंतिम तिथि 2026-04-30 निर्धारित है।"
+        },
+        {
+          "question": "चयन प्रक्रिया में कौन से चरण शामिल हैं?",
+          "answer": "Preliminary Examination, Main Examination, Interview / Document Verification"
+        }
+      ],
+      "disclaimer": "यह भर्ती विवरण परीक्षार्थियों की सुविधा के लिए तैयार किया गया है। नियम, पात्रता व शर्तों की पूर्ण सत्यता के लिए आधिकारिक अधिसूचना अवश्य पढ़ें।",
+      "fullArticleMarkdown": "# UP Police Recruitment & Promotion Board (UPPRPB) (UP) भर्ती 2026: 250 पदों पर आवेदन शुरू, जानें अंतिम तिथि एवं योग्यता\n\n## 1. भर्ती सारांश (Overview)\nUP Police Recruitment & Promotion Board (UPPRPB) द्वारा आधिकारिक विज्ञापन संख्या NOTIF-2026/01 के तहत कुल 250 रिक्त पदों पर भर्ती अधिसूचना जारी कर दी गई है। इच्छुक एवं पात्र अभ्यर्थी निर्धारित समय सीमा के भीतर आधिकारिक पोर्टल के माध्यम से ऑनलाइन आवेदन कर सकते हैं।\n\n## 2. महत्वपूर्ण तिथियां (Important Dates)\n- **ऑनलाइन आवेदन प्रारंभ तिथि:** 2026-04-01\n- **आवेदन की अंतिम तिथि:** 2026-04-30\n- **परीक्षा शुल्क जमा करने की अंतिम तिथि:** 2026-04-30\n- **परीक्षा तिथि:** To be announced officially\n\n## 3. पदों का विवरण एवं रिक्तियां (Vacancy Details)\nकुल विज्ञापित पद: **250**\n- अनारक्षित (UR): 100\n- ओबीसी (OBC): 68\n- ईडब्ल्यूएस (EWS): 25\n- एससी (SC): 38\n- एसटी (ST): 20\n\n## 4. शैक्षणिक योग्यता (Eligibility Criteria)\nBachelor's Degree in Any Stream from Recognized University / Institution\n\n## 5. आयु सीमा एवं छूट (Age Limit & Relaxations)\nन्यूनतम आयु 18 वर्ष तथा अधिकतम आयु 32 वर्ष। नियमानुसार आयु में छूट प्रदान की जाएगी (OBC: 3 Years, SC/ST: 5 Years, PwD: 10 Years)।\n\n## 6. आवेदन शुल्क (Application Fee)\n- सामान्य / ओबीसी / ईडब्ल्यूएस: ₹100\n- एससी / एसटी / दिव्यांग: ₹0\n- महिला अभ्यर्थी: ₹0\n- भुगतान माध्यम: Debit Card, Credit Card, Internet Banking, UPI\n\n## 7. चयन प्रक्रिया (Selection Process)\n1. Preliminary Examination\n2. Main Examination\n3. Interview / Document Verification\n\n## 8. वेतनमान (Pay Scale)\nLevel-6 to Level-8 (7th CPC)\n\n## 9. आवेदन कैसे करें (Step-by-step How to Apply)\n1. आधिकारिक वेबसाइट पर जाएं।\n2. आधिकारिक भर्ती अधिसूचना (PDF) डाउनलोड करें और ध्यानपूर्वक पढ़ें।\n3. ऑनलाइन आवेदन लिंक पर क्लिक कर आवश्यक विवरण दर्ज करें।\n4. दस्तावेज, फोटो व हस्ताक्षर निर्धारित प्रारूप में अपलोड करें।\n5. आवेदन शुल्क का भुगतान कर अंतिम प्रिंटआउट सुरक्षित रखें।\n\n## 10. अस्वीकरण (Disclaimer)\nयह जानकारी अभ्यर्थियों के मार्गदर्शन हेतु प्रस्तुत की गई है। किसी भी संशय की स्थिति में आधिकारिक अधिसूचना को ही अंतिम माना जाए।",
+      "generatedAt": "2026-10-15T11:26:32.805Z",
+      "updatedAt": "2026-10-15T11:26:32.805Z"
+    }
+  },
+  {
+    "id": "notif-1792063551047-1ox9",
+    "sourceId": "src-ssc-gov",
+    "sourceName": "Staff Selection Commission (SSC)",
+    "sourceUrl": "https://ssc.gov.in/candidate-portal/chsl-2026",
+    "noticeTitle": "SSC Combined Higher Secondary (10+2) Level CHSL 2026 Notification",
+    "noticeDate": "2026-10-15",
+    "advtNo": "SSC/HQ/CHSL/2026",
+    "documentUrl": "https://ssc.gov.in/notice-chsl-2026.pdf",
+    "documentHash": "c053986541a6bb00f221bade758e14c6c633ed855e6917bd4bda8b7095112d8d",
+    "detectedAt": "2026-10-15T11:25:51.047Z",
+    "status": "processing",
+    "retryCount": 0,
+    "lastProcessedAt": "2026-10-15T11:25:51.047Z"
+  },
+  {
+    "id": "notif-manual-1792063497930",
+    "sourceId": "src-manual-upload",
+    "sourceName": "UP Police Recruitment & Promotion Board (UPPRPB)",
+    "sourceUrl": "https://uppbpb.gov.in",
+    "noticeTitle": "UP Police Constable & SI Recruitment 2026",
+    "noticeDate": "2026-10-15",
+    "advtNo": "UPPRPB-CONST-2026",
+    "documentHash": "e8f75c936535309f7fa7c717bc95fd5af43d0d3745a542c93d22f2452748a3f4",
+    "detectedAt": "2026-10-15T11:24:57.930Z",
+    "status": "draft-ready",
+    "retryCount": 0,
+    "lastProcessedAt": "2026-10-15T11:25:50.524Z",
+    "extractedData": {
+      "recruitmentTitle": "UP Police Constable and Sub-Inspector Recruitment 2026",
+      "organization": "Uttar Pradesh Police Recruitment & Promotion Board",
+      "shortOrg": "UPPRPB",
+      "advtNo": "Not specified in official notification",
+      "sector": "defence",
+      "categoryType": "latest-jobs",
+      "postNames": [
+        "Constable",
+        "Sub-Inspector"
+      ],
+      "vacancies": 25000,
+      "categoryBreakdown": {
+        "ur": null,
+        "obc": null,
+        "ews": null,
+        "sc": null,
+        "st": null,
+        "total": 25000
+      },
+      "importantDates": {
+        "startDate": "2026-04-01",
+        "lastDate": "2026-04-30",
+        "feeLastDate": "Not specified in official notification",
+        "examDate": "July 2026",
+        "admitCardDate": "Not specified in official notification",
+        "resultDate": "Not specified in official notification"
+      },
+      "qualification": "12th Pass for Constable, Graduation for SI",
+      "qualificationLevel": "12th",
+      "ageLimit": {
+        "min": 18,
+        "max": 25,
+        "asOfDate": "Not specified in official notification",
+        "relaxation": "Not specified in official notification"
+      },
+      "applicationFee": {
+        "genObcEws": null,
+        "scStPh": null,
+        "female": null,
+        "paymentModes": "Not specified in official notification"
+      },
+      "selectionProcess": [
+        "Written examination"
+      ],
+      "payScale": "Not specified in official notification",
+      "applicationInstructions": "Not specified in official notification",
+      "officialNotificationUrl": "Not specified in official notification",
+      "officialApplicationUrl": "Not specified in official notification",
+      "state": "Uttar Pradesh",
+      "confidenceScore": 75,
+      "verificationFlags": [
+        "Advertisement number not specified",
+        "Category-wise vacancy distribution not specified",
+        "Application fee details missing",
+        "Exact written exam date not specified (proposed July 2026)",
+        "Age limit effective date and relaxation details not specified"
+      ],
+      "rawTextExcerpt": "Uttar Pradesh Police Recruitment Board invites online applications for 25,000 Constable and Sub-Inspector vacancies. Minimum qualification: 12th Pass for Constable, Graduation for SI. Age limit: 18-25 years. Application start date: 2026-04-01, Last date: 2026-04-30. Written examination proposed in July 2026.",
+      "sourcePublicationDate": "2026-10-15",
+      "lastVerifiedDate": "2026-10-15T11:25:08.655Z"
+    },
+    "hindiArticle": {
+      "id": "art-1792063550524",
+      "title": "यूपी पुलिस भर्ती 2026: कांस्टेबल और सब-इंस्पेक्टर के 25,000 पदों पर बंपर भर्ती, 1 अप्रैल से करें आवेदन",
+      "slug": "upprpb-not-specified-in-official-notification-2026",
+      "metaDescription": "यूपी पुलिस भर्ती बोर्ड (UPPRPB) ने कांस्टेबल और एसआई के 25,000 पदों पर भर्ती निकाली है। आवेदन 1 अप्रैल 2026 से शुरू होंगे। पात्रता एवं चयन प्रक्रिया यहाँ देखें।",
+      "overview": "उत्तर प्रदेश पुलिस भर्ती एवं प्रोन्नति बोर्ड (UPPRPB) ने राज्य के युवाओं के लिए एक सुनहरा अवसर प्रस्तुत करते हुए कांस्टेबल और सब-इंस्पेक्टर (SI) के कुल 25,000 पदों पर भर्ती प्रक्रिया की घोषणा की है। खाकी वर्दी पहनने और जनसेवा का सपना देख रहे अभ्यर्थियों के लिए यह एक अत्यंत महत्वपूर्ण भर्ती अभियान है। इस भर्ती के तहत योग्य उम्मीदवार 1 अप्रैल 2026 से 30 अप्रैल 2026 तक अपना ऑनलाइन आवेदन जमा कर सकेंगे।\n\nइस भर्ती में कांस्टेबल पद के लिए न्यूनतम 12वीं उत्तीर्ण और सब-इंस्पेक्टर पद के लिए स्नातक उत्तीर्ण युवा आवेदन करने के पात्र होंगे। चयन का प्रमुख आधार लिखित परीक्षा होगी, जिसका आयोजन जुलाई 2026 में किया जाना प्रस्तावित है। सभी इच्छुक एवं योग्य अभ्यर्थियों को सलाह दी जाती है कि वे निर्धारित तिथियों के भीतर अपना आवेदन पूरा करें और अभी से अपनी परीक्षा की तैयारी को सुदृढ़ करें।",
+      "importantDatesHindi": [
+        {
+          "label": "ऑनलाइन आवेदन प्रारंभ तिथि",
+          "date": "1 अप्रैल 2026"
+        },
+        {
+          "label": "ऑनलाइन आवेदन की अंतिम तिथि",
+          "date": "30 अप्रैल 2026"
+        },
+        {
+          "label": "आवेदन शुल्क भुगतान की अंतिम तिथि",
+          "date": "आधिकारिक अधिसूचना में निर्दिष्ट नहीं"
+        },
+        {
+          "label": "लिखित परीक्षा की संभावित तिथि",
+          "date": "जुलाई 2026"
+        }
+      ],
+      "vacancyDetailsHindi": "इस भर्ती अभियान के माध्यम से कुल 25,000 रिक्त पदों को भरा जाएगा। इनमें कांस्टेबल और सब-इंस्पेक्टर (SI) के पद शामिल हैं। पदवार एवं श्रेणीवार (सामान्य, ईडब्ल्यूएस, ओबीसी, एससी, एसटी) पदों के सटीक आवंटन की विस्तृत जानकारी आधिकारिक विस्तृत अधिसूचना में उपलब्ध कराई जाएगी।",
+      "eligibilityCriteriaHindi": "शैक्षणिक योग्यता:\n1. कांस्टेबल पद हेतु: उम्मीदवार का किसी भी मान्यता प्राप्त शिक्षा बोर्ड से 12वीं कक्षा (इंटरमीडिएट) या समकक्ष उत्तीर्ण होना अनिवार्य है।\n2. सब-इंस्पेक्टर (SI) पद हेतु: उम्मीदवार के पास किसी मान्यता प्राप्त विश्वविद्यालय या संस्थान से किसी भी विषय में स्नातक (Graduation) की डिग्री होनी चाहिए।",
+      "ageLimitHindi": "उम्मीदवार की न्यूनतम आयु 18 वर्ष और अधिकतम आयु 25 वर्ष निर्धारित की गई है। आयु गणना की निर्णायक तिथि और आरक्षित वर्गों (ओबीसी, एससी, एसटी आदि) को ऊपरी आयु सीमा में मिलने वाली छूट का विवरण आधिकारिक अधिसूचना में निर्दिष्ट नहीं है।",
+      "applicationFeeHindi": "वर्तमान में उपलब्ध आधिकारिक जानकारी के अनुसार आवेदन शुल्क (सामान्य, ओबीसी, ईडब्ल्यूएस, एससी, एसटी, महिला एवं दिव्यांग वर्ग) का विवरण आधिकारिक अधिसूचना में निर्दिष्ट नहीं किया गया है।",
+      "selectionProcessHindi": "इस भर्ती के अंतर्गत अभ्यर्थियों का चयन लिखित परीक्षा (Written Examination) के आधार पर किया जाएगा। लिखित परीक्षा में सफल अभ्यर्थियों को विभाग के आगामी चरणों के नियमों का पालन करना होगा।",
+      "salaryHindi": "कांस्टेबल एवं सब-इंस्पेक्टर पदों हेतु पे-मैट्रिक्स और वेतनमान का विस्तृत विवरण आधिकारिक अधिसूचना में निर्दिष्ट नहीं किया गया है।",
+      "howToApplyHindi": [
+        "सर्वप्रथम उत्तर प्रदेश पुलिस भर्ती एवं प्रोन्नति बोर्ड (UPPRPB) की आधिकारिक वेबसाइट पर जाएं।",
+        "वेबसाइट के होमपेज पर 'UP Police Constable & SI Recruitment 2026' संबंधित लिंक पर क्लिक करें।",
+        "अपनी मूलभूत जानकारी जैसे नाम, मोबाइल नंबर और ईमेल आईडी दर्ज कर नया पंजीकरण (Registration) करें।",
+        "पंजीकरण के बाद प्राप्त लॉगिन आईडी और पासवर्ड का उपयोग करके आवेदन फॉर्म में व्यक्तिगत व शैक्षणिक विवरण ध्यानपूर्वक भरें।",
+        "निर्धारित प्रारूप और आकार में अपना पासपोर्ट साइज फोटो, हस्ताक्षर एवं आवश्यक दस्तावेज अपलोड करें।",
+        "यदि लागू हो तो निर्धारित आवेदन शुल्क का भुगतान ऑनलाइन माध्यम (नेट बैंकिंग/डेबिट कार्ड/यूपीआई) से करें।",
+        "फॉर्म को अंतिम रूप से सबमिट करने से पहले सभी प्रविष्टियों की पुनः जांच करें और भविष्य के संदर्भ हेतु फाइनल प्रिंटआउट सुरक्षित रख लें।"
+      ],
+      "importantDocumentsHindi": [
+        "10वीं (हाईस्कूल) की अंकतालिका एवं प्रमाण पत्र (जन्म तिथि सत्यापन हेतु)",
+        "12वीं (इंटरमीडिएट) की अंकतालिका एवं प्रमाण पत्र (कांस्टेबल पद हेतु)",
+        "स्नातक (Graduation) की डिग्री/अंकतालिका (सब-इंस्पेक्टर पद हेतु)",
+        "पहचान पत्र (आधार कार्ड/पैन कार्ड/वोटर आईडी)",
+        "हाल ही में खींची गई पासपोर्ट साइज रंगीन फोटो",
+        "उम्मीदवार के स्पष्ट हस्ताक्षर",
+        "सक्रिय मोबाइल नंबर और वैध ईमेल आईडी"
+      ],
+      "importantLinks": [
+        {
+          "title": "आधिकारिक भर्ती अधिसूचना (Official PDF)",
+          "url": "Not specified in official notification",
+          "isOfficial": true
+        },
+        {
+          "title": "ऑनलाइन आवेदन पोर्टल (Apply Online)",
+          "url": "Not specified in official notification",
+          "isOfficial": true
+        },
+        {
+          "title": "आधिकारिक विभाग वेबसाइट",
+          "url": "https://uppbpb.gov.in",
+          "isOfficial": true
+        }
+      ],
+      "officialNoticeSource": "Official Notification Advt No. Not specified in official notification issued by Uttar Pradesh Police Recruitment & Promotion Board",
+      "faqs": [
+        {
+          "question": "यूपी पुलिस भर्ती 2026 में कुल कितने पदों पर भर्ती हो रही है?",
+          "answer": "इस भर्ती अभियान के तहत कांस्टेबल और सब-इंस्पेक्टर के कुल 25,000 रिक्त पदों पर भर्ती की जाएगी।"
+        },
+        {
+          "question": "ऑनलाइन आवेदन कब से शुरू होंगे और अंतिम तिथि क्या है?",
+          "answer": "ऑनलाइन आवेदन 1 अप्रैल 2026 से प्रारंभ होंगे और आवेदन की अंतिम तिथि 30 अप्रैल 2026 निर्धारित की गई है।"
+        },
+        {
+          "question": "कांस्टेबल और एसआई पदों के लिए शैक्षणिक योग्यता क्या है?",
+          "answer": "कांस्टेबल पद के लिए 12वीं पास और सब-इंस्पेक्टर (SI) पद के लिए किसी भी विषय में स्नातक (Graduation) होना अनिवार्य है।"
+        },
+        {
+          "question": "यूपी पुलिस 2026 की लिखित परीक्षा कब आयोजित की जाएगी?",
+          "answer": "भर्ती परीक्षा का आयोजन जुलाई 2026 में होना प्रस्तावित है।"
+        }
+      ],
+      "disclaimer": "यह लेख केवल सूचनात्मक मार्गदर्शन के उद्देश्य से तैयार किया गया है। अभ्यर्थियों को सलाह दी जाती है कि वे आवेदन करने से पहले उत्तर प्रदेश पुलिस भर्ती एवं प्रोन्नति बोर्ड (UPPRPB) की आधिकारिक वेबसाइट पर जारी होने वाली विस्तृत अधिसूचना के सभी नियमों, शर्तों और निर्देशों का भली-भांति अध्ययन अवश्य करें।",
+      "fullArticleMarkdown": "# यूपी पुलिस भर्ती 2026: कांस्टेबल और सब-इंस्पेक्टर के 25,000 पदों पर बंपर भर्ती, 1 अप्रैल से करें आवेदन\n\n## 1. भर्ती सारांश (Overview)\nउत्तर प्रदेश पुलिस भर्ती एवं प्रोन्नति बोर्ड (UPPRPB) ने राज्य के युवाओं के लिए एक सुनहरा अवसर प्रस्तुत करते हुए कांस्टेबल और सब-इंस्पेक्टर (SI) के कुल 25,000 पदों पर भर्ती प्रक्रिया की घोषणा की है। खाकी वर्दी पहनने और जनसेवा का सपना देख रहे अभ्यर्थियों के लिए यह एक अत्यंत महत्वपूर्ण भर्ती अभियान है। इस भर्ती के तहत योग्य उम्मीदवार 1 अप्रैल 2026 से 30 अप्रैल 2026 तक अपना ऑनलाइन आवेदन जमा कर सकेंगे।\n\nइस भर्ती में कांस्टेबल पद के लिए न्यूनतम 12वीं उत्तीर्ण और सब-इंस्पेक्टर पद के लिए स्नातक उत्तीर्ण युवा आवेदन करने के पात्र होंगे। चयन का प्रमुख आधार लिखित परीक्षा होगी, जिसका आयोजन जुलाई 2026 में किया जाना प्रस्तावित है। सभी इच्छुक एवं योग्य अभ्यर्थियों को सलाह दी जाती है कि वे निर्धारित तिथियों के भीतर अपना आवेदन पूरा करें और अभी से अपनी परीक्षा की तैयारी को सुदृढ़ करें।\n\n## 2. महत्वपूर्ण तिथियां (Important Dates)\n- **ऑनलाइन आवेदन प्रारंभ तिथि:** 1 अप्रैल 2026\n- **ऑनलाइन आवेदन की अंतिम तिथि:** 30 अप्रैल 2026\n- **आवेदन शुल्क भुगतान की अंतिम तिथि:** आधिकारिक अधिसूचना में निर्दिष्ट नहीं\n- **लिखित परीक्षा की संभावित तिथि:** जुलाई 2026\n\n## 3. पदों का विवरण एवं रिक्तियां (Vacancy Details)\nइस भर्ती अभियान के माध्यम से कुल 25,000 रिक्त पदों को भरा जाएगा। इनमें कांस्टेबल और सब-इंस्पेक्टर (SI) के पद शामिल हैं। पदवार एवं श्रेणीवार (सामान्य, ईडब्ल्यूएस, ओबीसी, एससी, एसटी) पदों के सटीक आवंटन की विस्तृत जानकारी आधिकारिक विस्तृत अधिसूचना में उपलब्ध कराई जाएगी।\n\n## 4. शैक्षणिक योग्यता (Eligibility Criteria)\nशैक्षणिक योग्यता:\n1. कांस्टेबल पद हेतु: उम्मीदवार का किसी भी मान्यता प्राप्त शिक्षा बोर्ड से 12वीं कक्षा (इंटरमीडिएट) या समकक्ष उत्तीर्ण होना अनिवार्य है।\n2. सब-इंस्पेक्टर (SI) पद हेतु: उम्मीदवार के पास किसी मान्यता प्राप्त विश्वविद्यालय या संस्थान से किसी भी विषय में स्नातक (Graduation) की डिग्री होनी चाहिए।\n\n## 5. आयु सीमा एवं छूट (Age Limit & Relaxations)\nउम्मीदवार की न्यूनतम आयु 18 वर्ष और अधिकतम आयु 25 वर्ष निर्धारित की गई है। आयु गणना की निर्णायक तिथि और आरक्षित वर्गों (ओबीसी, एससी, एसटी आदि) को ऊपरी आयु सीमा में मिलने वाली छूट का विवरण आधिकारिक अधिसूचना में निर्दिष्ट नहीं है।\n\n## 6. आवेदन शुल्क (Application Fee)\nवर्तमान में उपलब्ध आधिकारिक जानकारी के अनुसार आवेदन शुल्क (सामान्य, ओबीसी, ईडब्ल्यूएस, एससी, एसटी, महिला एवं दिव्यांग वर्ग) का विवरण आधिकारिक अधिसूचना में निर्दिष्ट नहीं किया गया है।\n\n## 7. चयन प्रक्रिया (Selection Process)\nइस भर्ती के अंतर्गत अभ्यर्थियों का चयन लिखित परीक्षा (Written Examination) के आधार पर किया जाएगा। लिखित परीक्षा में सफल अभ्यर्थियों को विभाग के आगामी चरणों के नियमों का पालन करना होगा।\n\n## 8. वेतनमान (Salary Details)\nकांस्टेबल एवं सब-इंस्पेक्टर पदों हेतु पे-मैट्रिक्स और वेतनमान का विस्तृत विवरण आधिकारिक अधिसूचना में निर्दिष्ट नहीं किया गया है।\n\n## 9. आवेदन कैसे करें (How to Apply)\n1. सर्वप्रथम उत्तर प्रदेश पुलिस भर्ती एवं प्रोन्नति बोर्ड (UPPRPB) की आधिकारिक वेबसाइट पर जाएं।\n2. वेबसाइट के होमपेज पर 'UP Police Constable & SI Recruitment 2026' संबंधित लिंक पर क्लिक करें।\n3. अपनी मूलभूत जानकारी जैसे नाम, मोबाइल नंबर और ईमेल आईडी दर्ज कर नया पंजीकरण (Registration) करें।\n4. पंजीकरण के बाद प्राप्त लॉगिन आईडी और पासवर्ड का उपयोग करके आवेदन फॉर्म में व्यक्तिगत व शैक्षणिक विवरण ध्यानपूर्वक भरें।\n5. निर्धारित प्रारूप और आकार में अपना पासपोर्ट साइज फोटो, हस्ताक्षर एवं आवश्यक दस्तावेज अपलोड करें।\n6. यदि लागू हो तो निर्धारित आवेदन शुल्क का भुगतान ऑनलाइन माध्यम (नेट बैंकिंग/डेबिट कार्ड/यूपीआई) से करें।\n7. फॉर्म को अंतिम रूप से सबमिट करने से पहले सभी प्रविष्टियों की पुनः जांच करें और भविष्य के संदर्भ हेतु फाइनल प्रिंटआउट सुरक्षित रख लें।\n\n## 10. अस्वीकरण (Disclaimer)\nयह लेख केवल सूचनात्मक मार्गदर्शन के उद्देश्य से तैयार किया गया है। अभ्यर्थियों को सलाह दी जाती है कि वे आवेदन करने से पहले उत्तर प्रदेश पुलिस भर्ती एवं प्रोन्नति बोर्ड (UPPRPB) की आधिकारिक वेबसाइट पर जारी होने वाली विस्तृत अधिसूचना के सभी नियमों, शर्तों और निर्देशों का भली-भांति अध्ययन अवश्य करें।",
+      "generatedAt": "2026-10-15T11:25:50.524Z",
+      "updatedAt": "2026-10-15T11:25:50.524Z"
+    }
+  },
+  {
+    "id": "notice-ssc-cgl-2026",
+    "sourceId": "src-ssc-gov",
+    "sourceName": "Staff Selection Commission (SSC)",
+    "sourceUrl": "https://ssc.gov.in/candidate-portal/latest-news",
+    "noticeTitle": "Combined Graduate Level Examination (CGL) 2026 Notification",
+    "noticeDate": "2026-03-01",
+    "advtNo": "SSC-HQ-CGL/2026",
+    "documentUrl": "https://ssc.gov.in/notice-cgl-2026.pdf",
+    "documentHash": "sha256-ssc-cgl-2026-v1",
+    "detectedAt": "2026-10-15T09:24:31.939Z",
+    "status": "published",
+    "retryCount": 0,
+    "lastProcessedAt": "2026-10-15T09:34:31.939Z",
+    "extractedData": {
+      "recruitmentTitle": "SSC Combined Graduate Level (CGL) Examination 2026",
+      "organization": "Staff Selection Commission (SSC)",
+      "shortOrg": "SSC",
+      "advtNo": "SSC-HQ-CGL/2026",
+      "sector": "ssc",
+      "categoryType": "latest-jobs",
+      "postNames": [
+        "Assistant Section Officer",
+        "Inspector of Income Tax",
+        "Sub-Inspector CBI",
+        "Auditor",
+        "Tax Assistant"
+      ],
+      "vacancies": 14582,
+      "categoryBreakdown": {
+        "ur": 6120,
+        "obc": 3890,
+        "ews": 1450,
+        "sc": 2122,
+        "st": 1000,
+        "total": 14582
+      },
+      "importantDates": {
+        "startDate": "2026-03-01",
+        "lastDate": "2026-03-31",
+        "feeLastDate": "2026-04-01",
+        "examDate": "June - July 2026",
+        "admitCardDate": "May 2026",
+        "resultDate": "August 2026"
+      },
+      "qualification": "Bachelor's Degree in Any Discipline from a recognized University or Institute",
+      "qualificationLevel": "graduate",
+      "ageLimit": {
+        "min": 18,
+        "max": 30,
+        "asOfDate": "01/08/2026",
+        "relaxation": "OBC: 3 Years, SC/ST: 5 Years, PwBD: 10 Years, Ex-Servicemen: 3 Years"
+      },
+      "applicationFee": {
+        "genObcEws": 100,
+        "scStPh": 0,
+        "female": 0,
+        "paymentModes": "BHIM UPI, Net Banking, Visa, MasterCard, Maestro, RuPay Credit or Debit cards"
+      },
+      "selectionProcess": [
+        "Tier-I Computer Based Examination",
+        "Tier-II Computer Based Examination",
+        "Data Entry Skill Test (DEST)",
+        "Document Verification"
+      ],
+      "payScale": "Level-4 to Level-8 (Rs. 25,500 to Rs. 1,51,100/-)",
+      "applicationInstructions": "Apply online strictly through the official website ssc.gov.in using OTR (One Time Registration).",
+      "officialNotificationUrl": "https://ssc.gov.in/notice-cgl-2026.pdf",
+      "officialApplicationUrl": "https://ssc.gov.in",
+      "state": "All India",
+      "confidenceScore": 96,
+      "verificationFlags": [],
+      "rawTextExcerpt": "Staff Selection Commission will hold Combined Graduate Level Examination, 2026 for filling up of various Group B and Group C posts in different Ministries/Departments/Organizations of Government of India.",
+      "sourcePublicationDate": "2026-03-01",
+      "lastVerifiedDate": "2026-10-15T11:24:31.939Z"
+    },
+    "hindiArticle": {
+      "id": "art-ssc-cgl-2026",
+      "title": "एसएससी सीजीएल 2026 आधिकारिक अधिसूचना जारी: 14,582 पदों पर भर्ती, जानें योग्यता, तिथियां व आवेदन प्रक्रिया",
+      "slug": "ssc-cgl-recruitment-2026-notification-in-hindi",
+      "metaDescription": "एसएससी सीजीएल 2026 भर्ती अधिसूचना जारी कर दी गई है। स्नातक पास उम्मीदवार 14,582 विभिन्न ग्रुप बी और सी पदों के लिए ssc.gov.in पर ऑनलाइन आवेदन कर सकते हैं।",
+      "overview": "कर्मचारी चयन आयोग (SSC) ने कंबाइंड ग्रेजुएट लेवल (CGL) 2026 परीक्षा के लिए विस्तृत आधिकारिक विज्ञापन जारी कर दिया है। इस भर्ती अभियान के माध्यम से भारत सरकार के विभिन्न मंत्रालयों एवं विभागों में 14,582 पदों पर योग्य उम्मीदवारों का चयन किया जाएगा।",
+      "importantDatesHindi": [
+        {
+          "label": "ऑनलाइन आवेदन प्रारंभ",
+          "date": "01 मार्च 2026"
+        },
+        {
+          "label": "आवेदन की अंतिम तिथि",
+          "date": "31 मार्च 2026 (रात 11:00 बजे तक)"
+        },
+        {
+          "label": "शुल्क भुगतान की अंतिम तिथि",
+          "date": "01 अप्रैल 2026"
+        },
+        {
+          "label": "टीयर-1 सीबीटी परीक्षा तिथि",
+          "date": "जून - जुलाई 2026 (प्रस्तावित)"
+        }
+      ],
+      "vacancyDetailsHindi": "कुल 14,582 पदों में अनारक्षित (UR): 6,120, ओबीसी: 3,890, ईडब्ल्यूएस: 1,450, एससी: 2,122 तथा एसटी वर्ग के लिए 1,000 पद आरक्षित हैं। प्रमुख पदों में असिस्टेंट सेक्शन ऑफिसर, इनकम टैक्स इंस्पेक्टर, सब-इंस्पेक्टर (CBI) एवं टैक्स असिस्टेंट शामिल हैं।",
+      "eligibilityCriteriaHindi": "मान्यता प्राप्त विश्वविद्यालय से किसी भी संकाय में स्नातक (Graduation) डिग्री उत्तीर्ण होना अनिवार्य है। अंतिम वर्ष के अभ्यर्थी भी निर्धारित कट-ऑफ तिथि के अधीन आवेदन कर सकते हैं।",
+      "ageLimitHindi": "न्यूनतम आयु 18 वर्ष तथा अधिकतम आयु 30 वर्ष (पद के अनुसार)। आरक्षित वर्गों को सरकारी नियमानुसार छूट प्रदान की जाएगी: ओबीसी को 3 वर्ष, एससी/एसटी को 5 वर्ष तथा दिव्यांगजनों को 10 वर्ष की छूट।",
+      "applicationFeeHindi": "सामान्य, ओबीसी एवं ईडब्ल्यूएस वर्ग के पुरुष उम्मीदवारों के लिए आवेदन शुल्क मात्र 100 रुपये है। सभी महिला उम्मीदवारों एवं एससी, एसटी, दिव्यांग अभ्यर्थियों को आवेदन शुल्क से पूर्ण छूट प्रदान की गई है।",
+      "selectionProcessHindi": "चयन प्रक्रिया दो चरणों में संपन्न होगी: (1) टीयर-I सीबीटी परीक्षा, (2) टीयर-II मुख्य सीबीटी परीक्षा एवं कंप्यूटर टाइपिंग दक्षता परीक्षण (DEST), इसके बाद दस्तावेज सत्यापन किया जाएगा।",
+      "salaryHindi": "सातवें वेतन आयोग (7th CPC) के तहत पे-लेवल 4 से पे-लेवल 8 तक (लगभग ₹25,500 से ₹1,51,100 प्रतिमाह + भत्ते)।",
+      "howToApplyHindi": [
+        "सर्वप्रथम एसएससी की आधिकारिक वेबसाइट ssc.gov.in पर जाएं।",
+        "यदि आपने पूर्व में ओटीआर (OTR) नहीं किया है, तो \"New User? Register Now\" पर क्लिक करके पंजीकरण पूरा करें।",
+        "अपने लॉगिन क्रेडेंशियल्स दर्ज कर CGL 2026 एप्लिकेशन लिंक पर क्लिक करें।",
+        "व्यक्तिगत एवं शैक्षणिक विवरण ध्यानपूर्वक भरें तथा लाइव वेबकैम फोटो एवं हस्ताक्षर अपलोड करें।",
+        "निर्धारित परीक्षा शुल्क का भुगतान ऑनलाइन माध्यम से करें और अंतिम सबमिट किए गए आवेदन पत्र का प्रिंटआउट सुरक्षित रखें।"
+      ],
+      "importantDocumentsHindi": [
+        "10वीं एवं 12वीं की अंकतालिका व प्रमाण पत्र",
+        "स्नातक अंतिम वर्ष की डिग्री या प्रोविजनल सर्टिफिकेट",
+        "आधार कार्ड या सरकार द्वारा मान्य वैध फोटो पहचान पत्र",
+        "आरक्षण का लाभ लेने हेतु जाति / ईडब्ल्यूएस / दिव्यांगता प्रमाण पत्र"
+      ],
+      "importantLinks": [
+        {
+          "title": "आधिकारिक भर्ती अधिसूचना (PDF)",
+          "url": "https://ssc.gov.in/notice-cgl-2026.pdf",
+          "isOfficial": true
+        },
+        {
+          "title": "ऑनलाइन आवेदन पोर्टल (SSC OTR)",
+          "url": "https://ssc.gov.in",
+          "isOfficial": true
+        }
+      ],
+      "officialNoticeSource": "Staff Selection Commission Official Gazette Notice No. SSC-HQ-CGL/2026",
+      "faqs": [
+        {
+          "question": "एसएससी सीजीएल 2026 के लिए आवेदन की अंतिम तिथि क्या है?",
+          "answer": "आवेदन करने की अंतिम तिथि 31 मार्च 2026 रात 11:00 बजे तक निर्धारित है।"
+        },
+        {
+          "question": "क्या अंतिम वर्ष के छात्र आवेदन कर सकते हैं?",
+          "answer": "हाँ, बशर्ते परिणाम अधिसूचना में निर्धारित कट-ऑफ तारीख से पूर्व घोषित हो चुका हो।"
+        }
+      ],
+      "disclaimer": "यह भर्ती विवरण केवल परीक्षार्थियों के मार्गदर्शन हेतु तैयार किया गया है। नियम, पात्रता व शर्तों की पूर्ण सत्यता के लिए आधिकारिक अधिसूचना अवश्य पढ़ें।",
+      "fullArticleMarkdown": "# एसएससी सीजीएल 2026 आधिकारिक भर्ती अधिसूचना\n\nकर्मचारी चयन आयोग (SSC) ने कंबाइंड ग्रेजुएट लेवल (CGL) 2026 के लिए 14,582 पदों पर भर्ती जारी की है।",
+      "generatedAt": "2026-10-15T09:39:31.939Z",
+      "updatedAt": "2026-10-15T09:39:31.939Z"
+    },
+    "publishedJobId": "job-auto-1792063488014"
+  },
+  {
+    "id": "notice-rrb-ntpc-2026",
+    "sourceId": "src-rrb-gov",
+    "sourceName": "Railway Recruitment Boards (RRB Central)",
+    "sourceUrl": "https://www.rrbapply.gov.in/",
+    "noticeTitle": "CEN 04/2026 Non-Technical Popular Categories (NTPC) Graduate & Under Graduate Posts",
+    "noticeDate": "2026-02-28",
+    "advtNo": "CEN 04/2026",
+    "documentUrl": "https://www.rrbapply.gov.in/notices/cen-04-2026-ntpc.pdf",
+    "documentHash": "sha256-rrb-ntpc-2026-v1",
+    "detectedAt": "2026-10-15T08:24:31.939Z",
+    "status": "verification-required",
+    "retryCount": 0,
+    "lastProcessedAt": "2026-10-15T08:34:31.939Z",
+    "extractedData": {
+      "recruitmentTitle": "RRB NTPC (Graduate & Undergraduate) Recruitment 2026",
+      "organization": "Railway Recruitment Boards (Ministry of Railways)",
+      "shortOrg": "RRB",
+      "advtNo": "CEN 04/2026",
+      "sector": "railways",
+      "categoryType": "latest-jobs",
+      "postNames": [
+        "Station Master",
+        "Goods Train Manager",
+        "Junior Account Assistant",
+        "Senior Clerk Cum Typist",
+        "Commercial Apprentice"
+      ],
+      "vacancies": 11558,
+      "categoryBreakdown": {
+        "ur": 4620,
+        "obc": 3120,
+        "ews": 1150,
+        "sc": 1730,
+        "st": 938,
+        "total": 11558
+      },
+      "importantDates": {
+        "startDate": "2026-02-28",
+        "lastDate": "2026-03-22",
+        "feeLastDate": "2026-03-24",
+        "examDate": "August - September 2026",
+        "admitCardDate": "July 2026"
+      },
+      "qualification": "12th Pass for Under Graduate Posts / Degree from Recognized University for Graduate Posts",
+      "qualificationLevel": "graduate",
+      "ageLimit": {
+        "min": 18,
+        "max": 33,
+        "asOfDate": "01/07/2026",
+        "relaxation": "OBC: 3 Years, SC/ST: 5 Years"
+      },
+      "applicationFee": {
+        "genObcEws": 500,
+        "scStPh": 250,
+        "female": 250,
+        "paymentModes": "Online Banking, UPI, Cards (Partial refund after CBT-1)"
+      },
+      "selectionProcess": [
+        "1st Stage CBT",
+        "2nd Stage CBT",
+        "CBAT/Typing Skill Test",
+        "Document Verification & Medical Exam"
+      ],
+      "payScale": "Level-2 to Level-6 (7th CPC)",
+      "applicationInstructions": "Submit applications only through rrbapply.gov.in.",
+      "officialNotificationUrl": "https://www.rrbapply.gov.in/notices/cen-04-2026-ntpc.pdf",
+      "officialApplicationUrl": "https://www.rrbapply.gov.in/",
+      "state": "All India",
+      "confidenceScore": 84,
+      "verificationFlags": [
+        "Tentative exam date window pending zone-wise roster confirmation",
+        "Undergraduate and graduate post bifurcation requires regional verification"
+      ],
+      "sourcePublicationDate": "2026-02-28",
+      "lastVerifiedDate": "2026-10-15T11:24:31.939Z"
+    }
+  }
+]

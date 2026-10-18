@@ -1,0 +1,8 @@
+{
+  "name": "SarkariPortal",
+  "description": "Professional government job search portal featuring real-time notification alerts, vacancy tracking, and filterable categories for UPSC, SSC, Railways, Banking, Defence, and State PSCs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
